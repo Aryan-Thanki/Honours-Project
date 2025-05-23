@@ -1,0 +1,13 @@
+{
+  "name": "ios-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "iosScrape.js",
+  "scripts": {
+    "start": "node iosScrape.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

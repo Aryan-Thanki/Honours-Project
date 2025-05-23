@@ -1,0 +1,13 @@
+{
+  "name": "play-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "playScrape.js",
+  "scripts": {
+    "start": "node playScrape.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

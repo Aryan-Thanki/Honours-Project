@@ -1,0 +1,3794 @@
+[
+  {
+    "appId": "com.openai.chat",
+    "title": "ChatGPT",
+    "updated": "2025-05-18T14:17:04.000Z",
+    "score": 4.8691,
+    "appVersion": "1.2025.133",
+    "developer": "OpenAI"
+  },
+  {
+    "appId": "com.burbn.barcelona",
+    "title": "Threads",
+    "updated": "2025-05-17T20:00:18.000Z",
+    "score": 4.60181,
+    "appVersion": "381.0",
+    "developer": "Instagram, Inc."
+  },
+  {
+    "appId": "com.google.GoogleMobile",
+    "title": "Google",
+    "updated": "2025-05-22T01:00:36.000Z",
+    "score": 4.63478,
+    "appVersion": "369.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "net.whatsapp.WhatsApp",
+    "title": "WhatsApp Messenger",
+    "updated": "2025-05-21T20:13:23.000Z",
+    "score": 4.69018,
+    "appVersion": "25.16.7",
+    "developer": "WhatsApp Inc."
+  },
+  {
+    "appId": "com.google.gemini",
+    "title": "Google Gemini",
+    "updated": "2025-05-16T22:00:18.000Z",
+    "score": 4.77552,
+    "appVersion": "1.2025.1870003",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.indeed.JobSearch",
+    "title": "Indeed Job Search",
+    "updated": "2025-05-20T09:36:15.000Z",
+    "score": 4.78253,
+    "appVersion": "262.0",
+    "developer": "Indeed Inc."
+  },
+  {
+    "appId": "com.lemon.lvoverseas",
+    "title": "CapCut - Video Editor",
+    "updated": "2025-04-29T03:18:35.000Z",
+    "score": 4.69313,
+    "appVersion": "14.2.0",
+    "developer": "Bytedance Pte. Ltd"
+  },
+  {
+    "appId": "com.zhiliaoapp.musically",
+    "title": "TikTok",
+    "updated": "2025-05-08T22:21:08.000Z",
+    "score": 4.74272,
+    "appVersion": "39.7.0",
+    "developer": "TikTok Ltd."
+  },
+  {
+    "appId": "com.google.Maps",
+    "title": "Google Maps",
+    "updated": "2025-05-15T21:35:53.000Z",
+    "score": 4.67544,
+    "appVersion": "25.20.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.wikibuy.prod.main",
+    "title": "Capital One Shopping: Save Now",
+    "updated": "2025-05-06T21:11:55.000Z",
+    "score": 4.86632,
+    "appVersion": "2.85.0",
+    "developer": "Wikibuy, LLC"
+  },
+  {
+    "appId": "com.google.Gmail",
+    "title": "Gmail - Email by Google",
+    "updated": "2025-05-14T18:13:14.000Z",
+    "score": 4.71635,
+    "appVersion": "6.0.250504",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.burbn.instagram",
+    "title": "Instagram",
+    "updated": "2025-05-21T23:26:50.000Z",
+    "score": 4.69073,
+    "appVersion": "381.1.0",
+    "developer": "Instagram, Inc."
+  },
+  {
+    "appId": "ph.telegra.Telegraph",
+    "title": "Telegram Messenger",
+    "updated": "2025-05-21T13:09:50.000Z",
+    "score": 4.02745,
+    "appVersion": "11.11.2",
+    "developer": "Telegram FZ-LLC"
+  },
+  {
+    "appId": "com.ticketmaster.ios.TicketmasterApp",
+    "title": "Ticketmaster－Buy, Sell Tickets",
+    "updated": "2025-05-19T16:11:03.000Z",
+    "score": 4.78779,
+    "appVersion": "264.0",
+    "developer": "Ticketmaster"
+  },
+  {
+    "appId": "com.microsoft.skype.teams",
+    "title": "Microsoft Teams",
+    "updated": "2025-05-19T23:07:17.000Z",
+    "score": 4.80158,
+    "appVersion": "7.8.2",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.microsoft.azureauthenticator",
+    "title": "Microsoft Authenticator",
+    "updated": "2025-05-21T14:30:49.000Z",
+    "score": 4.75096,
+    "appVersion": "6.8.26",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.wbd.stream",
+    "title": "Max: Stream HBO, TV, & Movies",
+    "updated": "2025-05-21T15:02:08.000Z",
+    "score": 4.8654,
+    "appVersion": "5.14.0",
+    "developer": "WarnerMedia Global Digital Services, LLC"
+  },
+  {
+    "appId": "com.jadedlabs.arrive",
+    "title": "Shop: All your favorite brands",
+    "updated": "2025-05-19T14:43:16.000Z",
+    "score": 4.8228,
+    "appVersion": "2.203.0",
+    "developer": "Shopify Inc."
+  },
+  {
+    "appId": "zzkko.com.ZZKKO",
+    "title": "SHEIN - Shopping Online",
+    "updated": "2025-05-15T18:15:11.000Z",
+    "score": 4.58974,
+    "appVersion": "12.7.8",
+    "developer": "ROADGET BUSINESS PTE. LTD."
+  },
+  {
+    "appId": "com.whatnot",
+    "title": "Whatnot: Shop, Sell, Connect",
+    "updated": "2025-05-19T18:48:11.000Z",
+    "score": 4.7737,
+    "appVersion": "25.21.0",
+    "developer": "Whatnot Inc."
+  },
+  {
+    "appId": "com.canva.canvaeditor",
+    "title": "Canva: AI Photo & Video Editor",
+    "updated": "2025-05-14T02:00:49.000Z",
+    "score": 4.88239,
+    "appVersion": "4.159.0",
+    "developer": "Canva"
+  },
+  {
+    "appId": "com.squareup.cash",
+    "title": "Cash App: Mobile Banking",
+    "updated": "2025-05-19T17:22:29.000Z",
+    "score": 4.78789,
+    "appVersion": "5.0",
+    "developer": "Block, Inc."
+  },
+  {
+    "appId": "ai.x.GrokApp",
+    "title": "Grok",
+    "updated": "2025-05-22T04:26:57.000Z",
+    "score": 4.93646,
+    "appVersion": "1.0.96",
+    "developer": "xAI"
+  },
+  {
+    "appId": "com.spotify.client",
+    "title": "Spotify: Music and Podcasts",
+    "updated": "2025-05-22T06:20:41.000Z",
+    "score": 4.7876,
+    "appVersion": "9.0.44",
+    "developer": "Spotify"
+  },
+  {
+    "appId": "com.planetfitness.lunkinator",
+    "title": "Planet Fitness",
+    "updated": "2025-05-14T14:28:07.000Z",
+    "score": 4.86205,
+    "appVersion": "9.10.1",
+    "developer": "Planet Fitness Holdings, LLC"
+  },
+  {
+    "appId": "com.airbnb.app",
+    "title": "Airbnb",
+    "updated": "2025-05-22T11:50:00.000Z",
+    "score": 4.76741,
+    "appVersion": "25.21",
+    "developer": "Airbnb, Inc."
+  },
+  {
+    "appId": "com.facebook.Facebook",
+    "title": "Facebook",
+    "updated": "2025-05-17T12:00:56.000Z",
+    "score": 4.47888,
+    "appVersion": "513.1",
+    "developer": "Meta Platforms, Inc."
+  },
+  {
+    "appId": "com.microsoft.Office.Outlook",
+    "title": "Microsoft Outlook",
+    "updated": "2025-05-19T18:01:20.000Z",
+    "score": 4.79277,
+    "appVersion": "4.2519.0",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.yourcompany.PPClient",
+    "title": "PayPal - Pay, Send, Save",
+    "updated": "2025-05-07T23:43:29.000Z",
+    "score": 4.78439,
+    "appVersion": "8.84.1",
+    "developer": "PayPal, Inc."
+  },
+  {
+    "appId": "com.ubercab.UberClient",
+    "title": "Uber - Request a ride",
+    "updated": "2025-05-20T00:33:45.000Z",
+    "score": 4.89513,
+    "appVersion": "3.670.10001",
+    "developer": "Uber Technologies, Inc."
+  },
+  {
+    "appId": "doordash.DoorDashConsumer",
+    "title": "DoorDash - Food Delivery",
+    "updated": "2025-05-20T22:24:01.000Z",
+    "score": 4.77212,
+    "appVersion": "7.19.1",
+    "developer": "DoorDash, Inc."
+  },
+  {
+    "appId": "com.google.chrome.ios",
+    "title": "Google Chrome",
+    "updated": "2025-05-21T16:15:30.000Z",
+    "score": 4.67489,
+    "appVersion": "137.0.7151.34",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.walmart.electronics",
+    "title": "Walmart: Shopping & Savings",
+    "updated": "2025-05-17T16:09:57.000Z",
+    "score": 4.81937,
+    "appVersion": "25.18.2",
+    "developer": "Walmart"
+  },
+  {
+    "appId": "com.google.ios.youtube",
+    "title": "YouTube",
+    "updated": "2025-05-19T14:12:34.000Z",
+    "score": 4.67895,
+    "appVersion": "20.20.5",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.tmobile.tuesdays",
+    "title": "T-Life",
+    "updated": "2025-05-03T21:06:56.000Z",
+    "score": 4.79352,
+    "appVersion": "10.8",
+    "developer": "T-Mobile"
+  },
+  {
+    "appId": "com.amazon.Amazon",
+    "title": "Amazon Shopping",
+    "updated": "2025-05-16T22:21:28.000Z",
+    "score": 4.83453,
+    "appVersion": "25.10.0",
+    "developer": "AMZN Mobile LLC"
+  },
+  {
+    "appId": "com.hammerandchisel.discord",
+    "title": "Discord - Talk, Play, Hang Out",
+    "updated": "2025-05-20T22:28:20.000Z",
+    "score": 4.70754,
+    "appVersion": "280.0",
+    "developer": "Discord, Inc."
+  },
+  {
+    "appId": "com.life360.safetymap",
+    "title": "Life360: Stay Connected & Safe",
+    "updated": "2025-05-15T15:21:26.000Z",
+    "score": 4.76983,
+    "appVersion": "25.19.0",
+    "developer": "Life360"
+  },
+  {
+    "appId": "com.expedia.booking",
+    "title": "Expedia: Hotels, Flights, Cars",
+    "updated": "2025-05-21T12:47:15.000Z",
+    "score": 4.79159,
+    "appVersion": "2025.20",
+    "developer": "Expedia, Inc."
+  },
+  {
+    "appId": "com.google.Tachyon",
+    "title": "Google Meet",
+    "updated": "2025-05-19T16:55:54.000Z",
+    "score": 4.76267,
+    "appVersion": "307.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.mcdonalds.gma",
+    "title": "McDonald's",
+    "updated": "2025-05-16T19:16:27.000Z",
+    "score": 4.83685,
+    "appVersion": "9.104.3",
+    "developer": "McDonald's USA"
+  },
+  {
+    "appId": "us.zoom.videomeetings",
+    "title": "Zoom Workplace",
+    "updated": "2025-05-20T23:40:24.000Z",
+    "score": 4.64412,
+    "appVersion": "6.4.10",
+    "developer": "Zoom Communications, Inc."
+  },
+  {
+    "appId": "pinterest",
+    "title": "Pinterest",
+    "updated": "2025-05-21T19:34:18.000Z",
+    "score": 4.78608,
+    "appVersion": "13.19",
+    "developer": "Pinterest"
+  },
+  {
+    "appId": "com.netflix.Netflix",
+    "title": "Netflix",
+    "updated": "2025-05-19T15:14:00.000Z",
+    "score": 4.67624,
+    "appVersion": "17.32.0",
+    "developer": "Netflix, Inc."
+  },
+  {
+    "appId": "com.capitalone.enterprisemobilebanking",
+    "title": "Capital One Mobile",
+    "updated": "2025-05-08T21:05:24.000Z",
+    "score": 4.85084,
+    "appVersion": "6.24.1",
+    "developer": "Capital One"
+  },
+  {
+    "appId": "com.google.Drive",
+    "title": "Google Drive",
+    "updated": "2025-05-12T14:54:45.000Z",
+    "score": 4.77819,
+    "appVersion": "4.2519.11200",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.toyopagroup.picaboo",
+    "title": "Snapchat",
+    "updated": "2025-05-22T11:01:38.000Z",
+    "score": 4.68103,
+    "appVersion": "13.42.0.47",
+    "developer": "Snap, Inc."
+  },
+  {
+    "appId": "com.creditkarma.mobile",
+    "title": "Intuit Credit Karma",
+    "updated": "2025-05-20T20:57:52.000Z",
+    "score": 4.84319,
+    "appVersion": "25.20",
+    "developer": "Credit Karma, Inc."
+  },
+  {
+    "appId": "com.burbn.basel",
+    "title": "Edits, an Instagram app",
+    "updated": "2025-05-20T14:57:56.000Z",
+    "score": 4.61979,
+    "appVersion": "381.1",
+    "developer": "Instagram, Inc."
+  },
+  {
+    "appId": "com.google.Docs",
+    "title": "Google Docs",
+    "updated": "2025-05-22T13:35:36.000Z",
+    "score": 4.78486,
+    "appVersion": "1.2025.20200",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.newleaf.app.ios.vic",
+    "title": "ReelShort - Stream Drama & TV",
+    "updated": "2025-05-22T01:44:19.000Z",
+    "score": 4.19046,
+    "appVersion": "2.7.00",
+    "developer": "NewLeaf Publishing"
+  },
+  {
+    "appId": "com.basmo.BibleChat",
+    "title": "Bible Chat: Daily Devotional",
+    "updated": "2025-05-21T13:42:38.000Z",
+    "score": 4.9338,
+    "appVersion": "3.4.9",
+    "developer": "Bookvitals APP SRL"
+  },
+  {
+    "appId": "net.kortina.labs.Venmo",
+    "title": "Venmo",
+    "updated": "2025-05-14T08:15:28.000Z",
+    "score": 4.85652,
+    "appVersion": "10.65.0",
+    "developer": "Venmo"
+  },
+  {
+    "appId": "com.linkedin.LinkedIn",
+    "title": "LinkedIn: Network & Job Finder",
+    "updated": "2025-05-21T18:00:48.000Z",
+    "score": 4.73607,
+    "appVersion": "9.1.455",
+    "developer": "LinkedIn Corporation"
+  },
+  {
+    "appId": "com.duolingo.DuolingoMobile",
+    "title": "Duolingo - Language Lessons",
+    "updated": "2025-05-19T16:35:13.000Z",
+    "score": 4.73888,
+    "appVersion": "7.74.0",
+    "developer": "Duolingo"
+  },
+  {
+    "appId": "com.gauthmath.intelligence",
+    "title": "Gauth: AI Study Companion",
+    "updated": "2025-05-16T02:57:23.000Z",
+    "score": 4.83913,
+    "appVersion": "1.67.1",
+    "developer": "GAUTHTECH PTE. LTD."
+  },
+  {
+    "appId": "com.roku.ios.roku",
+    "title": "The Roku App (Official)",
+    "updated": "2025-05-16T14:56:38.000Z",
+    "score": 4.75107,
+    "appVersion": "12.5.2",
+    "developer": "ROKU INC"
+  },
+  {
+    "appId": "com.microsoft.officemobile",
+    "title": "Microsoft 365 Copilot",
+    "updated": "2025-05-19T14:54:47.000Z",
+    "score": 4.74189,
+    "appVersion": "2.97.1",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.amazon.aiv.AIVApp",
+    "title": "Amazon Prime Video",
+    "updated": "2025-05-19T11:06:08.000Z",
+    "score": 4.77152,
+    "appVersion": "10.76",
+    "developer": "AMZN Mobile LLC"
+  },
+  {
+    "appId": "com.adrise.tubitv",
+    "title": "Tubi: Movies & Live TV",
+    "updated": "2025-05-20T23:26:29.000Z",
+    "score": 4.76184,
+    "appVersion": "9.17.0",
+    "developer": "Tubi, Inc"
+  },
+  {
+    "appId": "com.epic.mychart",
+    "title": "MyChart",
+    "updated": "2025-05-19T14:12:16.000Z",
+    "score": 4.61367,
+    "appVersion": "11.4.1",
+    "developer": "Epic"
+  },
+  {
+    "appId": "com.booking.BookingApp",
+    "title": "Booking.com: Hotels & Travel",
+    "updated": "2025-05-19T12:36:44.000Z",
+    "score": 4.82451,
+    "appVersion": "56.6",
+    "developer": "Booking.com"
+  },
+  {
+    "appId": "com.atebits.Tweetie2",
+    "title": "X",
+    "updated": "2025-05-12T20:30:17.000Z",
+    "score": 4.58859,
+    "appVersion": "10.97.1",
+    "developer": "X Corp."
+  },
+  {
+    "appId": "com.disney.disneyplus",
+    "title": "Disney+",
+    "updated": "2025-05-14T20:13:18.000Z",
+    "score": 4.61508,
+    "appVersion": "4.4.0",
+    "developer": "Disney"
+  },
+  {
+    "appId": "com.google.Sheets",
+    "title": "Google Sheets",
+    "updated": "2025-05-22T13:35:56.000Z",
+    "score": 4.80482,
+    "appVersion": "1.2025.20200",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.zimride.instant",
+    "title": "Lyft",
+    "updated": "2025-05-19T17:32:13.000Z",
+    "score": 4.91763,
+    "appVersion": "2025.18.3",
+    "developer": "Lyft, Inc."
+  },
+  {
+    "appId": "com.newreading.goodreels",
+    "title": "GoodShort - Movies & Dramas",
+    "updated": "2025-05-22T04:42:30.000Z",
+    "score": 4.90225,
+    "appVersion": "2.0.3",
+    "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD."
+  },
+  {
+    "appId": "com.doordash.dasher",
+    "title": "DoorDash - Dasher",
+    "updated": "2025-05-21T21:55:46.000Z",
+    "score": 4.69153,
+    "appVersion": "2.375.1",
+    "developer": "DoorDash, Inc."
+  },
+  {
+    "appId": "tv.twitch",
+    "title": "Twitch: Live Streaming",
+    "updated": "2025-05-19T16:28:41.000Z",
+    "score": 4.71624,
+    "appVersion": "24.5",
+    "developer": "Twitch Interactive, Inc."
+  },
+  {
+    "appId": "com.groupme.iphone-app",
+    "title": "GroupMe",
+    "updated": "2025-05-02T17:59:07.000Z",
+    "score": 4.72243,
+    "appVersion": "7.100",
+    "developer": "Skype Communications S.a.r.l"
+  },
+  {
+    "appId": "com.hulu.plus",
+    "title": "Hulu: Stream TV shows & movies",
+    "updated": "2025-05-19T17:20:58.000Z",
+    "score": 4.58859,
+    "appVersion": "9.8.0",
+    "developer": "Hulu, LLC"
+  },
+  {
+    "appId": "com.storymatrix.drama",
+    "title": "DramaBox - Stream Drama Shorts",
+    "updated": "2025-05-21T02:12:34.000Z",
+    "score": 4.78979,
+    "appVersion": "3.6.0",
+    "developer": "STORYMATRIX PTE. LTD."
+  },
+  {
+    "appId": "com.cbsvideo.app",
+    "title": "Paramount+",
+    "updated": "2025-05-12T14:07:58.000Z",
+    "score": 4.6139,
+    "appVersion": "15.0.58",
+    "developer": "CBS Interactive"
+  },
+  {
+    "appId": "com.google.photos",
+    "title": "Google Photos: Backup & Edit",
+    "updated": "2025-05-15T21:22:40.000Z",
+    "score": 4.63771,
+    "appVersion": "7.29.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.aa.AmericanAirlines",
+    "title": "American Airlines",
+    "updated": "2025-05-12T15:15:07.000Z",
+    "score": 4.67451,
+    "appVersion": "2025.10",
+    "developer": "American Airlines"
+  },
+  {
+    "appId": "com.bd.nproject",
+    "title": "Lemon8 - Lifestyle Community",
+    "updated": "2025-05-14T03:30:24.000Z",
+    "score": 4.46326,
+    "appVersion": "8.7.5",
+    "developer": "TikTok Ltd."
+  },
+  {
+    "appId": "com.klarna.app",
+    "title": "Klarna | Shop now. Pay later.",
+    "updated": "2025-05-19T20:37:22.000Z",
+    "score": 4.83737,
+    "appVersion": "25.20.252",
+    "developer": "Klarna Bank AB"
+  },
+  {
+    "appId": "com.google.Translate",
+    "title": "Google Translate",
+    "updated": "2025-05-19T18:39:52.000Z",
+    "score": 4.30398,
+    "appVersion": "9.8.011",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.ebay.iphone",
+    "title": "eBay online shopping & selling",
+    "updated": "2025-05-17T18:00:32.000Z",
+    "score": 4.81918,
+    "appVersion": "6.209.0",
+    "developer": "eBay Inc."
+  },
+  {
+    "appId": "com.tacobell.ARgame",
+    "title": "Taco Bell Fast Food & Delivery",
+    "updated": "2025-05-20T22:04:43.000Z",
+    "score": 4.67565,
+    "appVersion": "8.69.0",
+    "developer": "Taco Bell"
+  },
+  {
+    "appId": "com.zillow.ZillowMap",
+    "title": "Zillow Real Estate & Rentals",
+    "updated": "2025-05-19T18:26:44.000Z",
+    "score": 4.80112,
+    "appVersion": "2025.20.0",
+    "developer": "Zillow.com"
+  },
+  {
+    "appId": "com.zellepay.zelle",
+    "title": "Zelle®",
+    "updated": "2025-05-05T13:13:28.000Z",
+    "score": 4.7548,
+    "appVersion": "9.3.2",
+    "developer": "Early Warning Services, LLC"
+  },
+  {
+    "appId": "com.united.UnitedCustomerFacingIPhone",
+    "title": "United Airlines",
+    "updated": "2025-05-15T18:54:15.000Z",
+    "score": 4.77426,
+    "appVersion": "4.2.37",
+    "developer": "United Airlines"
+  },
+  {
+    "appId": "com.delta.iphone.ver1",
+    "title": "Fly Delta",
+    "updated": "2025-05-20T02:12:56.000Z",
+    "score": 4.84242,
+    "appVersion": "7.0.2",
+    "developer": "Delta Air Lines, Inc."
+  },
+  {
+    "appId": "yuca.scanner",
+    "title": "Yuka - Food & Cosmetic Scanner",
+    "updated": "2025-05-22T05:00:32.000Z",
+    "score": 4.8169,
+    "appVersion": "4.61",
+    "developer": "Yuca"
+  },
+  {
+    "appId": "com.vrbo.traveler",
+    "title": "Vrbo Vacation Rentals",
+    "updated": "2025-05-20T11:51:52.000Z",
+    "score": 4.83329,
+    "appVersion": "2025.20",
+    "developer": "HomeAway.com, Inc."
+  },
+  {
+    "appId": "com.tickpick.tickpickapp",
+    "title": "TickPick: No Fee Tickets",
+    "updated": "2025-05-21T05:23:21.000Z",
+    "score": 4.84242,
+    "appVersion": "5.0.23",
+    "developer": "TickPick"
+  },
+  {
+    "appId": "com.myfitnesspal.mfp",
+    "title": "MyFitnessPal: Calorie Counter",
+    "updated": "2025-05-21T19:58:23.000Z",
+    "score": 4.70851,
+    "appVersion": "25.20.1",
+    "developer": "MyFitnessPal, Inc."
+  },
+  {
+    "appId": "com.mlb.AtTheBallpark",
+    "title": "MLB Ballpark",
+    "updated": "2025-05-21T17:12:16.000Z",
+    "score": 4.67317,
+    "appVersion": "14.2.0",
+    "developer": "MLB"
+  },
+  {
+    "appId": "com.starbucks.mystarbucks",
+    "title": "Starbucks",
+    "updated": "2025-05-15T18:02:15.000Z",
+    "score": 4.877,
+    "appVersion": "6.97.1",
+    "developer": "Starbucks Coffee Company"
+  },
+  {
+    "appId": "com.facebook.Messenger",
+    "title": "Messenger",
+    "updated": "2025-05-20T16:00:45.000Z",
+    "score": 4.62159,
+    "appVersion": "508.0.0",
+    "developer": "Meta Platforms, Inc."
+  },
+  {
+    "appId": "com.recime.app",
+    "title": "ReciMe: Recipes & Meal Planner",
+    "updated": "2025-05-21T22:05:58.000Z",
+    "score": 4.80363,
+    "appVersion": "3.14.0",
+    "developer": "ReciMe Pty Ltd"
+  },
+  {
+    "appId": "com.waze.iphone",
+    "title": "Waze Navigation & Live Traffic",
+    "updated": "2025-05-21T15:13:57.000Z",
+    "score": 4.84513,
+    "appVersion": "5.7.0.3",
+    "developer": "Waze Inc."
+  },
+  {
+    "appId": "com.progressive.ProgressiveApp",
+    "title": "Progressive",
+    "updated": "2025-05-14T12:30:32.000Z",
+    "score": 4.83287,
+    "appVersion": "3.122",
+    "developer": "Progressive Insurance"
+  },
+  {
+    "appId": "de.aestimium.EmpfohlenApp",
+    "title": "testerup - earn money",
+    "updated": "2025-03-28T08:01:33.000Z",
+    "score": 4.04997,
+    "appVersion": "2.0.1",
+    "developer": "aestimium GmbH"
+  },
+  {
+    "appId": "com.google.Authenticator",
+    "title": "Google Authenticator",
+    "updated": "2024-06-26T21:59:59.000Z",
+    "score": 4.85074,
+    "appVersion": "4.2.1",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.google.NotebookLM",
+    "title": "Google NotebookLM",
+    "updated": "2025-05-21T20:04:54.000Z",
+    "score": 0,
+    "appVersion": "1.0.5",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.etsy.etsyforios",
+    "title": "Etsy: Shop Home, Style & More",
+    "updated": "2025-05-19T16:00:38.000Z",
+    "score": 4.9288,
+    "appVersion": "7.26",
+    "developer": "Etsy, Inc."
+  },
+  {
+    "appId": "com.1debit.ChimeProdApp",
+    "title": "Chime – Mobile Banking",
+    "updated": "2025-05-20T19:00:14.000Z",
+    "score": 4.81302,
+    "appVersion": "5.275.0",
+    "developer": "Chime Financial, Inc."
+  },
+  {
+    "appId": "com.adp.adpmobile",
+    "title": "ADP Mobile Solutions",
+    "updated": "2025-05-16T03:00:07.000Z",
+    "score": 4.71204,
+    "appVersion": "25.20.0",
+    "developer": "ADP, Inc"
+  },
+  {
+    "appId": "cn.danatech.xingseus",
+    "title": "PictureThis - Plant Identifier",
+    "updated": "2025-05-16T07:22:58.000Z",
+    "score": 4.80754,
+    "appVersion": "5.13.0",
+    "developer": "Glority Global Group Ltd."
+  },
+  {
+    "appId": "com.remind101.Remind101",
+    "title": "Remind: School Communication",
+    "updated": "2025-04-30T15:06:22.000Z",
+    "score": 4.79661,
+    "appVersion": "15.1.6",
+    "developer": "ParentSquare"
+  },
+  {
+    "appId": "xyz.plantin.app",
+    "title": "PlantIn: Plant Identifier・Care",
+    "updated": "2025-05-22T13:35:17.000Z",
+    "score": 4.54037,
+    "appVersion": "5.21.0",
+    "developer": "Vortemol Limited"
+  },
+  {
+    "appId": "com.codeway.aitutor",
+    "title": "Speak & Learn English: Learna",
+    "updated": "2025-04-30T15:17:17.000Z",
+    "score": 4.64348,
+    "appVersion": "1.4.2",
+    "developer": "Codeway Dijital Hizmetler Anonim Sirketi"
+  },
+  {
+    "appId": "com.instructure.icanvas",
+    "title": "Canvas Student",
+    "updated": "2025-04-29T08:26:59.000Z",
+    "score": 4.65759,
+    "appVersion": "7.15.0",
+    "developer": "Instructure Inc."
+  },
+  {
+    "appId": "com.quizlet.quizlet",
+    "title": "Quizlet: Study with Flashcards",
+    "updated": "2025-05-20T22:25:47.000Z",
+    "score": 4.77375,
+    "appVersion": "9.33",
+    "developer": "Quizlet Inc"
+  },
+  {
+    "appId": "com.google.Classroom",
+    "title": "Google Classroom",
+    "updated": "2025-05-19T17:30:36.000Z",
+    "score": 1.89617,
+    "appVersion": "3.33.300037605",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.mathsolvenow.panda",
+    "title": "Solvely - AI Study Companion",
+    "updated": "2025-05-22T14:18:08.000Z",
+    "score": 4.68067,
+    "appVersion": "4.3.5",
+    "developer": "Aignite Inc."
+  },
+  {
+    "appId": "com.qianfan.aihomework",
+    "title": "Question.AI-Math Calculator",
+    "updated": "2025-05-14T02:48:45.000Z",
+    "score": 4.70209,
+    "appVersion": "3.3.4",
+    "developer": "3HOUSE"
+  },
+  {
+    "appId": "com.elevateapp.elevate",
+    "title": "Elevate - Brain Training Games",
+    "updated": "2025-05-19T17:21:54.000Z",
+    "score": 4.77363,
+    "appVersion": "5.190.0",
+    "developer": "Elevate, Inc."
+  },
+  {
+    "appId": "com.parentsquare.psapp",
+    "title": "ParentSquare",
+    "updated": "2025-05-21T23:00:04.000Z",
+    "score": 4.61829,
+    "appVersion": "2.101.1",
+    "developer": "ParentSquare"
+  },
+  {
+    "appId": "com.wiser.ios",
+    "title": "Wiser - 15Mins Book Summaries",
+    "updated": "2025-05-14T13:32:30.000Z",
+    "score": 4.7546,
+    "appVersion": "2.0.1",
+    "developer": "HUBX"
+  },
+  {
+    "appId": "com.tocaboca.tocalifeworld",
+    "title": "Toca Boca World",
+    "updated": "2025-05-19T09:23:52.000Z",
+    "score": 4.25038,
+    "appVersion": "1.109",
+    "developer": "Toca Boca AB"
+  },
+  {
+    "appId": "no.mobitroll.kahoot.controller",
+    "title": "Kahoot! Play & Create Quizzes",
+    "updated": "2025-05-15T08:07:30.000Z",
+    "score": 4.56651,
+    "appVersion": "6.3.5",
+    "developer": "Kahoot ASA"
+  },
+  {
+    "appId": "com.microblink.PhotoMath",
+    "title": "Photomath",
+    "updated": "2025-02-14T16:40:56.000Z",
+    "score": 4.76963,
+    "appVersion": "8.42.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.babbel.babbelMulti",
+    "title": "Babbel - Language Learning",
+    "updated": "2025-05-12T08:58:36.000Z",
+    "score": 4.72626,
+    "appVersion": "21.74.0",
+    "developer": "Babbel GmbH"
+  },
+  {
+    "appId": "com.astralerstudio.dmv.ios",
+    "title": "DMV Practice Test 2025 myDMV",
+    "updated": "2025-05-19T10:28:56.000Z",
+    "score": 4.61798,
+    "appVersion": "3.4.0",
+    "developer": "Kain Suite Pte. Ltd."
+  },
+  {
+    "appId": "com.gansoft.photosolve2",
+    "title": "PhotoSolve: AI Homework Helper",
+    "updated": "2025-05-12T21:01:21.000Z",
+    "score": 4.7929,
+    "appVersion": "5.1.7",
+    "developer": "Coincircle, Inc"
+  },
+  {
+    "appId": "com.waldenback.driverlicenseapp",
+    "title": "Zutobi: Permit & Driving Prep",
+    "updated": "2025-05-21T08:34:33.000Z",
+    "score": 4.72769,
+    "appVersion": "4.5.28",
+    "developer": "Zutobi AB"
+  },
+  {
+    "appId": "com.unacademy.languagelearningapp",
+    "title": "Airlearn - Language Learning",
+    "updated": "2025-05-21T08:54:16.000Z",
+    "score": 4.80428,
+    "appVersion": "3.13.11",
+    "developer": "UNACADEMY INC"
+  },
+  {
+    "appId": "com.powerschool.portal",
+    "title": "PowerSchool Mobile",
+    "updated": "2025-05-22T07:21:59.000Z",
+    "score": 4.55597,
+    "appVersion": "25.5.0",
+    "developer": "PowerSchool Group LLC"
+  },
+  {
+    "appId": "com.momwillbeproud.artworkout.v3",
+    "title": "ArtWorkout: Learn How to Draw",
+    "updated": "2025-05-20T12:22:14.000Z",
+    "score": 4.4996,
+    "appVersion": "1.9.12",
+    "developer": "Aleksandr Ulitin"
+  },
+  {
+    "appId": "com.ClassDojo",
+    "title": "ClassDojo",
+    "updated": "2025-05-21T03:12:22.000Z",
+    "score": 4.85266,
+    "appVersion": "11.105.0",
+    "developer": "ClassDojo, Inc."
+  },
+  {
+    "appId": "com.sandbox.Sandbox",
+    "title": "brightwheel: Child Care App",
+    "updated": "2025-05-16T08:45:03.000Z",
+    "score": 4.92033,
+    "appVersion": "3.72.0",
+    "developer": "DSSV, Inc."
+  },
+  {
+    "appId": "genesis.tenwords",
+    "title": "Promova: Language Lessons",
+    "updated": "2025-05-22T15:07:41.000Z",
+    "score": 4.58937,
+    "appVersion": "7.20.0",
+    "developer": "SleepSci"
+  },
+  {
+    "appId": "ai.loora.Loora-iOS",
+    "title": "Speak English with Loora AI",
+    "updated": "2025-05-19T06:08:29.000Z",
+    "score": 4.9229,
+    "appVersion": "1.69.2",
+    "developer": "Loora A.I LTD"
+  },
+  {
+    "appId": "com.codeway.brainapp",
+    "title": "IQ Masters: Brain Games, Tests",
+    "updated": "2025-05-21T15:40:31.000Z",
+    "score": 4.64098,
+    "appVersion": "1.6.8",
+    "developer": "Codeway Dijital Hizmetler Anonim Sirketi"
+  },
+  {
+    "appId": "com.mojang.minecraft-edu",
+    "title": "Minecraft Education",
+    "updated": "2025-04-23T18:04:30.000Z",
+    "score": 3.96413,
+    "appVersion": "1.21.10",
+    "developer": "Mojang"
+  },
+  {
+    "appId": "ai.praktika.app",
+    "title": "Praktika – AI Language Tutor",
+    "updated": "2025-05-15T17:44:57.000Z",
+    "score": 4.78798,
+    "appVersion": "3.31.0",
+    "developer": "Praktika.ai Company"
+  },
+  {
+    "appId": "com.langlearn.speak",
+    "title": "LangLearn: Learn English by AI",
+    "updated": "2025-05-20T02:19:08.000Z",
+    "score": 4.4537,
+    "appVersion": "1.2.0",
+    "developer": "AIFLAME TECHNOLOGY PTE. LTD."
+  },
+  {
+    "appId": "es.monkimun.lingokids",
+    "title": "Lingokids - Play and Learn",
+    "updated": "2025-05-19T14:17:00.000Z",
+    "score": 4.3478,
+    "appVersion": "8.114.0",
+    "developer": "Monkimun Inc"
+  },
+  {
+    "appId": "com.app.smartyme",
+    "title": "SmartyMe: Daily Microlearning",
+    "updated": "2025-05-09T07:36:34.000Z",
+    "score": 4.39509,
+    "appVersion": "2.6.0",
+    "developer": "ApexTech Ltd"
+  },
+  {
+    "appId": "com.eab.se",
+    "title": "Navigate360 Student",
+    "updated": "2025-05-16T11:17:35.000Z",
+    "score": 2.00792,
+    "appVersion": "25.5.78",
+    "developer": "EAB Global, Inc"
+  },
+  {
+    "appId": "com.edpuzzle.EDpuzzle",
+    "title": "Edpuzzle",
+    "updated": "2024-08-20T09:54:16.000Z",
+    "score": 1.57175,
+    "appVersion": "5.0.0",
+    "developer": "EDpuzzle, Inc."
+  },
+  {
+    "appId": "com.wellocution.iosapp",
+    "title": "BoldVoice: Accent Training",
+    "updated": "2025-05-13T15:02:09.000Z",
+    "score": 4.81343,
+    "appVersion": "3.1.7",
+    "developer": "Wellocution Inc."
+  },
+  {
+    "appId": "com.dmvwrittentest.ios",
+    "title": "DMV WRITTEN TEST",
+    "updated": "2025-04-23T10:11:41.000Z",
+    "score": 4.83629,
+    "appVersion": "1.3.20",
+    "developer": "Infinity Loop Capital LLc"
+  },
+  {
+    "appId": "org.inaturalist.iNatLite",
+    "title": "Seek by iNaturalist",
+    "updated": "2025-04-17T07:24:50.000Z",
+    "score": 4.77196,
+    "appVersion": "2.17.1",
+    "developer": "iNaturalist"
+  },
+  {
+    "appId": "com.digitas.solidstarts",
+    "title": "Solid Starts: Baby First Foods",
+    "updated": "2025-05-16T09:22:53.000Z",
+    "score": 4.8794,
+    "appVersion": "3.5.11",
+    "developer": "SolidStarts LLC"
+  },
+  {
+    "appId": "com.joytunes.Draw",
+    "title": "Simply Draw: Learn to Draw",
+    "updated": "2025-05-20T06:23:30.000Z",
+    "score": 4.81876,
+    "appVersion": "1.5.16",
+    "developer": "Simply Ltd"
+  },
+  {
+    "appId": "com.stealthgpt",
+    "title": "StealthGPT",
+    "updated": "2025-05-19T17:32:01.000Z",
+    "score": 4.05,
+    "appVersion": "1.1.1",
+    "developer": "XYZ AI, Inc."
+  },
+  {
+    "appId": "com.paperboatapps.all-in-one",
+    "title": "Kiddopia - Kids Learning Games",
+    "updated": "2025-05-15T13:31:38.000Z",
+    "score": 4.35476,
+    "appVersion": "9.5.1",
+    "developer": "Kiddopia, Inc."
+  },
+  {
+    "appId": "cn.danatech.pictureInsect",
+    "title": "Picture Insect: Bug Identifier",
+    "updated": "2025-03-20T07:34:17.000Z",
+    "score": 4.62992,
+    "appVersion": "2.18.7",
+    "developer": "Next Vision Limited"
+  },
+  {
+    "appId": "com.joytunes.asla",
+    "title": "Simply Piano: Learn Piano Fast",
+    "updated": "2025-05-21T08:48:46.000Z",
+    "score": 4.6836,
+    "appVersion": "9.10.11",
+    "developer": "Simply Ltd"
+  },
+  {
+    "appId": "com.kinderlime.dev",
+    "title": "Procare: Childcare App",
+    "updated": "2025-04-21T15:32:01.000Z",
+    "score": 4.87835,
+    "appVersion": "5.13.1",
+    "developer": "Procare Software, LLC"
+  },
+  {
+    "appId": "com.headway.books",
+    "title": "Headway: Daily Micro Learning",
+    "updated": "2025-05-22T07:00:39.000Z",
+    "score": 4.65679,
+    "appVersion": "331.0",
+    "developer": "GTHW App Limited"
+  },
+  {
+    "appId": "botan.plant.disease.identifier",
+    "title": "Plant Identifier & Care App",
+    "updated": "2025-05-22T15:27:26.000Z",
+    "score": 4.41931,
+    "appVersion": "3.13.0",
+    "developer": "Botan App Limited LLC"
+  },
+  {
+    "appId": "com.simonandschuster.pimsleur.unified.ios",
+    "title": "Pimsleur | Language Learning",
+    "updated": "2025-05-08T17:37:11.000Z",
+    "score": 4.74347,
+    "appVersion": "6.0",
+    "developer": "Simon & Schuster"
+  },
+  {
+    "appId": "gen.tech.keiki.world",
+    "title": "Keiki Learning games for Kids",
+    "updated": "2025-05-19T08:41:30.000Z",
+    "score": 4.57908,
+    "appVersion": "9.6.0",
+    "developer": "BENIPOL LIMITED"
+  },
+  {
+    "appId": "com.infinitecampus.student.campusportalhybrid",
+    "title": "Campus Student",
+    "updated": "2025-03-05T14:11:03.000Z",
+    "score": 1.90716,
+    "appVersion": "1.10.8",
+    "developer": "Infinite Campus, Inc."
+  },
+  {
+    "appId": "com.us.nobarriers.elsa-ios",
+    "title": "ELSA Speak - English Learning",
+    "updated": "2025-05-15T03:17:02.000Z",
+    "score": 4.75896,
+    "appVersion": "4.20.8",
+    "developer": "Elsa Corp"
+  },
+  {
+    "appId": "com.nextep.learning.kids.games",
+    "title": "Bebi: Baby Games for Preschool",
+    "updated": "2025-05-19T04:59:47.000Z",
+    "score": 4.63472,
+    "appVersion": "10.09.14",
+    "developer": "Bebi Family Games"
+  },
+  {
+    "appId": "com.aiby.BrainTraining",
+    "title": "Mind Games & Tests: Brain Gain",
+    "updated": "2025-05-15T08:24:22.000Z",
+    "score": 4.71159,
+    "appVersion": "1.37",
+    "developer": "AIBY"
+  },
+  {
+    "appId": "com.cyberdavinci.gptkeyboard",
+    "title": "Answer.AI - Your AI tutor",
+    "updated": "2025-05-16T22:56:11.000Z",
+    "score": 4.68925,
+    "appVersion": "2.8.6",
+    "developer": "ANSWER AI LAB INC"
+  },
+  {
+    "appId": "com.pizzahut.bookit",
+    "title": "Pizza Hut BOOK IT!",
+    "updated": "2025-05-19T01:02:25.000Z",
+    "score": 3,
+    "appVersion": "2.4.4",
+    "developer": "Pizza Hut, Inc."
+  },
+  {
+    "appId": "com.joytunes.SimplyGuitar",
+    "title": "Simply Guitar - Learn Guitar",
+    "updated": "2025-03-31T09:16:08.000Z",
+    "score": 4.71568,
+    "appVersion": "10.3",
+    "developer": "Simply Ltd"
+  },
+  {
+    "appId": "com.vasyliev.mathapp",
+    "title": "Photo Math: AI Homework Helper",
+    "updated": "2025-05-13T10:23:54.000Z",
+    "score": 4.5369,
+    "appVersion": "1.4.0",
+    "developer": "Anton Vasyliev"
+  },
+  {
+    "appId": "com.helloTalk.helloTalk",
+    "title": "HelloTalk - Language Learning",
+    "updated": "2025-05-21T10:17:29.000Z",
+    "score": 4.60384,
+    "appVersion": "6.1.0",
+    "developer": "HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP"
+  },
+  {
+    "appId": "com.lingvano.app",
+    "title": "Lingvano - Learn Sign Language",
+    "updated": "2025-05-19T07:01:23.000Z",
+    "score": 4.87676,
+    "appVersion": "4.2.4",
+    "developer": "Lingvano GmbH"
+  },
+  {
+    "appId": "com.picturerock.rock",
+    "title": "Rock Identifier: Stone ID",
+    "updated": "2025-04-21T03:17:20.000Z",
+    "score": 4.66658,
+    "appVersion": "2.13.0",
+    "developer": "Next Vision Limited"
+  },
+  {
+    "appId": "ai.turbolearn",
+    "title": "Turbolearn - AI Note Taker",
+    "updated": "2025-02-07T17:01:00.000Z",
+    "score": 4.75872,
+    "appVersion": "1.1.8",
+    "developer": "TurboLearn AI"
+  },
+  {
+    "appId": "org.pbskids.gamesapp",
+    "title": "PBS KIDS Games",
+    "updated": "2025-04-29T07:22:30.000Z",
+    "score": 4.35879,
+    "appVersion": "5.3.18",
+    "developer": "PBS KIDS"
+  },
+  {
+    "appId": "com.zoobean.beanstackTracker",
+    "title": "Beanstack Tracker",
+    "updated": "2025-05-22T14:59:57.000Z",
+    "score": 4.75427,
+    "appVersion": "5.0.31",
+    "developer": "Zoobean, Inc."
+  },
+  {
+    "appId": "com.d2l.brightspace.pulse",
+    "title": "Brightspace Pulse",
+    "updated": "2025-04-29T13:00:07.000Z",
+    "score": 4.76872,
+    "appVersion": "2.2504.889",
+    "developer": "D2L Corporation"
+  },
+  {
+    "appId": "org.khanacademy.Khan-Academy",
+    "title": "Khan Academy",
+    "updated": "2025-04-16T15:55:34.000Z",
+    "score": 4.56541,
+    "appVersion": "8.3.2",
+    "developer": "Khan Academy"
+  },
+  {
+    "appId": "com.getloper",
+    "title": "Loper - College Search",
+    "updated": "2025-05-15T00:20:42.000Z",
+    "score": 4.7698,
+    "appVersion": "3.5.5",
+    "developer": "Loper, Inc."
+  },
+  {
+    "appId": "org.inaturalist.iNaturalistMobile",
+    "title": "iNaturalist",
+    "updated": "2025-05-21T16:21:45.000Z",
+    "score": 4.08824,
+    "appVersion": "1.0.3",
+    "developer": "iNaturalist"
+  },
+  {
+    "appId": "mobi.abcmouse.academy",
+    "title": "ABCmouse: Kids Learning Games",
+    "updated": "2025-04-25T18:00:07.000Z",
+    "score": 4.47822,
+    "appVersion": "8.68.0",
+    "developer": "Age of Learning, Inc."
+  },
+  {
+    "appId": "com.MonkeyTaps.Vocabulary",
+    "title": "Vocabulary - Learn words daily",
+    "updated": "2025-05-08T08:01:09.000Z",
+    "score": 4.80065,
+    "appVersion": "5.99.0",
+    "developer": "Monkey Taps"
+  },
+  {
+    "appId": "org.plantnetproject.PlantNet",
+    "title": "PlantNet",
+    "updated": "2025-03-31T10:49:47.000Z",
+    "score": 4.58455,
+    "appVersion": "3.22.2",
+    "developer": "Cirad-France"
+  },
+  {
+    "appId": "org.reactjs.native.example.QuizardAI",
+    "title": "Quizard AI: Homework Helper",
+    "updated": "2025-05-16T15:49:31.000Z",
+    "score": 4.73984,
+    "appVersion": "1.15.1",
+    "developer": "Quizard AI, Inc."
+  },
+  {
+    "appId": "com.clever.InstantLogin",
+    "title": "Clever",
+    "updated": "2023-08-13T12:19:16.000Z",
+    "score": 2.60882,
+    "appVersion": "4.5",
+    "developer": "Clever Inc."
+  },
+  {
+    "appId": "io.zimran.coursiv.ios",
+    "title": "Coursiv – AI Tools Mastery",
+    "updated": "2025-05-07T08:09:15.000Z",
+    "score": 4.73473,
+    "appVersion": "1.29.1",
+    "developer": "Coursiv Limited"
+  },
+  {
+    "appId": "org.coursera.coursera",
+    "title": "Coursera: Grow your career",
+    "updated": "2025-05-12T13:43:31.000Z",
+    "score": 4.84443,
+    "appVersion": "7.11.0",
+    "developer": "Coursera"
+  },
+  {
+    "appId": "com.tocaboca.tocakitchen2",
+    "title": "Toca Boca Jr",
+    "updated": "2025-03-26T13:14:58.000Z",
+    "score": 3.91397,
+    "appVersion": "3.4",
+    "developer": "Piknik"
+  },
+  {
+    "appId": "com.dumi.dmv.test",
+    "title": "DMV Practice Test ◦ 2025",
+    "updated": "2025-05-12T17:48:17.000Z",
+    "score": 4.60818,
+    "appVersion": "4.2",
+    "developer": "Minh Pham"
+  },
+  {
+    "appId": "plant.Identifiers.bloom",
+    "title": "Plant Identifier - Planteo",
+    "updated": "2025-04-30T07:00:00.000Z",
+    "score": 3.5,
+    "appVersion": "1.0.1",
+    "developer": "Francisco Dax"
+  },
+  {
+    "appId": "com.busuu.english.app",
+    "title": "Busuu: Language Learning",
+    "updated": "2025-05-19T14:45:19.000Z",
+    "score": 4.70798,
+    "appVersion": "29.4.0",
+    "developer": "Busuu Limited"
+  },
+  {
+    "appId": "org.pbskids.ipadplayer",
+    "title": "PBS KIDS Video",
+    "updated": "2025-05-02T21:24:08.000Z",
+    "score": 4.28172,
+    "appVersion": "7.0.1",
+    "developer": "PBS KIDS"
+  },
+  {
+    "appId": "com.plant.chat.app",
+    "title": "Plant Identifier: ChatPlant AI",
+    "updated": "2025-05-04T03:21:58.000Z",
+    "score": 4.51309,
+    "appVersion": "1.0.50",
+    "developer": "ChatPlant Ltd."
+  },
+  {
+    "appId": "com.brainly.us",
+    "title": "Brainly: AI Homework Helper",
+    "updated": "2025-05-19T07:04:08.000Z",
+    "score": 4.71783,
+    "appVersion": "4.171.0",
+    "developer": "Brainly sp. z o o"
+  },
+  {
+    "appId": "com.jeffreydiaz.CDL-Prep",
+    "title": "CDL Prep",
+    "updated": "2025-04-18T15:06:31.000Z",
+    "score": 4.68217,
+    "appVersion": "9.5.5",
+    "developer": "Jeffrey Diaz"
+  },
+  {
+    "appId": "com.vedasapps.flashcards",
+    "title": "Anki Pro: Study Flashcards",
+    "updated": "2025-05-20T20:42:44.000Z",
+    "score": 4.61412,
+    "appVersion": "2.11.3",
+    "developer": "Vedas Apps Ltd"
+  },
+  {
+    "appId": "com.calculate84",
+    "title": "Calculate84",
+    "updated": "2025-04-08T10:29:47.000Z",
+    "score": 4.78289,
+    "appVersion": "2.2.5",
+    "developer": "Century Light LLC"
+  },
+  {
+    "appId": "com.memrise.ios.memrisecompanion",
+    "title": "Memrise Easy Language Learning",
+    "updated": "2025-05-15T09:09:33.000Z",
+    "score": 4.78006,
+    "appVersion": "2025.5.12",
+    "developer": "Memrise Limited"
+  },
+  {
+    "appId": "com.yousician.yousician",
+    "title": "Yousician: Learn & Play Music",
+    "updated": "2025-05-20T13:21:55.000Z",
+    "score": 4.59737,
+    "appVersion": "5.8.1",
+    "developer": "Yousician Ltd"
+  },
+  {
+    "appId": "com.vexcel.mywic",
+    "title": "myWIC Mosaic",
+    "updated": "2025-05-17T21:50:17.000Z",
+    "score": 4.91024,
+    "appVersion": "1.0.13.4802",
+    "developer": "Vexcel Corporation"
+  },
+  {
+    "appId": "com.skyward.mobileaccess",
+    "title": "Skyward Mobile Access",
+    "updated": "2025-02-20T21:56:15.000Z",
+    "score": 1.83792,
+    "appVersion": "2.10.0",
+    "developer": "Skyward, Inc"
+  },
+  {
+    "appId": "com.rosettastone.totale.companionhd",
+    "title": "Rosetta Stone: Learn Languages",
+    "updated": "2025-03-27T09:26:49.000Z",
+    "score": 4.76454,
+    "appVersion": "8.41.2",
+    "developer": "Rosetta Stone, Ltd."
+  },
+  {
+    "appId": "com.atistudios.MondlyLanguages",
+    "title": "Mondly: Learn 41 Languages",
+    "updated": "2025-05-21T14:14:23.000Z",
+    "score": 4.74552,
+    "appVersion": "10.50.1",
+    "developer": "ATi Studios"
+  },
+  {
+    "appId": "com.transactcampus.eaccounts",
+    "title": "Transact eAccounts",
+    "updated": "2025-05-06T08:00:35.000Z",
+    "score": 4.83396,
+    "appVersion": "2025.1.0",
+    "developer": "Transact Campus Inc"
+  },
+  {
+    "appId": "com.rype.go",
+    "title": "Jumpspeak | Language Learning",
+    "updated": "2025-05-22T02:22:16.000Z",
+    "score": 4.60738,
+    "appVersion": "4.9.3",
+    "developer": "Rype"
+  },
+  {
+    "appId": "org.collegeboard.bigfutureschool",
+    "title": "BigFuture School",
+    "updated": "2025-04-29T19:29:51.000Z",
+    "score": 4.57601,
+    "appVersion": "1.12.0",
+    "developer": "The College Board"
+  },
+  {
+    "appId": "com.udemy",
+    "title": "Udemy Online Video Courses",
+    "updated": "2025-05-20T22:24:49.000Z",
+    "score": 4.73643,
+    "appVersion": "8.86.0",
+    "developer": "Udemy"
+  },
+  {
+    "appId": "com.cristiano.dmvgeniusfree",
+    "title": "DMV Practice Test Genie",
+    "updated": "2025-05-20T19:57:41.000Z",
+    "score": 4.7694,
+    "appVersion": "10.12.0",
+    "developer": "Elegant eLearning"
+  },
+  {
+    "appId": "com.ixl.IXLMath",
+    "title": "IXL - Math, English, & More",
+    "updated": "2025-04-24T20:17:33.000Z",
+    "score": 4.30558,
+    "appVersion": "10.4.1",
+    "developer": "IXL Learning"
+  },
+  {
+    "appId": "com.internetdesignzone.coloring",
+    "title": "Coloring Games for Kids 2-6!",
+    "updated": "2025-05-13T09:17:18.000Z",
+    "score": 4.41458,
+    "appVersion": "11.42.0",
+    "developer": "IDZ Digital Private Limited"
+  },
+  {
+    "appId": "com.learnpaladin",
+    "title": "Paladin: Learn History",
+    "updated": "2025-05-21T19:27:21.000Z",
+    "score": 4.65616,
+    "appVersion": "2.5.2",
+    "developer": "DEEPSTASH SRL"
+  },
+  {
+    "appId": "com.intsig.QuizGo",
+    "title": "Quiz AI: AI Homework Helper",
+    "updated": "2025-05-10T02:41:56.000Z",
+    "score": 4.84879,
+    "appVersion": "4.11.5",
+    "developer": "INTSIG PTE. LTD."
+  },
+  {
+    "appId": "org.iggymedia.periodtracker",
+    "title": "Flo Period & Pregnancy Tracker",
+    "updated": "2025-05-22T15:13:29.000Z",
+    "score": 4.76532,
+    "appVersion": "9.79.0",
+    "developer": "FLO HEALTH UK LIMITED"
+  },
+  {
+    "appId": "gen.tech.impulse",
+    "title": "Impulse - Brain Training",
+    "updated": "2025-05-21T13:21:49.000Z",
+    "score": 4.74594,
+    "appVersion": "1.33",
+    "developer": "GMRD Apps Limited"
+  },
+  {
+    "appId": "com.finch.finch",
+    "title": "Finch: Self-Care Pet",
+    "updated": "2025-05-20T19:50:34.000Z",
+    "score": 4.95127,
+    "appVersion": "3.73.24",
+    "developer": "Finch Care Public Benefit Corporation"
+  },
+  {
+    "appId": "com.strava.stravaride",
+    "title": "Strava: Run, Bike, Hike",
+    "updated": "2025-05-21T14:59:16.000Z",
+    "score": 4.80938,
+    "appVersion": "412.0.0",
+    "developer": "Strava, Inc."
+  },
+  {
+    "appId": "com.viraldevelopment.CalAI",
+    "title": "Cal AI - Calorie Tracker",
+    "updated": "2025-05-12T02:32:53.000Z",
+    "score": 4.82128,
+    "appVersion": "2.7.2",
+    "developer": "Viral Development LLC"
+  },
+  {
+    "appId": "com.weward",
+    "title": "WeWard - The Walking App",
+    "updated": "2025-05-22T11:38:55.000Z",
+    "score": 4.89626,
+    "appVersion": "7.40.0",
+    "developer": "WEWARD"
+  },
+  {
+    "appId": "com.alltrails.AllTrails",
+    "title": "AllTrails: Hike, Bike & Run",
+    "updated": "2025-05-21T09:00:11.000Z",
+    "score": 4.89267,
+    "appVersion": "25.5.23",
+    "developer": "AllTrails, Inc."
+  },
+  {
+    "appId": "io.betterhalf.app",
+    "title": "Paired: Couples & Relationship",
+    "updated": "2025-05-19T07:09:40.000Z",
+    "score": 4.7236,
+    "appVersion": "2.35.1",
+    "developer": "Better Half Limited"
+  },
+  {
+    "appId": "com.endel.endel",
+    "title": "Endel: Focus & Sleep Sounds",
+    "updated": "2025-04-15T15:33:25.000Z",
+    "score": 4.65035,
+    "appVersion": "4.49.0",
+    "developer": "Endel"
+  },
+  {
+    "appId": "health.sleep.sounds.tracker.alarm.calm",
+    "title": "ShutEye®: Sleep Tracker, Sound",
+    "updated": "2025-05-12T15:31:11.000Z",
+    "score": 4.77004,
+    "appVersion": "3.0.9",
+    "developer": "Enerjoy Pte. Ltd."
+  },
+  {
+    "appId": "com.gymbros.app",
+    "title": "Liftoff - Ranked Gym Workouts",
+    "updated": "2025-05-19T14:12:52.000Z",
+    "score": 4.85896,
+    "appVersion": "2.4.6",
+    "developer": "GymBros Inc."
+  },
+  {
+    "appId": "com.risesci.nyx",
+    "title": "RISE: Sleep Tracker",
+    "updated": "2025-05-21T17:22:34.000Z",
+    "score": 4.65427,
+    "appVersion": "1.499.0",
+    "developer": "Rise Science Inc"
+  },
+  {
+    "appId": "com.ideawork.icrunch",
+    "title": "Crunch Fitness",
+    "updated": "2025-03-03T05:11:32.000Z",
+    "score": 4.56587,
+    "appVersion": "5.11.0",
+    "developer": "Crunch Fitness"
+  },
+  {
+    "appId": "com.fitnow.loseit",
+    "title": "Lose It! – Calorie Counter",
+    "updated": "2025-05-21T20:22:19.000Z",
+    "score": 4.76255,
+    "appVersion": "17.2.803",
+    "developer": "FitNow"
+  },
+  {
+    "appId": "com.fitbod",
+    "title": "Fitbod: Gym & Fitness Planner",
+    "updated": "2025-05-16T16:49:54.000Z",
+    "score": 4.82301,
+    "appVersion": "7.6.3",
+    "developer": "Fitbod Inc."
+  },
+  {
+    "appId": "com.calm.calmapp",
+    "title": "Calm",
+    "updated": "2025-05-21T17:28:05.000Z",
+    "score": 4.77489,
+    "appVersion": "6.71",
+    "developer": "Calm.com"
+  },
+  {
+    "appId": "com.runbuddy.prod",
+    "title": "Runna: Running Training Plans",
+    "updated": "2025-05-21T15:27:29.000Z",
+    "score": 4.87857,
+    "appVersion": "7.28.0",
+    "developer": "RunBuddy"
+  },
+  {
+    "appId": "com.nike.nikeplus-gps",
+    "title": "Nike Run Club: Running Coach",
+    "updated": "2025-05-12T19:48:12.000Z",
+    "score": 4.76977,
+    "appVersion": "7.66.0",
+    "developer": "Nike, Inc"
+  },
+  {
+    "appId": "com.mejorai.com",
+    "title": "LazyFit: Home Workout Planner",
+    "updated": "2025-05-12T01:47:14.000Z",
+    "score": 4.66122,
+    "appVersion": "1.7.73",
+    "developer": "Next Vision Limited"
+  },
+  {
+    "appId": "com.garmin.connect.mobile",
+    "title": "Garmin Connect™",
+    "updated": "2025-05-20T21:21:19.000Z",
+    "score": 4.3957,
+    "appVersion": "5.13",
+    "developer": "Garmin"
+  },
+  {
+    "appId": "net.appedietInformation.appediet",
+    "title": "Calorie Counter - Appediet",
+    "updated": "2025-05-16T16:22:56.000Z",
+    "score": 4.78875,
+    "appVersion": "1.38.6",
+    "developer": "Appediet Information PTE. LTD"
+  },
+  {
+    "appId": "lively.cycle.syncing.period.tracker",
+    "title": "Lively ~ Cycle, Period tracker",
+    "updated": "2025-05-05T21:17:31.000Z",
+    "score": 4.66879,
+    "appVersion": "2.3.12",
+    "developer": "Lively Cycle, LLC"
+  },
+  {
+    "appId": "com.ouraring.oura",
+    "title": "Oura",
+    "updated": "2025-05-21T04:27:05.000Z",
+    "score": 4.84342,
+    "appVersion": "6.2.6",
+    "developer": "Oura Health Oy"
+  },
+  {
+    "appId": "com.mynetdiary.MyNetDiary",
+    "title": "Calorie Counter - MyNetDiary",
+    "updated": "2025-05-22T11:31:51.000Z",
+    "score": 4.81978,
+    "appVersion": "9.70",
+    "developer": "MyNetDiary Inc."
+  },
+  {
+    "appId": "CRONOMETER-GOLD",
+    "title": "Calorie Counter: Cronometer",
+    "updated": "2025-05-19T15:28:45.000Z",
+    "score": 4.77299,
+    "appVersion": "4.40.2",
+    "developer": "Cronometer Software Inc"
+  },
+  {
+    "appId": "com.theliven.livenhabits",
+    "title": "Liven: Discover yourself",
+    "updated": "2025-05-14T11:07:50.000Z",
+    "score": 4.30002,
+    "appVersion": "1.63.0",
+    "developer": "Chesmint limited"
+  },
+  {
+    "appId": "gen.tech.BetterMe",
+    "title": "BetterMe: Health Coaching",
+    "updated": "2025-05-16T09:33:55.000Z",
+    "score": 4.66303,
+    "appVersion": "17.22.0",
+    "developer": "BetterMe Limited"
+  },
+  {
+    "appId": "com.classpass.classpass",
+    "title": "ClassPass: Fitness, Spa, Salon",
+    "updated": "2025-05-03T05:49:12.000Z",
+    "score": 4.84159,
+    "appVersion": "9.24.1",
+    "developer": "ClassPass, LLC"
+  },
+  {
+    "appId": "com.gunthermarktl.stepapp",
+    "title": "StepsApp Pedometer",
+    "updated": "2025-05-15T11:43:10.000Z",
+    "score": 4.82061,
+    "appVersion": "8.2.15",
+    "developer": "StepsApp GmbH"
+  },
+  {
+    "appId": "com.stardust.stardustapp",
+    "title": "Stardust: Period & Pregnancy",
+    "updated": "2025-05-21T19:41:37.000Z",
+    "score": 4.72604,
+    "appVersion": "3.5.2",
+    "developer": "Stardust App LLC (New York)"
+  },
+  {
+    "appId": "com.dacheng.bloodsugar.monitor",
+    "title": "Health Monitor: Blood Sugar",
+    "updated": "2025-05-21T09:14:49.000Z",
+    "score": 4.16971,
+    "appVersion": "1.1.9",
+    "developer": "Shanghai Dacheng Employment Agency"
+  },
+  {
+    "appId": "swc",
+    "title": "Sweatcoin Walking Step Counter",
+    "updated": "2025-05-22T10:42:55.000Z",
+    "score": 4.52595,
+    "appVersion": "205.0.0",
+    "developer": "Sweatco Ltd"
+  },
+  {
+    "appId": "com.joinzoe.result",
+    "title": "ZOE Health: AI Food Scanner",
+    "updated": "2025-05-19T08:09:14.000Z",
+    "score": 4.77684,
+    "appVersion": "1.10.16",
+    "developer": "Zoe Limited"
+  },
+  {
+    "appId": "com.mindbodyonline.connect",
+    "title": "Mindbody: Fitness & Wellness",
+    "updated": "2025-05-22T08:50:41.000Z",
+    "score": 4.89379,
+    "appVersion": "7.85.0",
+    "developer": "MINDBODY Inc."
+  },
+  {
+    "appId": "com.aetna.ngx",
+    "title": "Aetna Health",
+    "updated": "2025-05-13T14:22:08.000Z",
+    "score": 4.66927,
+    "appVersion": "7.31.0",
+    "developer": "Aetna Inc."
+  },
+  {
+    "appId": "com.vnm.i-give-up",
+    "title": "QUITTR: Quit Porn Now",
+    "updated": "2025-05-16T21:27:03.000Z",
+    "score": 4.78381,
+    "appVersion": "116.0",
+    "developer": "Quittr, LLC"
+  },
+  {
+    "appId": "com.ladder.bootcamp",
+    "title": "LADDER Strength Training Plans",
+    "updated": "2025-05-11T18:01:45.000Z",
+    "score": 4.94137,
+    "appVersion": "3.7.0",
+    "developer": "Ladder Technologies, Inc."
+  },
+  {
+    "appId": "com.whoop.iphone",
+    "title": "WHOOP Performance Optimization",
+    "updated": "2025-05-19T19:28:33.000Z",
+    "score": 4.55141,
+    "appVersion": "5.0.2",
+    "developer": "WHOOP"
+  },
+  {
+    "appId": "com.cigna.mobile.myCigna",
+    "title": "myCigna",
+    "updated": "2025-05-21T17:06:07.000Z",
+    "score": 4.75454,
+    "appVersion": "5.90.0",
+    "developer": "Cigna Corporation"
+  },
+  {
+    "appId": "com.prove-it.app",
+    "title": "Prove It - Supplement Scanner",
+    "updated": "2025-05-20T19:31:53.000Z",
+    "score": 4.59922,
+    "appVersion": "2.5",
+    "developer": "Control. Alt. Delete. LLC"
+  },
+  {
+    "appId": "com.wikr.walking",
+    "title": "Walking Weight Loss: WalkFit",
+    "updated": "2025-05-15T19:37:01.000Z",
+    "score": 4.66741,
+    "appVersion": "2.67.2",
+    "developer": "WELLTECH APPS LIMITED"
+  },
+  {
+    "appId": "com.heavydutyapps.gymWorkout",
+    "title": "Gymverse: Gym Workout Planner",
+    "updated": "2025-05-22T13:39:30.000Z",
+    "score": 4.84516,
+    "appVersion": "7.8010",
+    "developer": "FITNESS22 LTD"
+  },
+  {
+    "appId": "com.lafitness.lafitness",
+    "title": "LA Fitness Mobile",
+    "updated": "2025-05-06T16:03:15.000Z",
+    "score": 2.21778,
+    "appVersion": "4.5.7",
+    "developer": "Fitness International, LLC"
+  },
+  {
+    "appId": "com.medbridgeeducation.HEP",
+    "title": "MedBridge GO for Patients",
+    "updated": "2024-04-01T16:22:26.000Z",
+    "score": 4.75671,
+    "appVersion": "2.6.2",
+    "developer": "MedBridge Education LLC"
+  },
+  {
+    "appId": "com.ilbsoft.irelax",
+    "title": "BetterSleep: Relax and Sleep",
+    "updated": "2025-05-14T14:03:28.000Z",
+    "score": 4.76351,
+    "appVersion": "25.8.1",
+    "developer": "Ipnos Software Inc."
+  },
+  {
+    "appId": "com.hatchbaby.Nightlight",
+    "title": "Hatch Sleep",
+    "updated": "2025-05-21T19:40:41.000Z",
+    "score": 4.63705,
+    "appVersion": "5.20.4",
+    "developer": "Hatch Baby, Inc."
+  },
+  {
+    "appId": "com.municorn.CalorieCounter",
+    "title": "Calorie Counter & Food Tracker",
+    "updated": "2025-05-21T08:34:55.000Z",
+    "score": 4.46799,
+    "appVersion": "1.3.3",
+    "developer": "Municorn"
+  },
+  {
+    "appId": "com.gigastudios.oliveapp",
+    "title": "Olive - Holistic Food Scanner",
+    "updated": "2025-05-20T05:48:39.000Z",
+    "score": 4.81365,
+    "appVersion": "1.1.14",
+    "developer": "Giga Studios, Inc"
+  },
+  {
+    "appId": "com.bowery-digital.bend",
+    "title": "Stretching & Flexibility: Bend",
+    "updated": "2025-05-09T10:04:45.000Z",
+    "score": 4.75006,
+    "appVersion": "6.3.0",
+    "developer": "Bowery Digital"
+  },
+  {
+    "appId": "com.caldiet.calcounter",
+    "title": "CalDiet-AI Calorie Counter",
+    "updated": "2025-05-21T06:55:44.000Z",
+    "score": 4.85188,
+    "appVersion": "2.0.0",
+    "developer": "HAPPY AI INC."
+  },
+  {
+    "appId": "com.pookies.food.ai",
+    "title": "BitePal: AI Calorie Tracker",
+    "updated": "2025-05-13T09:32:34.000Z",
+    "score": 4.69179,
+    "appVersion": "1.14.7",
+    "developer": "Reface Lithuania UAB"
+  },
+  {
+    "appId": "com.foodisgood.fig",
+    "title": "Fig: Food Scanner & Discovery",
+    "updated": "2025-05-21T21:10:50.000Z",
+    "score": 4.59473,
+    "appVersion": "4.112.0",
+    "developer": "Food is Good, Inc."
+  },
+  {
+    "appId": "com.pulse.heartkit",
+    "title": "iCardiac: Heart Health Monitor",
+    "updated": "2025-04-28T20:48:42.000Z",
+    "score": 4.79064,
+    "appVersion": "3.0.0",
+    "developer": "BEGAMOB GLOBAL LIMITED"
+  },
+  {
+    "appId": "com.AlodBloodPres.AlodBloodPres",
+    "title": "AlodBloodPressure:HealthRecord",
+    "updated": "2025-03-24T11:43:28.000Z",
+    "score": 4.61042,
+    "appVersion": "1.1.6",
+    "developer": "Guangzhou Kangyimei Network Technology Co., Ltd."
+  },
+  {
+    "appId": "Q5AWL8WCY6.iMapMyRun",
+    "title": "Map My Run GPS Running Tracker",
+    "updated": "2025-05-19T12:51:15.000Z",
+    "score": 4.83241,
+    "appVersion": "25.4.1",
+    "developer": "Outside Television Inc"
+  },
+  {
+    "appId": "io.beek.musa",
+    "title": "Musa: Period & Self-Care Pet",
+    "updated": "2025-05-02T16:11:14.000Z",
+    "score": 4.83261,
+    "appVersion": "0.2.19",
+    "developer": "Musa Health, Inc"
+  },
+  {
+    "appId": "com.renpho.health",
+    "title": "Renpho Health",
+    "updated": "2025-05-20T22:05:08.000Z",
+    "score": 4.42417,
+    "appVersion": "6.18.0",
+    "developer": "Joicom corporation"
+  },
+  {
+    "appId": "com.lifetimefitness.interests.ltfitness",
+    "title": "Life Time Digital",
+    "updated": "2025-05-20T14:30:27.000Z",
+    "score": 4.77811,
+    "appVersion": "2025.5.16",
+    "developer": "Life Time, Inc."
+  },
+  {
+    "appId": "com.ithinkers.eatwell",
+    "title": "Diet & Food Tracker: EatWell",
+    "updated": "2025-05-06T08:25:34.000Z",
+    "score": 4.75551,
+    "appVersion": "1.2.16",
+    "developer": "MWM"
+  },
+  {
+    "appId": "com.ionicframework.betterhelp369708",
+    "title": "BetterHelp - Therapy",
+    "updated": "2025-04-08T05:27:01.000Z",
+    "score": 4.81457,
+    "appVersion": "20.2.2",
+    "developer": "BetterHelp"
+  },
+  {
+    "appId": "com.aheadsolutions.aHead",
+    "title": "Ahead: Emotions Coach",
+    "updated": "2025-04-30T15:24:41.000Z",
+    "score": 4.73283,
+    "appVersion": "1.58.1",
+    "developer": "ahead Solutions GmbH"
+  },
+  {
+    "appId": "com.abishkking.periodcalendar",
+    "title": "Period Tracker Period Calendar",
+    "updated": "2025-05-21T03:35:53.000Z",
+    "score": 4.9261,
+    "appVersion": "2.89.4",
+    "developer": "ABISHKKING LIMITED."
+  },
+  {
+    "appId": "co.supp.app",
+    "title": "SuppCo: Supplement Tracker",
+    "updated": "2025-05-13T16:42:57.000Z",
+    "score": 4.82028,
+    "appVersion": "1.8.2",
+    "developer": "Supple Stack Inc"
+  },
+  {
+    "appId": "com.abishkking.maleworkout",
+    "title": "Home Workout - No Equipments",
+    "updated": "2025-05-21T09:46:25.000Z",
+    "score": 4.87134,
+    "appVersion": "1.34.10",
+    "developer": "Leap Health"
+  },
+  {
+    "appId": "com.netpulse.eosfitness",
+    "title": "EōS Fitness",
+    "updated": "2025-04-30T06:11:50.000Z",
+    "score": 4.45253,
+    "appVersion": "4.25",
+    "developer": "Fitness Alliance LLC"
+  },
+  {
+    "appId": "com.blood.pressure.monitor.tracker",
+    "title": "Blood Pressure-Monitor Tracker",
+    "updated": "2025-04-30T02:15:59.000Z",
+    "score": 4.31243,
+    "appVersion": "3.0.1",
+    "developer": "Novabeyond Limited"
+  },
+  {
+    "appId": "com.getsomeheadspace.headspace",
+    "title": "Headspace: Meditation & Sleep",
+    "updated": "2025-05-21T03:05:05.000Z",
+    "score": 4.845,
+    "appVersion": "3.373.1",
+    "developer": "Headspace Inc."
+  },
+  {
+    "appId": "alarm.smart.awake.sleep.health",
+    "title": "Me+ Lifestyle Routine",
+    "updated": "2025-05-22T07:10:03.000Z",
+    "score": 4.8139,
+    "appVersion": "2.6.1",
+    "developer": "Enerjoy Pte. Ltd."
+  },
+  {
+    "appId": "hrm.fitme",
+    "title": "InPulse - Heart Rate Monitor",
+    "updated": "2025-04-02T12:40:32.000Z",
+    "score": 4.6376,
+    "appVersion": "2.59",
+    "developer": "AIBY"
+  },
+  {
+    "appId": "com.helloclue.clue",
+    "title": "Clue Period & Cycle Tracker",
+    "updated": "2025-05-19T13:45:41.000Z",
+    "score": 4.76384,
+    "appVersion": "221.0",
+    "developer": "BioWink GmbH"
+  },
+  {
+    "appId": "com.crossforward.pedometer",
+    "title": "Pedometer++",
+    "updated": "2025-05-22T13:44:48.000Z",
+    "score": 4.78268,
+    "appVersion": "6.2.6",
+    "developer": "Cross Forward Consulting, LLC"
+  },
+  {
+    "appId": "com.fitbit.FitbitMobile",
+    "title": "Fitbit: Health & Fitness",
+    "updated": "2025-05-12T13:57:21.000Z",
+    "score": 4.49061,
+    "appVersion": "4.43",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.sbs.diet",
+    "title": "MacroFactor - Macro Tracker",
+    "updated": "2025-05-04T02:07:51.000Z",
+    "score": 4.80592,
+    "appVersion": "5.1.2",
+    "developer": "Stronger By Science Technologies LLC"
+  },
+  {
+    "appId": "com.MonkeyTaps.IAM",
+    "title": "I am - Daily Affirmations",
+    "updated": "2025-05-08T08:18:53.000Z",
+    "score": 4.84816,
+    "appVersion": "5.99.0",
+    "developer": "Monkey Taps"
+  },
+  {
+    "appId": "com.approver.stretchy",
+    "title": "Stretch Go: Stretching, Splits",
+    "updated": "2025-05-13T09:20:40.000Z",
+    "score": 4.56508,
+    "appVersion": "1.4.4",
+    "developer": "App Rover"
+  },
+  {
+    "appId": "com.weightloss.health",
+    "title": "Lasta: Healthy Weight Loss",
+    "updated": "2025-05-06T22:29:21.000Z",
+    "score": 4.62758,
+    "appVersion": "2.4.4",
+    "developer": "Lasta Inc."
+  },
+  {
+    "appId": "com.pulseheartcheck.app",
+    "title": "Check Heart Rate Now",
+    "updated": "2025-05-21T18:21:47.000Z",
+    "score": 4.13449,
+    "appVersion": "3.10",
+    "developer": "Epiphany Digital Ltd."
+  },
+  {
+    "appId": "com.dexcom.stelo",
+    "title": "Stelo by Dexcom",
+    "updated": "2025-05-09T19:04:34.000Z",
+    "score": 3.0902,
+    "appVersion": "1.6.1",
+    "developer": "Dexcom"
+  },
+  {
+    "appId": "com.tmsoft.WhiteNoiseLite",
+    "title": "White Noise Lite",
+    "updated": "2025-05-10T19:44:42.000Z",
+    "score": 4.82724,
+    "appVersion": "8.1.1",
+    "developer": "TMSOFT"
+  },
+  {
+    "appId": "com.lexwarelabs.goodmorning",
+    "title": "Sleep Cycle - Tracker & Sounds",
+    "updated": "2025-05-19T09:26:01.000Z",
+    "score": 4.60436,
+    "appVersion": "6.25.19",
+    "developer": "Sleep Cycle AB"
+  },
+  {
+    "appId": "org.kp.m",
+    "title": "Kaiser Permanente",
+    "updated": "2025-05-08T13:00:25.000Z",
+    "score": 4.79481,
+    "appVersion": "6.13",
+    "developer": "Kaiser Permanente"
+  },
+  {
+    "appId": "com.fullscript.mobile",
+    "title": "Fullscript",
+    "updated": "2025-05-20T13:25:03.000Z",
+    "score": 4.92269,
+    "appVersion": "1.48.0",
+    "developer": "HealthWave Inc."
+  },
+  {
+    "appId": "com.yourtrainer.go24",
+    "title": "24GO by 24 Hour Fitness",
+    "updated": "2025-03-31T14:03:07.000Z",
+    "score": 4.49686,
+    "appVersion": "1.78.0",
+    "developer": "Yourtrainer, Inc."
+  },
+  {
+    "appId": "com.kitefaster.MagicBabySleeperFree",
+    "title": "White Noise Deep Sleep Sounds",
+    "updated": "2025-05-17T10:17:22.000Z",
+    "score": 4.80117,
+    "appVersion": "3.36.0",
+    "developer": "Slumber Studios, LLC"
+  },
+  {
+    "appId": "build.designand.rise",
+    "title": "Rise: Life reset in 66 days",
+    "updated": "2025-05-21T07:11:35.000Z",
+    "score": 4.65438,
+    "appVersion": "4.0.3",
+    "developer": "Ka Wai Tong"
+  },
+  {
+    "appId": "com.spotlightsix.zentimer",
+    "title": "Insight Timer–Meditate & Sleep",
+    "updated": "2025-05-22T11:37:06.000Z",
+    "score": 4.89635,
+    "appVersion": "19.18.0",
+    "developer": "Insight Network Inc"
+  },
+  {
+    "appId": "app.cosmetic",
+    "title": "OnSkin - AI Product Scanner",
+    "updated": "2025-04-11T16:36:26.000Z",
+    "score": 4.6917,
+    "appVersion": "3.3",
+    "developer": "AIBY"
+  },
+  {
+    "appId": "com.main.dreamalign",
+    "title": "FеетFіndеr: FоотРісѕ",
+    "updated": "2025-03-28T18:27:16.000Z",
+    "score": 1.43333,
+    "appVersion": "1.0.2",
+    "developer": "DreamAlign: Night Logs"
+  },
+  {
+    "appId": "com.illumeostech.healthpal",
+    "title": "Health Pal-Calorie & Lifestyle",
+    "updated": "2024-11-21T03:50:00.000Z",
+    "score": 4.4325,
+    "appVersion": "1.6",
+    "developer": "ILLUMEOS"
+  },
+  {
+    "appId": "com.hevyapp.hevy",
+    "title": "Hevy - Workout Tracker Gym Log",
+    "updated": "2025-05-21T09:19:44.000Z",
+    "score": 4.92239,
+    "appVersion": "2.2.11",
+    "developer": "Hevy Studios S.L."
+  },
+  {
+    "appId": "com.goldwrightmedia.healthplanner",
+    "title": "Health Planner & Tracker",
+    "updated": "2024-05-15T04:00:27.000Z",
+    "score": 4.57761,
+    "appVersion": "1.6",
+    "developer": "Goldwright"
+  },
+  {
+    "appId": "com.amapps.simple",
+    "title": "Simple: Weight Loss Coach",
+    "updated": "2025-05-21T18:29:33.000Z",
+    "score": 4.71073,
+    "appVersion": "7.8.76",
+    "developer": "AM APPS"
+  },
+  {
+    "appId": "com.vitalii.water",
+    "title": "Water tracker Waterllama",
+    "updated": "2025-04-17T12:17:02.000Z",
+    "score": 4.8825,
+    "appVersion": "1.88.1",
+    "developer": "Llama Luna Apps"
+  },
+  {
+    "appId": "de.BodyFast.BodyFast2",
+    "title": "BodyFast: Intermittent Fasting",
+    "updated": "2025-05-12T08:59:20.000Z",
+    "score": 4.712,
+    "appVersion": "3.47.0",
+    "developer": "BodyFast GmbH"
+  },
+  {
+    "appId": "com.inbody.inbody2014",
+    "title": "InBody",
+    "updated": "2025-05-21T01:25:18.000Z",
+    "score": 3.50343,
+    "appVersion": "2.6.6",
+    "developer": "InBody Co., Ltd."
+  },
+  {
+    "appId": "com.visionwizard.sleeptrack",
+    "title": "Sleepway: Sleep Tracker, Sound",
+    "updated": "2025-05-20T07:13:14.000Z",
+    "score": 4.63387,
+    "appVersion": "1.3.5",
+    "developer": "Vision Wizard"
+  },
+  {
+    "appId": "com.anytimefitness.UserApp",
+    "title": "AF App",
+    "updated": "2025-05-21T11:19:44.000Z",
+    "score": 4.78486,
+    "appVersion": "3.3.2",
+    "developer": "Anytime Fitness, LLC"
+  },
+  {
+    "appId": "com.chase",
+    "title": "Chase Mobile®: Bank & Invest",
+    "updated": "2025-05-21T07:19:01.000Z",
+    "score": 4.84235,
+    "appVersion": "4.641",
+    "developer": "JPMorgan Chase & Co."
+  },
+  {
+    "appId": "com.statefarm.mobile.iphone",
+    "title": "State Farm®",
+    "updated": "2025-05-15T22:06:31.000Z",
+    "score": 4.79545,
+    "appVersion": "10.144.0",
+    "developer": "State Farm Mutual Automobile Insurance Company"
+  },
+  {
+    "appId": "com.experian.experianapp",
+    "title": "Experian®",
+    "updated": "2025-05-19T18:06:56.000Z",
+    "score": 4.84346,
+    "appVersion": "ECW 4.1.31",
+    "developer": "Experian"
+  },
+  {
+    "appId": "com.wf.mobilebanking",
+    "title": "Wells Fargo Mobile®",
+    "updated": "2025-05-21T01:06:48.000Z",
+    "score": 4.85628,
+    "appVersion": "25.05.01",
+    "developer": "Wells Fargo"
+  },
+  {
+    "appId": "com.bankofamerica.BofA",
+    "title": "Bank of America Mobile Banking",
+    "updated": "2025-05-12T02:04:55.000Z",
+    "score": 4.81548,
+    "appVersion": "25.05.02",
+    "developer": "Bank of America"
+  },
+  {
+    "appId": "com.vilcsak.bitcoin2",
+    "title": "Coinbase: Buy BTC, ETH, SOL",
+    "updated": "2025-05-12T16:00:45.000Z",
+    "score": 4.67941,
+    "appVersion": "13.17.9",
+    "developer": "Coinbase, Inc."
+  },
+  {
+    "appId": "com.americanexpress.amexservice",
+    "title": "Amex",
+    "updated": "2025-04-29T17:59:42.000Z",
+    "score": 4.88173,
+    "appVersion": "7.18.0",
+    "developer": "American Express"
+  },
+  {
+    "appId": "com.truebill.truebillnative",
+    "title": "Rocket Money - Bills & Budgets",
+    "updated": "2025-05-14T18:52:45.000Z",
+    "score": 4.45258,
+    "appVersion": "8.0.1",
+    "developer": "Rocket Money"
+  },
+  {
+    "appId": "com.geico.GloveBox",
+    "title": "GEICO Mobile - Car Insurance",
+    "updated": "2025-05-19T15:50:47.000Z",
+    "score": 4.80957,
+    "appVersion": "5.87.1",
+    "developer": "GEICO"
+  },
+  {
+    "appId": "com.citigroup.citimobile",
+    "title": "Citi Mobile®",
+    "updated": "2025-04-28T20:08:34.000Z",
+    "score": 4.88138,
+    "appVersion": "9.83.1",
+    "developer": "Citibank"
+  },
+  {
+    "appId": "com.robinhood.release.Robinhood",
+    "title": "Robinhood - FinTech SuperApp",
+    "updated": "2025-05-19T21:00:22.000Z",
+    "score": 4.25447,
+    "appVersion": "2025.20.0",
+    "developer": "Robinhood Markets, Inc."
+  },
+  {
+    "appId": "com.fidelity.watchlist",
+    "title": "Fidelity Investments",
+    "updated": "2025-05-08T11:24:21.000Z",
+    "score": 4.78055,
+    "appVersion": "4.2",
+    "developer": "Fidelity Investments"
+  },
+  {
+    "appId": "com.discoverfinancial.mobile",
+    "title": "Discover Mobile",
+    "updated": "2025-05-19T16:31:50.000Z",
+    "score": 4.85919,
+    "appVersion": "2507.5",
+    "developer": "Discover Financial Services"
+  },
+  {
+    "appId": "com.creditonebank.mobile",
+    "title": "Credit One Bank Mobile",
+    "updated": "2025-04-29T17:53:31.000Z",
+    "score": 4.7579,
+    "appVersion": "25.04.1",
+    "developer": "Credit One Bank, N.A."
+  },
+  {
+    "appId": "com.remitly.remitly",
+    "title": "Remitly: Send Money & Transfer",
+    "updated": "2025-05-20T15:18:21.000Z",
+    "score": 4.87984,
+    "appVersion": "6.41",
+    "developer": "Remitly Inc"
+  },
+  {
+    "appId": "com.MoneyLion.MoneyLion",
+    "title": "MoneyLion: Banking & Rewards",
+    "updated": "2025-05-19T01:41:20.000Z",
+    "score": 4.75314,
+    "appVersion": "7.126.0",
+    "developer": "MoneyLion"
+  },
+  {
+    "appId": "com.hellobrigit.Brigit",
+    "title": "Brigit: Cash Advance & Credit",
+    "updated": "2025-05-21T17:27:04.000Z",
+    "score": 4.82182,
+    "appVersion": "835.0",
+    "developer": "Brigit Inc"
+  },
+  {
+    "appId": "com.onefinance.one",
+    "title": "OnePay – Mobile Banking",
+    "updated": "2025-05-14T15:43:24.000Z",
+    "score": 4.83983,
+    "appVersion": "5.7.0",
+    "developer": "One Finance, Inc."
+  },
+  {
+    "appId": "com.sofi.mobile",
+    "title": "SoFi - Banking & Investing",
+    "updated": "2025-05-19T15:40:46.000Z",
+    "score": 4.76652,
+    "appVersion": "3.44.0",
+    "developer": "Social Finance, Inc"
+  },
+  {
+    "appId": "com.current.currentapp",
+    "title": "Current: The Future of Banking",
+    "updated": "2025-05-22T13:20:42.000Z",
+    "score": 4.76748,
+    "appVersion": "7.29.0",
+    "developer": "Finco Services, Inc."
+  },
+  {
+    "appId": "com.empower.finance",
+    "title": "Empower: Cash Advance & Credit",
+    "updated": "2025-05-20T21:19:46.000Z",
+    "score": 4.83761,
+    "appVersion": "6.96.0",
+    "developer": "Empower Finance"
+  },
+  {
+    "appId": "com.trydave.dave",
+    "title": "Dave: Fast Cash & Banking",
+    "updated": "2025-05-19T21:36:03.000Z",
+    "score": 4.78589,
+    "appVersion": "3.73.0",
+    "developer": "Dave, Inc"
+  },
+  {
+    "appId": "com.kikoff",
+    "title": "Kikoff – Build Credit Quickly",
+    "updated": "2025-05-14T16:48:32.000Z",
+    "score": 4.92258,
+    "appVersion": "1.120.1716",
+    "developer": "Kikoff, Inc."
+  },
+  {
+    "appId": "com.tradingview.tradingviewapp",
+    "title": "TradingView: Track All Markets",
+    "updated": "2025-05-06T15:58:42.000Z",
+    "score": 4.85437,
+    "appVersion": "2.107.0",
+    "developer": "TradingView"
+  },
+  {
+    "appId": "com.meetcleo.cleo",
+    "title": "Cleo AI: Smart Money Manager",
+    "updated": "2025-05-19T14:07:12.000Z",
+    "score": 4.56076,
+    "appVersion": "1.378.0",
+    "developer": "Cleo AI Ltd"
+  },
+  {
+    "appId": "com.blackhawk.myprepaidcenter",
+    "title": "MyCardWallet.",
+    "updated": "2025-05-08T08:05:17.000Z",
+    "score": 4.83153,
+    "appVersion": "3.6.3",
+    "developer": "Blackhawk Network"
+  },
+  {
+    "appId": "com.activehours.Activehours",
+    "title": "EarnIn: Why Wait for Payday?",
+    "updated": "2025-05-19T18:49:48.000Z",
+    "score": 4.72921,
+    "appVersion": "15.69",
+    "developer": "Activehours Inc."
+  },
+  {
+    "appId": "co.mona.Monaco",
+    "title": "Crypto.com - Buy BTC, CRO, XRP",
+    "updated": "2025-05-13T03:33:09.000Z",
+    "score": 4.65247,
+    "appVersion": "3.210.11",
+    "developer": "Crypto.com"
+  },
+  {
+    "appId": "com.albert.Albert",
+    "title": "Albert: Budgeting and Banking",
+    "updated": "2025-05-21T02:55:32.000Z",
+    "score": 4.60093,
+    "appVersion": "9.0.75",
+    "developer": "Albert Corporation"
+  },
+  {
+    "appId": "com.exto.arrow",
+    "title": "Atlas - Rewards Credit Card",
+    "updated": "2025-05-18T08:16:43.000Z",
+    "score": 4.67465,
+    "appVersion": "3.5.7",
+    "developer": "Exto Inc."
+  },
+  {
+    "appId": "com.kikoff.theseus",
+    "title": "Grant: Cash Advance",
+    "updated": "2025-05-22T14:56:48.000Z",
+    "score": 4.77918,
+    "appVersion": "2.18.236",
+    "developer": "Kikoff, Inc."
+  },
+  {
+    "appId": "com.barclaycardus.iphonesvc",
+    "title": "Barclays US",
+    "updated": "2025-04-25T22:32:22.000Z",
+    "score": 4.84509,
+    "appVersion": "8.4.8",
+    "developer": "Barclays Bank Delaware"
+  },
+  {
+    "appId": "com.kraken.invest.app",
+    "title": "Kraken: Buy Stocks & Crypto",
+    "updated": "2025-05-06T10:02:12.000Z",
+    "score": 4.69834,
+    "appVersion": "3.14.0",
+    "developer": "Kraken"
+  },
+  {
+    "appId": "com.allstate.dev.allstate",
+    "title": "Allstate® Mobile",
+    "updated": "2025-05-22T04:11:46.000Z",
+    "score": 4.78193,
+    "appVersion": "19.9",
+    "developer": "Allstate Insurance Company"
+  },
+  {
+    "appId": "com.Splitwise.SplitwiseMobile",
+    "title": "Splitwise",
+    "updated": "2025-05-07T14:26:55.000Z",
+    "score": 3.5943,
+    "appVersion": "25.5.1",
+    "developer": "Splitwise, Inc."
+  },
+  {
+    "appId": "com.getcopper.copperapp",
+    "title": "Copper: Play & Earn Cash Money",
+    "updated": "2025-04-02T17:35:36.000Z",
+    "score": 4.75948,
+    "appVersion": "4.36.0",
+    "developer": "NEXT Financial Inc"
+  },
+  {
+    "appId": "com.westernunion.mtapp",
+    "title": "Western Union Send Money Now",
+    "updated": "2025-05-21T05:49:34.000Z",
+    "score": 4.83587,
+    "appVersion": "15.4",
+    "developer": "Western Union Holdings, Inc."
+  },
+  {
+    "appId": "iq.qicard.qipay",
+    "title": "SuperQi",
+    "updated": "2025-05-18T07:40:15.000Z",
+    "score": 3.98894,
+    "appVersion": "1.0.27",
+    "developer": "THE INTERNATIONAL SMART CARD CO. LLC"
+  },
+  {
+    "appId": "com.DailyPay.DailyPay",
+    "title": "DailyPay On-Demand Pay",
+    "updated": "2025-05-21T14:49:15.000Z",
+    "score": 4.83005,
+    "appVersion": "30.0.1",
+    "developer": "Daily Pay Inc."
+  },
+  {
+    "appId": "com.fidelity.nbmobile",
+    "title": "NetBenefits",
+    "updated": "2025-05-19T19:34:50.000Z",
+    "score": 4.61693,
+    "appVersion": "4.21.1",
+    "developer": "Fidelity Investments"
+  },
+  {
+    "appId": "com.propel.ebenefits",
+    "title": "Propel: EBT, SNAP, WIC, & more",
+    "updated": "2025-04-30T13:56:48.000Z",
+    "score": 4.85791,
+    "appVersion": "7.18.0",
+    "developer": "Propel Inc"
+  },
+  {
+    "appId": "cash.wave.lending",
+    "title": "Cash Advance - Cash Wave",
+    "updated": "2025-05-08T14:58:38.000Z",
+    "score": 4.78847,
+    "appVersion": "1.2",
+    "developer": "Cash Wave Lending LLC"
+  },
+  {
+    "appId": "com.klovercredit.ios-app-production",
+    "title": "Klover - Instant Cash Advance",
+    "updated": "2025-05-11T22:02:54.000Z",
+    "score": 4.7342,
+    "appVersion": "2025.5.12",
+    "developer": "Klover Holdings, Inc."
+  },
+  {
+    "appId": "org.toshi.distribution",
+    "title": "Coinbase Wallet: NFTs & Crypto",
+    "updated": "2025-05-12T09:05:32.000Z",
+    "score": 4.56024,
+    "appVersion": "29.42",
+    "developer": "Coinbase Wallet"
+  },
+  {
+    "appId": "com.schwab.schwabmobile",
+    "title": "Schwab Mobile",
+    "updated": "2025-04-30T00:34:16.000Z",
+    "score": 4.76945,
+    "appVersion": "15.4.0",
+    "developer": "The Charles Schwab Corporation"
+  },
+  {
+    "appId": "com.gusto.money",
+    "title": "Gusto Mobile",
+    "updated": "2025-05-19T15:42:10.000Z",
+    "score": 4.82623,
+    "appVersion": "3.15.0",
+    "developer": "Gusto, inc."
+  },
+  {
+    "appId": "com.empower-retirement.ios.Participant-Mobile",
+    "title": "Empower®",
+    "updated": "2025-05-21T23:30:46.000Z",
+    "score": 4.77152,
+    "appVersion": "2025.05.21(2505.21.2)",
+    "developer": "Empower Retirement, LLC"
+  },
+  {
+    "appId": "com.transferwise.Transferwise",
+    "title": "Wise: International Transfers",
+    "updated": "2025-05-19T12:07:05.000Z",
+    "score": 4.70047,
+    "appVersion": "8.105",
+    "developer": "Wise Payments Ltd"
+  },
+  {
+    "appId": "com.usbank.icmobilebanking",
+    "title": "U.S. Bank Mobile Banking",
+    "updated": "2025-04-23T19:46:51.000Z",
+    "score": 4.79716,
+    "appVersion": "3.0.7393",
+    "developer": "U.S. Bancorp"
+  },
+  {
+    "appId": "com.brightcapital.app",
+    "title": "Bright - AI Debt Manager",
+    "updated": "2025-04-01T06:03:31.000Z",
+    "score": 4.79584,
+    "appVersion": "1.51.1",
+    "developer": "Bright Capital Inc"
+  },
+  {
+    "appId": "org.navyfederal.nfcuforiphone",
+    "title": "Navy Federal Credit Union",
+    "updated": "2025-05-12T14:00:33.000Z",
+    "score": 4.89006,
+    "appVersion": "7.2.1",
+    "developer": "Navy Federal Credit Union"
+  },
+  {
+    "appId": "com.lonoperationsllc.breadmobile",
+    "title": "Bread Financial",
+    "updated": "2025-05-12T12:46:09.000Z",
+    "score": 4.84564,
+    "appVersion": "4.5.2",
+    "developer": "Bread Financial Holdings, Inc."
+  },
+  {
+    "appId": "us.binance.fiat",
+    "title": "Binance.US: Buy Bitcoin & ETH",
+    "updated": "2025-05-20T12:13:26.000Z",
+    "score": 4.20716,
+    "appVersion": "3.20.5",
+    "developer": "BAM Trading Services, Inc."
+  },
+  {
+    "appId": "com.revolut.revolut",
+    "title": "Revolut: Send, spend and save",
+    "updated": "2025-05-22T12:22:05.000Z",
+    "score": 4.69441,
+    "appVersion": "10.80",
+    "developer": "Revolut Ltd"
+  },
+  {
+    "appId": "com.everydollar.EveryDollar",
+    "title": "EveryDollar: Budget Management",
+    "updated": "2025-05-21T13:59:43.000Z",
+    "score": 4.72902,
+    "appVersion": "2025.5.190",
+    "developer": "The Lampo Group Incorporated"
+  },
+  {
+    "appId": "com.taptapsend.TaptapSend",
+    "title": "Taptap Send: Money Transfer",
+    "updated": "2025-05-21T20:45:14.000Z",
+    "score": 4.75466,
+    "appVersion": "2.28.0",
+    "developer": "Taptap Send, Inc."
+  },
+  {
+    "appId": "org.genesis.fs.prod.MobileApplication",
+    "title": "Concora Credit",
+    "updated": "2025-04-17T17:23:57.000Z",
+    "score": 3.34907,
+    "appVersion": "2.0.11",
+    "developer": "CONCORA CREDIT INC."
+  },
+  {
+    "appId": "com.sixdays.trust",
+    "title": "Trust: Crypto & Bitcoin Wallet",
+    "updated": "2025-05-15T15:18:37.000Z",
+    "score": 4.66575,
+    "appVersion": "11.36",
+    "developer": "DApps Platform Software Services Ltd."
+  },
+  {
+    "appId": "com.fis.ebt.consumerapp",
+    "title": "ebtEDGE",
+    "updated": "2025-04-06T05:22:53.000Z",
+    "score": 1.78221,
+    "appVersion": "2.3.4",
+    "developer": "FIS"
+  },
+  {
+    "appId": "com.syf.mysynchrony",
+    "title": "MySynchrony",
+    "updated": "2025-05-20T13:05:52.000Z",
+    "score": 4.74824,
+    "appVersion": "4.3.1",
+    "developer": "Synchrony Financial"
+  },
+  {
+    "appId": "com.ally.MobileBanking",
+    "title": "Ally: Bank, Auto & Invest",
+    "updated": "2025-05-09T21:00:21.000Z",
+    "score": 4.66132,
+    "appVersion": "25.8.0",
+    "developer": "Ally Financial Inc."
+  },
+  {
+    "appId": "com.webull.trade",
+    "title": "Webull: Investing & Trading",
+    "updated": "2025-05-19T14:43:39.000Z",
+    "score": 4.70256,
+    "appVersion": "11.1.2",
+    "developer": "Webull Technologies Pte. Ltd."
+  },
+  {
+    "appId": "com.alinea-invest.release",
+    "title": "Alinea: Personalized Investing",
+    "updated": "2025-04-15T21:31:01.000Z",
+    "score": 4.72963,
+    "appVersion": "12.0.0",
+    "developer": "ALINEA INVEST, LLC"
+  },
+  {
+    "appId": "com.gemini.ios",
+    "title": "Gemini: Buy Bitcoin & Crypto",
+    "updated": "2025-05-19T14:01:28.000Z",
+    "score": 4.77558,
+    "appVersion": "25.515.2",
+    "developer": "Gemini Trust Company, LLC"
+  },
+  {
+    "appId": "com.varomoney.VaroBank",
+    "title": "Varo Bank: Online Banking",
+    "updated": "2025-05-05T22:43:16.000Z",
+    "score": 4.8685,
+    "appVersion": "4.8.0",
+    "developer": "Varo Money inc"
+  },
+  {
+    "appId": "com.creditgenie.app",
+    "title": "Credit Genie: Get Cash Advance",
+    "updated": "2025-02-14T11:07:05.000Z",
+    "score": 4.74179,
+    "appVersion": "2.4.2",
+    "developer": "Credit Genie"
+  },
+  {
+    "appId": "com.snaptravel.core",
+    "title": "Super.com - Save, Earn, Travel",
+    "updated": "2025-05-14T20:05:19.000Z",
+    "score": 4.6742,
+    "appVersion": "11.0.53",
+    "developer": "SnapTravel"
+  },
+  {
+    "appId": "com.pnc.pncmobile",
+    "title": "PNC Mobile Banking",
+    "updated": "2025-04-17T17:07:40.000Z",
+    "score": 4.85166,
+    "appVersion": "4.56",
+    "developer": "PNC Bank, N.A."
+  },
+  {
+    "appId": "com.acorns.investor",
+    "title": "Acorns: Invest For Your Future",
+    "updated": "2025-05-19T18:30:27.000Z",
+    "score": 4.74519,
+    "appVersion": "4.145.0",
+    "developer": "Acorns Grow Incorporated"
+  },
+  {
+    "appId": "com.prgventures.moneyapp",
+    "title": "Money App - Cash Advance",
+    "updated": "2025-05-22T02:30:30.000Z",
+    "score": 4.61137,
+    "appVersion": "2.15.3",
+    "developer": "PRG Ventures, Inc."
+  },
+  {
+    "appId": "com.FloatMe.FloatMe-iOS-V1",
+    "title": "FloatMe: Fast Cash Advance App",
+    "updated": "2025-05-16T21:42:59.000Z",
+    "score": 4.76001,
+    "appVersion": "7.14.1",
+    "developer": "FloatMe"
+  },
+  {
+    "appId": "com.dubapp.app",
+    "title": "dub | Copy Trade Anyone",
+    "updated": "2025-05-19T12:21:14.000Z",
+    "score": 4.70295,
+    "appVersion": "4.17.0",
+    "developer": "DASTA Incorporated"
+  },
+  {
+    "appId": "com.usaa.UsaaMobile",
+    "title": "USAA Mobile",
+    "updated": "2025-05-19T16:07:56.000Z",
+    "score": 4.81155,
+    "appVersion": "9.51.3",
+    "developer": "USAA"
+  },
+  {
+    "appId": "com.fis.901",
+    "title": "WesBanco Consumer Mobile",
+    "updated": "2025-03-26T09:45:08.000Z",
+    "score": 4.75155,
+    "appVersion": "6.0.0.5758",
+    "developer": "WesBanco Bank"
+  },
+  {
+    "appId": "com.lemonadeInc.Lemonade",
+    "title": "Lemonade Insurance",
+    "updated": "2025-04-30T06:24:19.000Z",
+    "score": 4.86164,
+    "appVersion": "9.18",
+    "developer": "Lemonade Inc."
+  },
+  {
+    "appId": "com.possiblefinance.mobileios",
+    "title": "Possible: Fast Cash & Credit",
+    "updated": "2025-05-06T15:53:22.000Z",
+    "score": 4.79049,
+    "appVersion": "2.3.2",
+    "developer": "Possible Finance"
+  },
+  {
+    "appId": "com.syf.CareCredit",
+    "title": "CareCredit Mobile",
+    "updated": "2025-03-05T16:14:41.000Z",
+    "score": 4.81402,
+    "appVersion": "4.29.0",
+    "developer": "Synchrony Financial"
+  },
+  {
+    "appId": "com.branchapp.uberprocard",
+    "title": "Uber Pro Card",
+    "updated": "2025-05-12T14:28:14.000Z",
+    "score": 4.93236,
+    "appVersion": "2025.5.1",
+    "developer": "Branch Messenger Inc."
+  },
+  {
+    "appId": "gov.irs.IRS2Go",
+    "title": "IRS2Go",
+    "updated": "2025-02-08T19:23:36.000Z",
+    "score": 2.83456,
+    "appVersion": "5.6.8",
+    "developer": "Internal Revenue Service"
+  },
+  {
+    "appId": "com.selflender.thor",
+    "title": "Self - Credit Builder",
+    "updated": "2025-05-19T18:22:01.000Z",
+    "score": 4.85357,
+    "appVersion": "6.8.0",
+    "developer": "Self Lender, Inc."
+  },
+  {
+    "appId": "com.adp.wiselymobile",
+    "title": "myWisely: Mobile Banking",
+    "updated": "2024-12-11T14:33:52.000Z",
+    "score": 4.66293,
+    "appVersion": "24.49.0",
+    "developer": "ADP, Inc"
+  },
+  {
+    "appId": "com.moneygram.us",
+    "title": "MoneyGram® Money Transfers App",
+    "updated": "2025-05-20T20:05:06.000Z",
+    "score": 4.86463,
+    "appVersion": "25.5.20",
+    "developer": "MoneyGram International, Inc."
+  },
+  {
+    "appId": "com.capitalone.credittracker2",
+    "title": "Capital One CreditWise",
+    "updated": "2025-05-16T13:46:27.000Z",
+    "score": 4.83741,
+    "appVersion": "1.133.1",
+    "developer": "Capital One"
+  },
+  {
+    "appId": "com.kalshi.mobile",
+    "title": "Kalshi: Trade the Future",
+    "updated": "2025-05-21T21:38:33.000Z",
+    "score": 4.6352,
+    "appVersion": "9.8.4",
+    "developer": "KalshiEX LLC"
+  },
+  {
+    "appId": "com.keefegroup.access.corrections",
+    "title": "Access Corrections",
+    "updated": "2024-05-02T21:18:33.000Z",
+    "score": 2.61214,
+    "appVersion": "3.24.0",
+    "developer": "Keefe Group LLC"
+  },
+  {
+    "appId": "com.step.step",
+    "title": "Step: Instant Cash and Rewards",
+    "updated": "2025-05-21T20:57:13.000Z",
+    "score": 4.74895,
+    "appVersion": "25.8.0",
+    "developer": "Step Mobile Inc."
+  },
+  {
+    "appId": "com.lenmoinc.lenmo",
+    "title": "Lenme: Investing and Borrowing",
+    "updated": "2025-05-19T17:14:38.000Z",
+    "score": 4.3276,
+    "appVersion": "10.1.1",
+    "developer": "Lenme Inc."
+  },
+  {
+    "appId": "app.budgetbestie.budgetbestie",
+    "title": "Budget Bestie",
+    "updated": "2025-04-07T16:17:28.000Z",
+    "score": 3.97024,
+    "appVersion": "1.5.0",
+    "developer": "Budget Bestie Corp."
+  },
+  {
+    "appId": "com.vanguard.app",
+    "title": "Vanguard: Save, Invest, Retire",
+    "updated": "2025-05-21T20:05:00.000Z",
+    "score": 4.65392,
+    "appVersion": "13.5.0",
+    "developer": "The Vanguard Group, Inc."
+  },
+  {
+    "appId": "com.truistmobile.truist",
+    "title": "Truist Mobile",
+    "updated": "2025-05-08T19:25:31.000Z",
+    "score": 4.78956,
+    "appVersion": "4.1.1",
+    "developer": "Truist Financial Corporation"
+  },
+  {
+    "appId": "com.meetava.app",
+    "title": "Ava: Build Credit History Fast",
+    "updated": "2025-05-06T14:01:52.000Z",
+    "score": 4.89703,
+    "appVersion": "5.0.696",
+    "developer": "Ava Finance, Inc."
+  },
+  {
+    "appId": "com.facebook.stellaapp",
+    "title": "Meta AI",
+    "updated": "2025-05-16T18:00:38.000Z",
+    "score": 4.05263,
+    "appVersion": "220.0.0",
+    "developer": "Meta Platforms, Inc."
+  },
+  {
+    "appId": "mobi.mobilejump.freevpn",
+    "title": "VPN - Super Unlimited Proxy",
+    "updated": "2025-05-19T05:50:56.000Z",
+    "score": 4.61801,
+    "appVersion": "2.7.0",
+    "developer": "Mobile Jump Pte Ltd"
+  },
+  {
+    "appId": "com.google.calendar",
+    "title": "Google Calendar: Get Organized",
+    "updated": "2025-05-12T08:37:47.000Z",
+    "score": 4.5347,
+    "appVersion": "25.17.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.google.Slides",
+    "title": "Google Slides",
+    "updated": "2025-05-22T13:36:03.000Z",
+    "score": 4.66413,
+    "appVersion": "1.2025.20200",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.microsoft.Office.Word",
+    "title": "Microsoft Word",
+    "updated": "2025-05-19T14:51:13.000Z",
+    "score": 4.74562,
+    "appVersion": "2.97.1",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.yahoo.Aerogram",
+    "title": "Yahoo Mail",
+    "updated": "2025-05-11T03:55:51.000Z",
+    "score": 4.7016,
+    "appVersion": "7.64.0",
+    "developer": "Yahoo"
+  },
+  {
+    "appId": "com.microsoft.copilot",
+    "title": "Microsoft Copilot",
+    "updated": "2025-05-15T17:10:14.000Z",
+    "score": 4.82889,
+    "appVersion": "30.0.430514008",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.deepseek.chat",
+    "title": "DeepSeek - AI Assistant",
+    "updated": "2025-05-19T03:01:56.000Z",
+    "score": 4.0587,
+    "appVersion": "1.2.1",
+    "developer": "杭州深度求索人工智能基础技术研究有限公司"
+  },
+  {
+    "appId": "com.microsoft.LinkToWindows",
+    "title": "Link to Windows",
+    "updated": "2025-04-28T17:41:07.000Z",
+    "score": 3.74362,
+    "appVersion": "1.25032.22",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.hotspotvpn.super4-ios",
+    "title": "VPN - Fast VPN Super ™",
+    "updated": "2025-03-03T13:10:17.000Z",
+    "score": 4.68872,
+    "appVersion": "2.16",
+    "developer": "TOPAPPS TECH PTE LTD"
+  },
+  {
+    "appId": "com.cliffweitzman.speechifyMobile2",
+    "title": "Speechify – Text to Speech",
+    "updated": "2025-05-14T18:08:00.000Z",
+    "score": 4.64667,
+    "appVersion": "4.3.15",
+    "developer": "Speechify Inc."
+  },
+  {
+    "appId": "com.microsoft.Office.Excel",
+    "title": "Microsoft Excel",
+    "updated": "2025-05-19T14:51:13.000Z",
+    "score": 4.76396,
+    "appVersion": "2.97.1",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.microsoft.skydrive",
+    "title": "Microsoft OneDrive",
+    "updated": "2025-05-13T12:21:40.000Z",
+    "score": 4.70698,
+    "appVersion": "16.13.4",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.getdropbox.Dropbox",
+    "title": "Dropbox: File & Photo Storage",
+    "updated": "2025-05-19T17:46:45.000Z",
+    "score": 4.79485,
+    "appVersion": "426.2",
+    "developer": "Dropbox, Inc."
+  },
+  {
+    "appId": "com.intsig.CamScannerLite",
+    "title": "CamScanner - PDF Scanner App",
+    "updated": "2025-05-19T02:30:58.000Z",
+    "score": 4.85496,
+    "appVersion": "6.88.0",
+    "developer": "INTSIG Information Co., Ltd"
+  },
+  {
+    "appId": "com.hp.printer.control",
+    "title": "HP Smart",
+    "updated": "2025-05-16T14:50:13.000Z",
+    "score": 4.74866,
+    "appVersion": "18.10.1",
+    "developer": "HP Inc."
+  },
+  {
+    "appId": "com.att.shm",
+    "title": "Smart Home Manager",
+    "updated": "2025-05-22T14:29:42.000Z",
+    "score": 4.79166,
+    "appVersion": "2.2505.246",
+    "developer": "AT&T Services, Inc."
+  },
+  {
+    "appId": "ai.44px.chat",
+    "title": "AI Chat: Pixi",
+    "updated": "2025-05-12T11:29:07.000Z",
+    "score": 4.55034,
+    "appVersion": "0.48.7",
+    "developer": "44pixels"
+  },
+  {
+    "appId": "ai.perplexity.app",
+    "title": "Perplexity - Ask Anything",
+    "updated": "2025-05-21T00:30:06.000Z",
+    "score": 4.85818,
+    "appVersion": "2.46.0",
+    "developer": "Perplexity AI, Inc."
+  },
+  {
+    "appId": "com.google.GVDialer",
+    "title": "Google Voice",
+    "updated": "2025-05-15T19:06:25.000Z",
+    "score": 4.31236,
+    "appVersion": "25.19",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.csj.ling",
+    "title": "Ringtones Maker - the ring app",
+    "updated": "2025-04-21T01:32:20.000Z",
+    "score": 4.70674,
+    "appVersion": "1.9.22",
+    "developer": "苏娟 陈"
+  },
+  {
+    "appId": "com.aiby.chat",
+    "title": "ChatOn AI - Chat Bot Assistant",
+    "updated": "2025-04-30T22:03:13.000Z",
+    "score": 4.72642,
+    "appVersion": "1.59",
+    "developer": "AIBY"
+  },
+  {
+    "appId": "com.anthropic.claude",
+    "title": "Claude by Anthropic",
+    "updated": "2025-05-22T02:01:55.000Z",
+    "score": 4.76585,
+    "appVersion": "1.250519.3",
+    "developer": "Anthropic PBC"
+  },
+  {
+    "appId": "com.microsoft.Office.Powerpoint",
+    "title": "Microsoft PowerPoint",
+    "updated": "2025-05-19T14:51:13.000Z",
+    "score": 4.73146,
+    "appVersion": "2.97.1",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.dubox.drive",
+    "title": "TeraBox: Cloud Storage Space",
+    "updated": "2025-05-16T03:30:17.000Z",
+    "score": 4.37073,
+    "appVersion": "3.45.0",
+    "developer": "FLEXTECH INC."
+  },
+  {
+    "appId": "com.xvpn",
+    "title": "X-VPN - Super VPN & Best Proxy",
+    "updated": "2025-05-15T09:10:09.000Z",
+    "score": 4.66165,
+    "appVersion": "39.7.5",
+    "developer": "Free Connected Limited"
+  },
+  {
+    "appId": "genius.chat",
+    "title": "ChatBox AI - Chatbot Assistant",
+    "updated": "2025-05-16T14:50:12.000Z",
+    "score": 4.66356,
+    "appVersion": "1.70",
+    "developer": "FLORATE LIMITED"
+  },
+  {
+    "appId": "me.id.auth",
+    "title": "ID.me Authenticator",
+    "updated": "2025-04-21T15:56:54.000Z",
+    "score": 4.32946,
+    "appVersion": "1.5.12",
+    "developer": "ID.me"
+  },
+  {
+    "appId": "co.vulcanlabs.moodtracker",
+    "title": "AI Chatbot: AI Chat Smith 4",
+    "updated": "2025-05-16T14:09:48.000Z",
+    "score": 4.62927,
+    "appVersion": "7.17.0",
+    "developer": "Vulcan Labs Company Limited"
+  },
+  {
+    "appId": "notion.id",
+    "title": "Notion: Notes, Tasks, AI",
+    "updated": "2025-05-13T18:43:01.000Z",
+    "score": 4.7831,
+    "appVersion": "1.7.235",
+    "developer": "Notion Labs, Incorporated"
+  },
+  {
+    "appId": "co.appnation.geniechat",
+    "title": "Chatbot AI Assistant - Genie",
+    "updated": "2025-05-21T15:43:27.000Z",
+    "score": 4.72008,
+    "appVersion": "8.3.0",
+    "developer": "APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI"
+  },
+  {
+    "appId": "com.appfolio.resident-portal",
+    "title": "Online Portal by AppFolio",
+    "updated": "2025-05-19T22:16:07.000Z",
+    "score": 2.25503,
+    "appVersion": "1.19.0",
+    "developer": "AppFolio, Inc."
+  },
+  {
+    "appId": "com.aisense.otter",
+    "title": "Otter Transcribe Voice Notes",
+    "updated": "2025-05-08T13:36:18.000Z",
+    "score": 4.73555,
+    "appVersion": "3.74.0",
+    "developer": "Otter.ai, Inc."
+  },
+  {
+    "appId": "com.grammarly.keyboard",
+    "title": "Grammarly: AI Writing Keyboard",
+    "updated": "2025-05-15T12:59:03.000Z",
+    "score": 4.64553,
+    "appVersion": "6.14.0",
+    "developer": "Grammarly, Inc"
+  },
+  {
+    "appId": "works.jubilee.timetree",
+    "title": "TimeTree: Shared Calendar",
+    "updated": "2025-05-20T05:09:01.000Z",
+    "score": 4.85295,
+    "appVersion": "14.3.3",
+    "developer": "TimeTree, Inc."
+  },
+  {
+    "appId": "com.docusign.DocuSignIt",
+    "title": "Docusign - Upload & Sign Docs",
+    "updated": "2025-04-16T15:31:48.000Z",
+    "score": 4.87514,
+    "appVersion": "3.38.1",
+    "developer": "Docusign"
+  },
+  {
+    "appId": "mega.ios",
+    "title": "MEGA",
+    "updated": "2025-05-13T22:28:55.000Z",
+    "score": 4.58481,
+    "appVersion": "16.14",
+    "developer": "Mega Limited"
+  },
+  {
+    "appId": "com.crossforward.WidgetSmith",
+    "title": "Widgetsmith",
+    "updated": "2025-04-22T17:58:49.000Z",
+    "score": 4.59689,
+    "appVersion": "7.2.1",
+    "developer": "Cross Forward Consulting, LLC"
+  },
+  {
+    "appId": "mobile.app.tools.translator",
+    "title": "Translator GO: AI Translate",
+    "updated": "2025-05-12T10:17:00.000Z",
+    "score": 4.38924,
+    "appVersion": "4.2.2",
+    "developer": "MATdev"
+  },
+  {
+    "appId": "com.getpresentapp.Present",
+    "title": "BePresent: Screen Time Control",
+    "updated": "2025-05-15T16:00:36.000Z",
+    "score": 4.74694,
+    "appVersion": "0.17.95",
+    "developer": "Screen Detox Inc"
+  },
+  {
+    "appId": "com.withopal.opal",
+    "title": "Opal: Screen Time Control",
+    "updated": "2025-05-19T11:09:31.000Z",
+    "score": 4.76424,
+    "appVersion": "3.111",
+    "developer": "Opal OS"
+  },
+  {
+    "appId": "com.appcobber.ovpnspider",
+    "title": "VPN Proxy OvpnSpider",
+    "updated": "2025-02-10T04:07:33.000Z",
+    "score": 4.44444,
+    "appVersion": "6.4",
+    "developer": "WCOMES TECHNOLOGIES CO.,LIMITED"
+  },
+  {
+    "appId": "com.2stable.2fa",
+    "title": "Authenticator App",
+    "updated": "2025-05-22T12:28:40.000Z",
+    "score": 4.6758,
+    "appVersion": "3.35.0",
+    "developer": "2Stable"
+  },
+  {
+    "appId": "com.anchorfree.hss",
+    "title": "VPN Hotspot Shield: Super VPN",
+    "updated": "2025-05-17T13:54:59.000Z",
+    "score": 4.56953,
+    "appVersion": "8.29.0",
+    "developer": "AnchorFree Inc."
+  },
+  {
+    "appId": "com.microsoft.onenote",
+    "title": "Microsoft OneNote",
+    "updated": "2025-05-12T04:00:24.000Z",
+    "score": 4.71842,
+    "appVersion": "16.97",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.google.one",
+    "title": "Google One",
+    "updated": "2025-05-12T18:18:27.000Z",
+    "score": 4.72403,
+    "appVersion": "1.96",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.aichatbotassistant.app2024",
+    "title": "AI Chatbot－AI Chat Assistant",
+    "updated": "2025-04-18T16:45:05.000Z",
+    "score": 4.34227,
+    "appVersion": "1.6.0",
+    "developer": "Ocean Float Mobile"
+  },
+  {
+    "appId": "com.leomehlig.today",
+    "title": "Structured - Daily Planner",
+    "updated": "2025-05-20T10:33:28.000Z",
+    "score": 4.80733,
+    "appVersion": "4.1.7",
+    "developer": "unorderly GmbH"
+  },
+  {
+    "appId": "com.bd.formsapp",
+    "title": "Forms for Google Docs",
+    "updated": "2025-05-12T08:01:49.000Z",
+    "score": 4.72973,
+    "appVersion": "2.0.3",
+    "developer": "Aurora Innovation"
+  },
+  {
+    "appId": "com.microsoft.bing",
+    "title": "Microsoft Bing Search",
+    "updated": "2025-05-18T01:56:20.000Z",
+    "score": 4.74669,
+    "appVersion": "31.7.430516001",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.tappz.aichat",
+    "title": "AI Chat Assistant – ChatNow",
+    "updated": "2025-04-23T06:35:30.000Z",
+    "score": 4.82071,
+    "appVersion": "4.3.0",
+    "developer": "tappz"
+  },
+  {
+    "appId": "com.davetech.habit",
+    "title": "Habit Tracker",
+    "updated": "2025-05-09T02:59:17.000Z",
+    "score": 4.79868,
+    "appVersion": "2.10.17",
+    "developer": "Davetech Co., Ltd."
+  },
+  {
+    "appId": "com.pingidentity.pingid.prod",
+    "title": "PingID",
+    "updated": "2025-04-02T06:23:03.000Z",
+    "score": 2.88235,
+    "appVersion": "3.2.0",
+    "developer": "Ping Identity Corporation"
+  },
+  {
+    "appId": "com.surfshark.vpnclient.ios",
+    "title": "Surfshark VPN: Fast & Reliable",
+    "updated": "2025-04-16T03:32:00.000Z",
+    "score": 4.74016,
+    "appVersion": "3.23.2",
+    "developer": "Surfshark"
+  },
+  {
+    "appId": "com.pdf-converter.ios",
+    "title": "PDF Converter - Word to PDF",
+    "updated": "2025-03-25T12:34:41.000Z",
+    "score": 4.71807,
+    "appVersion": "1.7.10",
+    "developer": "Minimodev Technologies LTD"
+  },
+  {
+    "appId": "com.byteflowapps.GForms",
+    "title": "Form for Google Forms",
+    "updated": "2025-01-06T01:57:04.000Z",
+    "score": 4.77353,
+    "appVersion": "1.8.0",
+    "developer": "Amad Marwat"
+  },
+  {
+    "appId": "com.butterflymx.butterflymx",
+    "title": "ButterflyMX",
+    "updated": "2025-04-01T14:43:37.000Z",
+    "score": 4.83503,
+    "appVersion": "1.108.0",
+    "developer": "ButterflyMX, Inc."
+  },
+  {
+    "appId": "com.scaleup.chatai",
+    "title": "AI Chatbot - Nova",
+    "updated": "2025-04-14T07:14:45.000Z",
+    "score": 4.70026,
+    "appVersion": "3.7.6",
+    "developer": "SCALEUP YAZILIM HIZMETLERI"
+  },
+  {
+    "appId": "com.wix.ios",
+    "title": "Spaces: Follow Businesses",
+    "updated": "2025-05-22T07:40:47.000Z",
+    "score": 4.68468,
+    "appVersion": "2.107269.0",
+    "developer": "Wix.com Inc."
+  },
+  {
+    "appId": "com.orb.GrandTranslate",
+    "title": "World Translate: Chat Trans",
+    "updated": "2025-03-24T12:33:20.000Z",
+    "score": 4.47743,
+    "appVersion": "1.1.0",
+    "developer": "ORBITAL TECH PTE. LTD."
+  },
+  {
+    "appId": "app.voicenotes",
+    "title": "Voicenotes AI Notes & Meetings",
+    "updated": "2025-05-14T04:09:06.000Z",
+    "score": 4.72065,
+    "appVersion": "1.6.68",
+    "developer": "Coping Hard Inc"
+  },
+  {
+    "appId": "com.lenovo.anyshare",
+    "title": "SHAREit: Transfer, Share Files",
+    "updated": "2025-05-20T18:43:48.000Z",
+    "score": 4.60483,
+    "appVersion": "3.17.8",
+    "developer": "SHAREit Technologies Co. Ltd"
+  },
+  {
+    "appId": "com.hearthands.TheMessagingApp",
+    "title": "M1 - AI Phone Assistant",
+    "updated": "2025-05-21T06:26:35.000Z",
+    "score": 4.78559,
+    "appVersion": "1.1.17",
+    "developer": "Interface, Inc."
+  },
+  {
+    "appId": "com.outerspaceapps.itranslate",
+    "title": "iTranslate Translator",
+    "updated": "2025-05-20T06:51:59.000Z",
+    "score": 4.73911,
+    "appVersion": "17.4.33",
+    "developer": "Easy Tiger Apps, LLC."
+  },
+  {
+    "appId": "ai.notes.notebook",
+    "title": "AI Notebook: Notes, Summary",
+    "updated": "2025-05-21T02:12:22.000Z",
+    "score": 4.7713,
+    "appVersion": "11.5",
+    "developer": "Tuling Network Limited"
+  },
+  {
+    "appId": "com.wetransfer.transfer",
+    "title": "WeTransfer: Transfer Files",
+    "updated": "2025-05-19T10:39:28.000Z",
+    "score": 4.85032,
+    "appVersion": "3.3.10",
+    "developer": "WeTransfer BV"
+  },
+  {
+    "appId": "com.wix.admin",
+    "title": "Wix - Website Builder",
+    "updated": "2025-05-21T15:01:24.000Z",
+    "score": 4.64035,
+    "appVersion": "2.107269.0",
+    "developer": "Wix.com Inc."
+  },
+  {
+    "appId": "com.redbridge.translate.ai",
+    "title": "Live Translator: AI Voice, OCR",
+    "updated": "2025-05-11T06:53:24.000Z",
+    "score": 4.68116,
+    "appVersion": "1.2.4",
+    "developer": "DigitalSail (HK) Limited"
+  },
+  {
+    "appId": "com.TickTick.task",
+    "title": "TickTick:To-Do List & Calendar",
+    "updated": "2025-05-22T02:35:04.000Z",
+    "score": 4.85973,
+    "appVersion": "7.6.11",
+    "developer": "Appest Limited"
+  },
+  {
+    "appId": "com.google.Keep",
+    "title": "Google Keep - Notes and lists",
+    "updated": "2025-05-19T14:38:34.000Z",
+    "score": 4.23576,
+    "appVersion": "2.2025.20202",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.readdle.ReaddleDocsIPad",
+    "title": "Documents: File Manager & Docs",
+    "updated": "2025-05-08T05:59:23.000Z",
+    "score": 4.80464,
+    "appVersion": "8.16.6",
+    "developer": "Readdle Technologies Limited"
+  },
+  {
+    "appId": "vpn.vpn.vpn",
+    "title": "VPN · ·",
+    "updated": "2025-05-16T15:58:28.000Z",
+    "score": 4.6509,
+    "appVersion": "1.76",
+    "developer": "VPN VPN VPN Proxy Master Unlimited Inc"
+  },
+  {
+    "appId": "com.daucongphuong.playhop",
+    "title": "Auto Clicker: Automatic tap!",
+    "updated": "2024-11-01T01:21:09.000Z",
+    "score": 4.27186,
+    "appVersion": "1.0.1",
+    "developer": "Filippa Eriksson"
+  },
+  {
+    "appId": "co.allconnected.vpnmaster",
+    "title": "VPN Proxy Master - Super VPN",
+    "updated": "2025-05-18T09:04:16.000Z",
+    "score": 4.62836,
+    "appVersion": "6.8.9",
+    "developer": "ALL Connected Co.,Ltd"
+  },
+  {
+    "appId": "com.signnow.signnow",
+    "title": "signNow: e-Signature app",
+    "updated": "2025-05-19T07:28:10.000Z",
+    "score": 4.49972,
+    "appVersion": "15.4",
+    "developer": "airSlate, Inc."
+  },
+  {
+    "appId": "com.codeway.chatapp",
+    "title": "Chat & Ask AI by Codeway",
+    "updated": "2025-05-22T12:11:59.000Z",
+    "score": 4.76975,
+    "appVersion": "3.2.0",
+    "developer": "Codeway Dijital Hizmetler Anonim Sirketi"
+  },
+  {
+    "appId": "com.behindtheapp.unlockt",
+    "title": "Unlockt - Sell your files",
+    "updated": "2025-02-21T15:44:37.000Z",
+    "score": 4.29527,
+    "appVersion": "1.7.5",
+    "developer": "Unlockt.me"
+  },
+  {
+    "appId": "com.chatgpt.ai.chat.openai",
+    "title": "Arvin® - AI Logo Maker",
+    "updated": "2025-05-09T23:37:50.000Z",
+    "score": 4.6078,
+    "appVersion": "2.1.8",
+    "developer": "IdeaLabs"
+  },
+  {
+    "appId": "com.google.tasks",
+    "title": "Google Tasks: Get Things Done",
+    "updated": "2025-05-22T14:35:41.000Z",
+    "score": 4.79682,
+    "appVersion": "25.20.0",
+    "developer": "Google"
+  },
+  {
+    "appId": "com.microsoft.sharepoint",
+    "title": "Microsoft SharePoint",
+    "updated": "2025-03-20T09:33:39.000Z",
+    "score": 4.62259,
+    "appVersion": "4.54.7",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.allconnected.turbovpn",
+    "title": "Turbo VPN Private Browser",
+    "updated": "2025-05-08T01:44:11.000Z",
+    "score": 4.7384,
+    "appVersion": "4.1.2",
+    "developer": "INNOVATIVE CONNECTING PTE.LIMITED"
+  },
+  {
+    "appId": "com.myuvo.link",
+    "title": "Kia Access",
+    "updated": "2025-05-08T17:55:10.000Z",
+    "score": 4.69182,
+    "appVersion": "7.14.2",
+    "developer": "Kia America, Inc."
+  },
+  {
+    "appId": "com.sandisk.smz2",
+    "title": "SanDisk Memory Zone",
+    "updated": "2025-04-23T16:03:22.000Z",
+    "score": 4.28909,
+    "appVersion": "2.1.0",
+    "developer": "SanDisk"
+  },
+  {
+    "appId": "com.ipsgroupinc.parksmarter",
+    "title": "Park Smarter",
+    "updated": "2025-05-14T14:56:18.000Z",
+    "score": 4.52665,
+    "appVersion": "4.2.0",
+    "developer": "IPS Group Inc"
+  },
+  {
+    "appId": "com.microsoft.to-do",
+    "title": "Microsoft To Do",
+    "updated": "2025-05-16T04:46:39.000Z",
+    "score": 4.72976,
+    "appVersion": "2.147",
+    "developer": "Microsoft Corporation"
+  },
+  {
+    "appId": "com.hyundaiusa.bluelink2",
+    "title": "MyHyundai with Bluelink",
+    "updated": "2025-05-21T01:42:00.000Z",
+    "score": 4.78354,
+    "appVersion": "5.3.1",
+    "developer": "Hyundai Motor America"
+  },
+  {
+    "appId": "com.a1office.docx.editor",
+    "title": "Office Word:Edit Word Document",
+    "updated": "2024-08-15T06:11:35.000Z",
+    "score": 4.60269,
+    "appVersion": "1.0.25",
+    "developer": "Rhophi Analytics LLP"
+  },
+  {
+    "appId": "jp.simplecal",
+    "title": "Simple Calendar - SimpleCal",
+    "updated": "2025-05-20T12:30:48.000Z",
+    "score": 4.72638,
+    "appVersion": "2.5.6",
+    "developer": "Yohei Fujikawa"
+  }
+]
