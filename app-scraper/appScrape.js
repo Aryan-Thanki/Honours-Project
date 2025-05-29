@@ -1,68 +1,65 @@
 import store from 'app-store-scraper';
 import fs from 'fs';
 
-const categories = [
-  store.category.TOOLS,
-  store.category.EDUCATION,
-  store.category.HEALTH_AND_FITNESS,
-  store.category.FINANCE,
-  store.category.GAME_ACTION,
-  store.category.PRODUCTIVITY,
-];
+// Step 1: Get all valid categories dynamically
+const categories = Object.values(store.category);
 
+// Step 2: Use stable and supported collections only
 const collections = [
   store.collection.TOP_FREE,
-  store.collection.TOP_PAID,
-  store.collection.NEW_FREE,
-  store.collection.NEW_PAID
+  store.collection.TOP_PAID
 ];
 
-const getAllAppIDs = async (categories, collections, numPerCategory = 100) => {
-    const allAppIds = new Set();
-
-
-    for(const category of categories){
-        for(const collection of collections){
-            try {
-                const apps = await store.list({
-                    category,
-                    collection, 
-                    num: numPerCategory
-                });
-                apps.forEach(app => allAppIds.add(app.appId));
-                console.log(`${apps.length} apps from ${category} - ${collection}`);
-            } catch (err) {
-                console.log(`Failed ${category} - ${collection}: ${err.message}`);
-            }
-        }
-    }
-    return [...allAppIds];
-}
-
+// Step 3: Main scraper function
 const scrapApps = async () => {
-    const appIds = await getAllAppIDs(categories, collections, 100);
-    const results = [];
+  const results = {}; // Structure: { category: { collection: [apps] } }
 
-    for (const appId of appIds) {
-        try {
-            const app = await store.app({appId});
-            results.push({
-                appId: app.appId,
-                title: app.title,
-                updated: new Date(app.updated),
-                score: app.score,
-                appVersion: app.version,
-                adSupported: app.adSupported,
-                developer: app.developer,
-            })
-        } catch (err) {
-            console.error(`Failed to fetch ${appID}: ${err.message} `)
+  for (const category of categories) {
+    results[category] = {};
 
+    for (const collection of collections) {
+      try {
+        const apps = await store.list({
+          category,
+          collection,
+          num: 100,
+        });
+
+        results[category][collection] = [];
+
+        for (const app of apps) {
+          try {
+            const appDetails = await store.app({ id: app.appId });
+
+            results[category][collection].push({
+              appId: appDetails.appId,
+              title: appDetails.title,
+              updated: appDetails.updated,
+              version: appDetails.version,
+              score: appDetails.score,
+              reviews: appDetails.reviews,
+              price: appDetails.price,
+              free: appDetails.free,
+              developer: appDetails.developer,
+              genre: appDetails.genre,
+              contentRating: appDetails.contentRating,
+              size: appDetails.size,
+              languages: appDetails.languages,
+            });
+          } catch (err) {
+            console.error(`Failed to fetch ${app.appId}: ${err.message}`);
+          }
         }
-    }
 
-    fs.writeFileSync('results.json', JSON.stringify(results, null, 2));
-    console.log('Data saved to results.json');
+        console.log(`Fetched ${results[category][collection].length} apps for ${category} - ${collection}`);
+      } catch (err) {
+        console.error(`Failed ${category} - ${collection}: ${err.message}`);
+      }
+    }
+  }
+
+  fs.writeFileSync('results.json', JSON.stringify(results, null, 2));
+  console.log('Data saved to results.json');
 };
 
 scrapApps();

@@ -1,36 +1,31 @@
 import gplay from 'google-play-scraper';
 import fs from 'fs';
 
-const categories = [
-  gplay.category.TOOLS,
-  gplay.category.EDUCATION,
-  gplay.category.HEALTH_AND_FITNESS,
-  gplay.category.FINANCE,
-  gplay.category.GAME_ACTION,
-  gplay.category.PRODUCTIVITY,
-];
+const categories = Object.values(gplay.category);
 
 const collections = [
-  gplay.collection.TOP_FREE,
-  gplay.collection.TOP_PAID,
-  gplay.collection.NEW_FREE,
-  gplay.collection.NEW_PAID
+    gplay.collection.TOP_FREE,
+    gplay.collection.TOP_PAID,
 ];
 
 const getAllAppIDs = async (categories, collections, numPerCategory = 100) => {
     const allAppIds = new Set();
 
 
-    for(const category of categories){
-        for(const collection of collections){
+    for (const category of categories) {
+        for (const collection of collections) {
             try {
                 const apps = await gplay.list({
                     category,
-                    collection, 
+                    collection,
                     num: numPerCategory
                 });
                 apps.forEach(app => allAppIds.add(app.appId));
-                console.log(`${apps.length} apps from ${category} - ${collection}`);
+                if (apps.length < numPerCategory) {
+                    console.log(`Only got ${apps.length} apps for ${category} - ${collection}.`);
+                } else {
+                    console.log(`${apps.length} apps from ${category} - ${collection}`);
+                }
             } catch (err) {
                 console.log(`Failed ${category} - ${collection}: ${err.message}`);
             }
@@ -44,24 +39,52 @@ const getAllAppIDs = async (categories, collections, numPerCategory = 100) => {
 
 
 const scrapApps = async () => {
-    const appIds = await getAllAppIDs(categories, collections, 100);
-    const results = [];
+    const results = {}; // This will hold: { category: { collection: [apps] } }
 
-    for (const appId of appIds) {
-        try {
-            const app = await gplay.app({appId});
-            results.push({
-                appId: app.appId,
-                title: app.title,
-                updated: new Date(app.updated),
-                score: app.score,
-                appVersion: app.version,
-                adSupported: app.adSupported,
-                developer: app.developer,
-            })
-        } catch (err) {
-            console.error(`Failed to fetch ${appID}: ${err.message} `)
+    for (const category of categories) {
+        results[category] = {};
 
+        for (const collection of collections) {
+            try {
+                const apps = await gplay.list({ category, collection, num: 100 });
+
+                results[category][collection] = [];
+
+                for (const app of apps) {
+                    try {
+                        const appDetails = await gplay.app({ appId: app.appId });
+
+                        results[category][collection].push({
+                            appId: appDetails.appId,
+                            title: appDetails.title,
+                            updated: new Date(appDetails.updated),
+                            version: appDetails.version,
+                            score: appDetails.score,
+                            ratings: appDetails.ratings,
+                            reviews: appDetails.reviews,
+                            minInstalls: appDetails.minInstalls,
+                            maxInstalls: appDetails.maxInstalls,
+                            adSupported: appDetails.adSupported,
+                            containsAds: appDetails.containsAds,
+                            offersIAP: appDetails.offersIAP,
+                            price: appDetails.price,
+                            free: appDetails.free,
+                            developer: appDetails.developer,
+                            developerId: appDetails.developerId,
+                            genre: appDetails.genre,
+                            contentRating: appDetails.contentRating,
+                            size: appDetails.size,
+                        });
+                    } catch (err) {
+                        console.error(`Failed to fetch ${app.appId}: ${err.message}`);
+                    }
+                }
+
+                const appCount = results[category][collection].length;
+                console.log(`Fetched ${appCount} apps for ${category} - ${collection}`);
+            } catch (err) {
+                console.log(`Failed ${category} - ${collection}: ${err.message}`);
+            }
         }
     }
 
