@@ -1,5 +1,5 @@
-import gplay from 'google-play-scraper';
 import fs from 'fs';
+import gplay from 'google-play-scraper';
 
 const categories = Object.values(gplay.category);
 
@@ -10,7 +10,6 @@ const collections = [
 
 const getAllAppIDs = async (categories, collections, numPerCategory = 100) => {
     const allAppIds = new Set();
-
 
     for (const category of categories) {
         for (const collection of collections) {
@@ -33,10 +32,6 @@ const getAllAppIDs = async (categories, collections, numPerCategory = 100) => {
     }
     return [...allAppIds];
 }
-
-
-
-
 
 const scrapApps = async () => {
     const results = {}; // This will hold: { category: { collection: [apps] } }
