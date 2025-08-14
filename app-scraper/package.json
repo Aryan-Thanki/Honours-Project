@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "p-limit": "^6.2.0",
+    "puppeteer": "^24.16.2"
+  }
 }
