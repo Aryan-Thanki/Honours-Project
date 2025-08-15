@@ -1,11 +1,13 @@
 appId,title,developer,genre,score,installs,free,offersIAP,updated,version,size,url
-com.google.android.GoogleCamera,Pixel Camera,Google LLC,Photography,2.919691,1+,true,false,1750883737000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en&gl=us
+com.google.android.GoogleCamera,Pixel Camera,Google LLC,Photography,2.9186823,1+,true,false,1750883737000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en&gl=us
 nl.blike.football,b-like FootbALL,b-like,Sports,,100+,true,false,1749648007000,1.0.8,,https://play.google.com/store/apps/details?id=nl.blike.football&hl=en&gl=us
+dk.bnear.app,b-near,b-near a/s,Communication,,100+,true,false,1741615298000,2.1.4,,https://play.google.com/store/apps/details?id=dk.bnear.app&hl=en&gl=us
+com.bprogress.programs,B Progress Coaching,AZEOO,Health & Fitness,,50+,true,false,1754469512000,25.0.20,,https://play.google.com/store/apps/details?id=com.bprogress.programs&hl=en&gl=us
 com.bepatient.smartapp,b.research Patient Access,BanookGroup,Health & Fitness,,500+,true,false,1748998479000,1.26.2,,https://play.google.com/store/apps/details?id=com.bepatient.smartapp&hl=en&gl=us
 com.anonymous.BPartnerMobileApp,B Partner,B Partner,Finance,,50+,true,false,1752754623000,1.0.43,,https://play.google.com/store/apps/details?id=com.anonymous.BPartnerMobileApp&hl=en&gl=us
-com.bprogress.programs,B Progress Coaching,AZEOO,Health & Fitness,,50+,true,false,1754469512000,25.0.20,,https://play.google.com/store/apps/details?id=com.bprogress.programs&hl=en&gl=us
 com.bigpos.reward,B Reward,Synergy Alliance Solutions Sdn Bhd,Business,,500+,true,false,1726224499000,1.0.4,,https://play.google.com/store/apps/details?id=com.bigpos.reward&hl=en&gl=us
 com.bimedia.bmyshop,B MyShop,Bimedia,Shopping,,500+,true,false,1729099863000,1.2.0,,https://play.google.com/store/apps/details?id=com.bimedia.bmyshop&hl=en&gl=us
+com.italinnovation.indelb_off,OFF_Indel B,INDELB SPA,Tools,,100+,true,false,1722349931000,1.0.18,,https://play.google.com/store/apps/details?id=com.italinnovation.indelb_off&hl=en&gl=us
 de.blocally.app,B LOCALLY,B LOCALLY GmbH & Co. KG,Travel & Local,,50+,true,false,1720768006000,3.0.1,,https://play.google.com/store/apps/details?id=de.blocally.app&hl=en&gl=us
 io.blinetech.blineandroid,B-Line,B-Line,Business,0,100+,true,false,1733939622000,1.17.0,,https://play.google.com/store/apps/details?id=io.blinetech.blineandroid&hl=en&gl=us
 com.goot.bonifassi,Maison B,GOOT SAS,Food & Drink,,100+,true,false,1748960524000,5.6.2,,https://play.google.com/store/apps/details?id=com.goot.bonifassi&hl=en&gl=us
@@ -14,113 +16,109 @@ co.median.android.dqjazb,Breathing Timer B-Mind,B-Mind,Lifestyle,,100+,true,fals
 com.btrendywithcharina,B Trendy Boutique,BTrendy Boutique,Shopping,5,100+,true,false,1753796139000,4.0.8,,https://play.google.com/store/apps/details?id=com.btrendywithcharina&hl=en&gl=us
 com.bmbfa.brighthub,BMBFA B'Right Hub,Black Mothers Breastfeeding Association,Parenting,0,10+,true,false,1753720976000,2.1.0,,https://play.google.com/store/apps/details?id=com.bmbfa.brighthub&hl=en&gl=us
 com.arketa.bootylikeanapple,Booty Like an Apple by Nati B,Arketa Fitness,Health & Fitness,,100+,true,false,1735851853000,6.0.3,,https://play.google.com/store/apps/details?id=com.arketa.bootylikeanapple&hl=en&gl=us
-com.bagusniaga.com,B.Niaga,Bagus POS Solution Sdn. Bhd.,Business,,50+,true,false,1754885963000,2.2.0.9,,https://play.google.com/store/apps/details?id=com.bagusniaga.com&hl=en&gl=us
 mx.com.bfitness.mobileapp,B-Fitness,ArturoJS,Sports,,10+,true,false,1738231479000,1.02,,https://play.google.com/store/apps/details?id=mx.com.bfitness.mobileapp&hl=en&gl=us
+com.bagusniaga.com,B.Niaga,Bagus POS Solution Sdn. Bhd.,Business,,50+,true,false,1754885963000,2.2.0.9,,https://play.google.com/store/apps/details?id=com.bagusniaga.com&hl=en&gl=us
 hu.eerp.bevapp.kissbkerkft,Kiss B. Ker. Bevapp,Kiss Zoltán Kiss B. Ker. Kft.,Shopping,,100+,true,false,1752505304000,1.0.59,,https://play.google.com/store/apps/details?id=hu.eerp.bevapp.kissbkerkft&hl=en&gl=us
 gr.SuperCourse.HobbyvilleJuniorB,Hobbyville Junior B,Super Course ELT Publishing,Education,,100+,true,false,1754306125000,1.1,,https://play.google.com/store/apps/details?id=gr.SuperCourse.HobbyvilleJuniorB&hl=en&gl=us
 com.blazeautomation.bonenext,B.One Next,Blaze Automation Services PVT LTD,Productivity,,100+,true,false,1718371960000,1.0.7,,https://play.google.com/store/apps/details?id=com.blazeautomation.bonenext&hl=en&gl=us
 com.ptwired.bpt,B Physical Therapy,"PT Wired, Inc.",Health & Fitness,,100+,true,false,1720538306000,6.2.0,,https://play.google.com/store/apps/details?id=com.ptwired.bpt&hl=en&gl=us
 zm.co.bine,B-ne,B-ne Innovations Limited,Shopping,,100+,true,false,1746854057000,1.3.0,,https://play.google.com/store/apps/details?id=zm.co.bine&hl=en&gl=us
+com.teorisky.french,Teorisky Franska - körkort B,Feras Alnshawy,Education,,50+,true,true,1753370844000,1.0,,https://play.google.com/store/apps/details?id=com.teorisky.french&hl=en&gl=us
 de.verwaltungsportal.kvbb,Karnevalverband B-BRB,PortUNA Neue Medien GmbH,Lifestyle,,10+,true,false,1750339772000,1.4.2,,https://play.google.com/store/apps/details?id=de.verwaltungsportal.kvbb&hl=en&gl=us
-co.shopney.bbgaragesupplyapp,B & B Garage Supply LLC,Matkit,Shopping,0,50+,true,false,1738659598000,1.1,,https://play.google.com/store/apps/details?id=co.shopney.bbgaragesupplyapp&hl=en&gl=us
 com.app.bazarbpartner,B’Part,Qwiklabs Ltd,Lifestyle,,100+,true,false,1743485298000,1.2,,https://play.google.com/store/apps/details?id=com.app.bazarbpartner&hl=en&gl=us
-com.curecare,B:A:M Universe,B:A:M Universe,Health & Fitness,,100+,true,false,1746107834000,1.1.2,,https://play.google.com/store/apps/details?id=com.curecare&hl=en&gl=us
-com.appsmart.delivery.planbbestfoodintown19113,Plan B - Best Food in Town,order smart VI,Food & Drink,,100+,true,false,1696424556000,3.1.1,,https://play.google.com/store/apps/details?id=com.appsmart.delivery.planbbestfoodintown19113&hl=en&gl=us
 release.baseb_mobile,Base-B,Base-B,Business,,100+,true,false,1753809526000,1.9.32,,https://play.google.com/store/apps/details?id=release.baseb_mobile&hl=en&gl=us
-kp.nepaliinbidesh.app,B-Desh,Sanjeev Aryal,Communication,0,100+,true,false,1743331779000,1,,https://play.google.com/store/apps/details?id=kp.nepaliinbidesh.app&hl=en&gl=us
-mobi.barberly.theblounge,THE B LOUNGE,Barberly,Beauty,,10+,true,false,1746534072000,22.0.1,,https://play.google.com/store/apps/details?id=mobi.barberly.theblounge&hl=en&gl=us
+com.appsmart.delivery.planbbestfoodintown19113,Plan B - Best Food in Town,order smart VI,Food & Drink,,100+,true,false,1696424556000,3.1.1,,https://play.google.com/store/apps/details?id=com.appsmart.delivery.planbbestfoodintown19113&hl=en&gl=us
+com.curecare,B:A:M Universe,B:A:M Universe,Health & Fitness,,100+,true,false,1746107834000,1.1.2,,https://play.google.com/store/apps/details?id=com.curecare&hl=en&gl=us
 co.spencer.bolckmans,B-Connect,Spencer | Employee Communication,Business,,50+,true,false,1750947322000,52.4.1,,https://play.google.com/store/apps/details?id=co.spencer.bolckmans&hl=en&gl=us
 com.ess.ccarepro,C-Care PRO,C-Care (Mauritius) Ltd,Health & Fitness,,100+,true,false,1751988337000,1.0.4,,https://play.google.com/store/apps/details?id=com.ess.ccarepro&hl=en&gl=us
-io.ueat.cmarketcoffee,C Market Coffee,UEAT Technologies,Food & Drink,,100+,true,false,1739556033000,2.0.5,,https://play.google.com/store/apps/details?id=io.ueat.cmarketcoffee&hl=en&gl=us
 com.trainerize.conlinefitness,C Online Fitness,CBA-Pro1,Health & Fitness,,100+,true,false,1754148931000,7.192.0,,https://play.google.com/store/apps/details?id=com.trainerize.conlinefitness&hl=en&gl=us
-info.camposha.c_libraries,C Libraries and Compiler,Clement Ochieng,Books & Reference,0,500+,true,true,1709445464000,8.0,,https://play.google.com/store/apps/details?id=info.camposha.c_libraries&hl=en&gl=us
+io.ueat.cmarketcoffee,C Market Coffee,UEAT Technologies,Food & Drink,,100+,true,false,1739556033000,2.0.5,,https://play.google.com/store/apps/details?id=io.ueat.cmarketcoffee&hl=en&gl=us
 com.eaware.appcvale,C.Vale,C.Vale - Cooperativa Agroindustrial,Business,,100+,true,false,1739456798000,1.0.22872,,https://play.google.com/store/apps/details?id=com.eaware.appcvale&hl=en&gl=us
+info.camposha.c_libraries,C Libraries and Compiler,Clement Ochieng,Books & Reference,0,500+,true,true,1709445464000,8.0,,https://play.google.com/store/apps/details?id=info.camposha.c_libraries&hl=en&gl=us
 com.andcards.cspacenetwork,C-Space Network,Spacebring,Productivity,,500+,true,false,1752156368000,4.8.9,,https://play.google.com/store/apps/details?id=com.andcards.cspacenetwork&hl=en&gl=us
 com.honeycommb.cplace,C-place,C-place,Social,,500+,true,false,1744811583000,1.59.0,,https://play.google.com/store/apps/details?id=com.honeycommb.cplace&hl=en&gl=us
 studio.yanxinalircc.com,RC-C,Rockcore,Tools,,500+,true,false,1742886845000,1.1.0,,https://play.google.com/store/apps/details?id=studio.yanxinalircc.com&hl=en&gl=us
-com.c_world,C-World,Cyberium Developer,Entertainment,,500+,true,false,1755001493000,2.3.11,,https://play.google.com/store/apps/details?id=com.c_world&hl=en&gl=us
 ru.m4bank.softpos.converse,C-POS,Converse Bank CJSC,Finance,,500+,true,false,1730109523000,2.2.15.95,,https://play.google.com/store/apps/details?id=ru.m4bank.softpos.converse&hl=en&gl=us
 com.cohl.csmart,C-SMART,海宏技术有限公司,Tools,,100+,true,false,1753783453000,1.4.0,,https://play.google.com/store/apps/details?id=com.cohl.csmart&hl=en&gl=us
-com.christies.csocial,C-Social,Agent Icon,Business,,500+,true,false,1754604235000,3.6.1,,https://play.google.com/store/apps/details?id=com.christies.csocial&hl=en&gl=us
-com.bsport_1830,C.line-Electrostimulation,bsport,Health & Fitness,,100+,true,false,1728305609000,7.16.14,,https://play.google.com/store/apps/details?id=com.bsport_1830&hl=en&gl=us
-com.sslwireless.gms_c_online,C Online for Merchants,Glorydale Merchant Services - GMS,Business,,50+,true,false,1706784617000,1.0.8,,https://play.google.com/store/apps/details?id=com.sslwireless.gms_c_online&hl=en&gl=us
+com.c_world,C-World,Cyberium Developer,Entertainment,,500+,true,false,1755001493000,2.3.11,,https://play.google.com/store/apps/details?id=com.c_world&hl=en&gl=us
 com.coddykit.c.language,Learn C Language & C Editor,Coddy Software Solutions,Education,,100+,true,true,1743208611000,9.5.5,,https://play.google.com/store/apps/details?id=com.coddykit.c.language&hl=en&gl=us
 com.malauzai.DH5398,C-Plant FCU Mobile Banking,C-Plant FCU,Finance,,100+,true,false,1754755435000,9.17.1,,https://play.google.com/store/apps/details?id=com.malauzai.DH5398&hl=en&gl=us
 com.allbachelor.cprograms,C Programs,Codynn,Education,,100+,true,true,1755164798000,1.1.8,,https://play.google.com/store/apps/details?id=com.allbachelor.cprograms&hl=en&gl=us
 com.TrueoneGameStudio.e,e,TrueoneGameStudio,Puzzle,,5+,true,false,1663937684000,0.2,,https://play.google.com/store/apps/details?id=com.TrueoneGameStudio.e&hl=en&gl=us
 mn.cody.dw.app,B2B-F,CODY LLC,Shopping,,100+,true,false,1738899639000,1.0.15,,https://play.google.com/store/apps/details?id=mn.cody.dw.app&hl=en&gl=us
 se.fsektionen.fapp2prod,F-sektionen,F-sektionen,Tools,,500+,true,false,1732052074000,1.15.6122,,https://play.google.com/store/apps/details?id=se.fsektionen.fapp2prod&hl=en&gl=us
-com.vtellapp,F-Tell,Globex Telecom Group Ltd.,Communication,0,100+,true,false,1725020213000,5.1.2,,https://play.google.com/store/apps/details?id=com.vtellapp&hl=en&gl=us
 cbt.dec.fforce,F Force by プロキャス,株式会社ＰＲＯＣＡＮ,Business,,10+,true,false,1749771651000,2.8.13,,https://play.google.com/store/apps/details?id=cbt.dec.fforce&hl=en&gl=us
+com.vtellapp,F-Tell,Globex Telecom Group Ltd.,Communication,0,100+,true,false,1725020213000,5.1.2,,https://play.google.com/store/apps/details?id=com.vtellapp&hl=en&gl=us
 com.cspec.fnumbers2,F Numbers,C-Spec,Tools,,500+,true,false,1725963774000,2.2,,https://play.google.com/store/apps/details?id=com.cspec.fnumbers2&hl=en&gl=us
 com.sellbuy.fff.id,F ID Shop - Sell and Buy IDs,Team Refam,Shopping,,10+,true,false,1754848468000,1.0.0,,https://play.google.com/store/apps/details?id=com.sellbuy.fff.id&hl=en&gl=us
 com.fmsapp.id1375,F-Market,Further Market Inc,Communication,,500+,true,false,1749840053000,1.0.16.88,,https://play.google.com/store/apps/details?id=com.fmsapp.id1375&hl=en&gl=us
 com.foodbooking.luxfrestaurantapp,Lux F restaurant,GlobalFood - an Oracle company,Food & Drink,,500+,true,false,1752603593000,3.1.16,,https://play.google.com/store/apps/details?id=com.foodbooking.luxfrestaurantapp&hl=en&gl=us
 com.app.ftranslator,F-Translator & OCR App,mldev,Tools,,10+,true,false,1686056473000,1.0,,https://play.google.com/store/apps/details?id=com.app.ftranslator&hl=en&gl=us
 com.hapana.fitgroup,F* IT,Hapana,Health & Fitness,,100+,true,false,1698760660000,3.0,,https://play.google.com/store/apps/details?id=com.hapana.fitgroup&hl=en&gl=us
-pl.com.frapol.fcloud,F-Cloud,Frapol Sp. z o.o.,House & Home,,50+,true,false,1730110414000,1.0.8,,https://play.google.com/store/apps/details?id=pl.com.frapol.fcloud&hl=en&gl=us
 mtalhadev5.Fenix,Fenix F,Fenix F,Business,,100+,true,false,1754388690000,1.2.10,,https://play.google.com/store/apps/details?id=mtalhadev5.Fenix&hl=en&gl=us
+pl.com.frapol.fcloud,F-Cloud,Frapol Sp. z o.o.,House & Home,,50+,true,false,1730110414000,1.0.8,,https://play.google.com/store/apps/details?id=pl.com.frapol.fcloud&hl=en&gl=us
 com.fullmanager.app,F/Manager,Fulltime Gestora de Dados Ltda,Productivity,,50+,true,false,1749668039000,1.1.0,,https://play.google.com/store/apps/details?id=com.fullmanager.app&hl=en&gl=us
 se.roxx.carlf,Carl F - Connect,Roxx Communication Group AB,Tools,,50+,true,false,1734085544000,1.0.0,,https://play.google.com/store/apps/details?id=se.roxx.carlf&hl=en&gl=us
 com.cspiinc.fmnb,F & M Bank Mobile,Farmers & Merchants Bank of Ashland,Finance,4.285714,500+,true,false,1751559883000,1.19.328,,https://play.google.com/store/apps/details?id=com.cspiinc.fmnb&hl=en&gl=us
 org.redphalarope.sof,S o F - strukturen,Red Phalarope,Medical,,100+,true,false,1747057813000,1.0.3,,https://play.google.com/store/apps/details?id=org.redphalarope.sof&hl=en&gl=us
-com.fitnessmobileapps.grosvenorwatersidehandfspa,Grosvenor Waterside H & F Spa,Branded MINDBODY Apps,Health & Fitness,,100+,true,false,1755068271000,7.8.6,,https://play.google.com/store/apps/details?id=com.fitnessmobileapps.grosvenorwatersidehandfspa&hl=en&gl=us
 jp.co.datalogic.sfcompass,S/F com-pass,DATA LOGIC,Business,,500+,true,false,1750923354000,3.0.0,,https://play.google.com/store/apps/details?id=jp.co.datalogic.sfcompass&hl=en&gl=us
 com.genfquran.mobile,Gen F Qur'an,Progresio Institute,Personalization,,10+,true,true,1740826054000,1.0.1,,https://play.google.com/store/apps/details?id=com.genfquran.mobile&hl=en&gl=us
-br.com.fulltime.fullarm.safecity.mobile.safecity,F/Safe,Fulltime Gestora de Dados Ltda,Lifestyle,0,500+,true,false,1725652231000,1.5.1,,https://play.google.com/store/apps/details?id=br.com.fulltime.fullarm.safecity.mobile.safecity&hl=en&gl=us
-com.smashola.lift4u,Lift4U - Nutrition Planner & F,Smashola,Health & Fitness,,10+,true,true,1639545124000,1.0.3,,https://play.google.com/store/apps/details?id=com.smashola.lift4u&hl=en&gl=us
-com.google.android.apps.safetyhub,Personal Safety,Google LLC,Tools,3.871951,1+,true,false,1754326800000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub&hl=en&gl=us
-vn.lsat.grunner,G Runner,LCS Company,Business,,10+,true,false,1743749328000,2.1.2,,https://play.google.com/store/apps/details?id=vn.lsat.grunner&hl=en&gl=us
+com.google.android.apps.safetyhub,Personal Safety,Google LLC,Tools,3.874663,1+,true,false,1754326800000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub&hl=en&gl=us
 co.shopney.houseofgeve,House of G.EVE,House of G.EVE,Shopping,,100+,true,false,1751467056000,1.3,,https://play.google.com/store/apps/details?id=co.shopney.houseofgeve&hl=en&gl=us
 com.otipass.grenoblebusiness,G-PASS Business,Otipass,Travel & Local,,100+,true,false,1754984576000,3.8.014,,https://play.google.com/store/apps/details?id=com.otipass.grenoblebusiness&hl=en&gl=us
 com.geutebrueck,G-View Mobile App,Geutebrück GmbH,Productivity,,500+,true,false,1744727307000,1.3.1,,https://play.google.com/store/apps/details?id=com.geutebrueck&hl=en&gl=us
 net.gastfreund.GHotels,G Hotels,G Hotels,Travel & Local,,100+,true,false,1754905442000,9.8,,https://play.google.com/store/apps/details?id=net.gastfreund.GHotels&hl=en&gl=us
 com.gtech.gschool,G-School,Menosi - IT ADVISORY,Education,,100+,true,false,1751954290000,1.0.1,,https://play.google.com/store/apps/details?id=com.gtech.gschool&hl=en&gl=us
+vn.lsat.grunner,G Runner,LCS Company,Business,,10+,true,false,1743749328000,2.1.2,,https://play.google.com/store/apps/details?id=vn.lsat.grunner&hl=en&gl=us
 com.gfitsoft.mobile,G Fit,GFit Soft,Health & Fitness,,100+,true,false,1744654828000,1.35.48,,https://play.google.com/store/apps/details?id=com.gfitsoft.mobile&hl=en&gl=us
 com.bsport_1087,G base studio,bsport,Health & Fitness,,500+,true,false,1751028454000,7.24.0,,https://play.google.com/store/apps/details?id=com.bsport_1087&hl=en&gl=us
 com.taxiapptheeran,G Taxi,Theeran Universal,Travel & Local,,100+,true,false,1753381442000,6.0.0,,https://play.google.com/store/apps/details?id=com.taxiapptheeran&hl=en&gl=us
 com.galleryhomes,G Construction,Gallery Group,Business,,100+,true,false,1728582362000,6.0,,https://play.google.com/store/apps/details?id=com.galleryhomes&hl=en&gl=us
+com.mendrhub.grilld,G Group,mendrhub,Food & Drink,,100+,true,false,1753925409000,4.3.10,,https://play.google.com/store/apps/details?id=com.mendrhub.grilld&hl=en&gl=us
 com.hyundai.dream.h_biz,H-Biz,Hyundai Dreamtour,Business,,100+,true,false,1744606324000,1.0.8,,https://play.google.com/store/apps/details?id=com.hyundai.dream.h_biz&hl=en&gl=us
 com.yesgroupsuccess.application,H Happiness,Thehappiness,Travel & Local,,100+,true,false,1754762089000,0.1.28,,https://play.google.com/store/apps/details?id=com.yesgroupsuccess.application&hl=en&gl=us
 com.app.a1f4W000008XoLJQA0,MS 61 Dr. Gladstone H. Atwell,SOLVED,Education,,100+,true,false,1751665220000,5.7.5,,https://play.google.com/store/apps/details?id=com.app.a1f4W000008XoLJQA0&hl=en&gl=us
-com.quiply.hwtiefbau,H & W Tiefbau,Quiply by Atoria – the people software GmbH,Productivity,,100+,true,false,1755066718000,3.27.27,,https://play.google.com/store/apps/details?id=com.quiply.hwtiefbau&hl=en&gl=us
+com.identisoftsolutions.grupoh,My H Saúde,"Identisoft - Sistemas De Identificação, Lda.",Medical,,500+,true,false,1742808729000,2.1.3,,https://play.google.com/store/apps/details?id=com.identisoftsolutions.grupoh&hl=en&gl=us
 com.hebron.hcabrider1,H Cab,Hebron Global LLC,Travel & Local,0,50+,true,false,1754975563000,1.0.7,,https://play.google.com/store/apps/details?id=com.hebron.hcabrider1&hl=en&gl=us
-com.epluscharging.housingauthority,H-Charge,HALO Energy Ltd.,Auto & Vehicles,,10+,true,false,1754539270000,1.1.6,,https://play.google.com/store/apps/details?id=com.epluscharging.housingauthority&hl=en&gl=us
+com.quiply.hwtiefbau,H & W Tiefbau,Quiply by Atoria – the people software GmbH,Productivity,,100+,true,false,1755066718000,3.27.27,,https://play.google.com/store/apps/details?id=com.quiply.hwtiefbau&hl=en&gl=us
 com.hmessenger.messenger,H-Messenger,H-Messenger,Social,0,500+,true,false,1752755537000,1.3.3,,https://play.google.com/store/apps/details?id=com.hmessenger.messenger&hl=en&gl=us
+com.epluscharging.housingauthority,H-Charge,HALO Energy Ltd.,Auto & Vehicles,,10+,true,false,1754539270000,1.1.6,,https://play.google.com/store/apps/details?id=com.epluscharging.housingauthority&hl=en&gl=us
 com.trebeshenning,My T+H,JCR Technologies,Shopping,,50+,true,false,1744889062000,1.0,,https://play.google.com/store/apps/details?id=com.trebeshenning&hl=en&gl=us
 com.fitnessmobileapps.hkorestudios,H-Kore Studios,Branded MINDBODY Apps,Health & Fitness,,100+,true,false,1755029911000,7.8.6,,https://play.google.com/store/apps/details?id=com.fitnessmobileapps.hkorestudios&hl=en&gl=us
+com.pushpress.districthstrengthandfitness,District H Strength & Fitness,"PushPress, Inc.",Health & Fitness,,100+,true,false,1750102235000,3.27.0,,https://play.google.com/store/apps/details?id=com.pushpress.districthstrengthandfitness&hl=en&gl=us
 com.edigitalnepal.aamhs,Morang Marigold Ang. H.School,Digital Nepal: Digitizing the education ecosystem,Education,,50+,true,false,1719830619000,1.0.2,,https://play.google.com/store/apps/details?id=com.edigitalnepal.aamhs&hl=en&gl=us
 com.vivertechnologies.ifsk,Islamia Faridia H. Sec. School,Viver Technologies,Education,,500+,true,false,1743829836000,0.0.69,,https://play.google.com/store/apps/details?id=com.vivertechnologies.ifsk&hl=en&gl=us
-com.makeappeasy.hnote,H NOTE,Kevin Shin,Productivity,0,500+,true,false,1753488811000,1.37,,https://play.google.com/store/apps/details?id=com.makeappeasy.hnote&hl=en&gl=us
 app.donkeymobile.westbetuweparochie,H. Barbara,Parochie H. Suitbertus,Lifestyle,,100+,true,false,1748337804000,2.22.0,,https://play.google.com/store/apps/details?id=app.donkeymobile.westbetuweparochie&hl=en&gl=us
 com.puookkeoughb.pwhbf3lpbapp,H@VEN,Haven Enterprise LLC,Lifestyle,4.714286,500+,true,true,1742215920000,3.11.13,,https://play.google.com/store/apps/details?id=com.puookkeoughb.pwhbf3lpbapp&hl=en&gl=us
 com.h_tech_support.live,H-Tech Supports,H-Tech Supports,Productivity,,100+,true,false,1754603997000,1.0.2,,https://play.google.com/store/apps/details?id=com.h_tech_support.live&hl=en&gl=us
 com.tocaan.h_invite,H invite,Tocaan,Lifestyle,,50+,true,false,1746030126000,1.1.9,,https://play.google.com/store/apps/details?id=com.tocaan.h_invite&hl=en&gl=us
+com.appledeveloper003.project_v,H & H,apple developer,Communication,,100+,true,false,1755182453000,1.0.3,,https://play.google.com/store/apps/details?id=com.appledeveloper003.project_v&hl=en&gl=us
 com.softavera.hburgeretpizza,H Burger et Pizza,Softavera,Food & Drink,,100+,true,false,1745858750000,8.0.0.0,,https://play.google.com/store/apps/details?id=com.softavera.hburgeretpizza&hl=en&gl=us
 com.h_karmali.calendar.h_karmali_calendar_2025,H Karmali Calendar 2025,Allyz Labs,Productivity,,500+,true,false,1734850138000,1.0.0,,https://play.google.com/store/apps/details?id=com.h_karmali.calendar.h_karmali_calendar_2025&hl=en&gl=us
 de.corussoft.hhamericas,h+h americas,Koelnmesse Inc.,Business,0,500+,true,false,1746015256000,2025.1.0,,https://play.google.com/store/apps/details?id=de.corussoft.hhamericas&hl=en&gl=us
-com.thehhealth.grid.own,The H Health,The H Health,Health & Fitness,0,10+,true,false,1754962907000,5.23.0,,https://play.google.com/store/apps/details?id=com.thehhealth.grid.own&hl=en&gl=us
 com.hbank.app.br,h-Bank: A carteira do corretor,Marlin Internet e Serviços,Finance,,50+,true,false,1754928908000,1.1,,https://play.google.com/store/apps/details?id=com.hbank.app.br&hl=en&gl=us
+com.thehhealth.grid.own,The H Health,The H Health,Health & Fitness,0,10+,true,false,1754962907000,5.23.0,,https://play.google.com/store/apps/details?id=com.thehhealth.grid.own&hl=en&gl=us
 com.moyoung.ring.halo.health,H. Health 1,Halo Health Ring,Health & Fitness,,500+,true,false,1743994160000,1.0.5-689e1f882,,https://play.google.com/store/apps/details?id=com.moyoung.ring.halo.health&hl=en&gl=us
 com.colybri.app,Héroes S de H,COLYBRI S de H,Health & Fitness,,10+,true,false,1754624592000,1.4,,https://play.google.com/store/apps/details?id=com.colybri.app&hl=en&gl=us
+com.foodtech.thehbox,ذا اتش بوكس | The H BOX,Maxsys,Food & Drink,,50+,true,false,1739087972000,1.0.2,,https://play.google.com/store/apps/details?id=com.foodtech.thehbox&hl=en&gl=us
 com.ptolner.hvitamin2,H Vitamin,Tolner Péter,Health & Fitness,,100+,true,false,1736860474000,1.0.7,,https://play.google.com/store/apps/details?id=com.ptolner.hvitamin2&hl=en&gl=us
-com.pushpress.hdubathletics,H Dub Athletics,"PushPress, Inc.",Health & Fitness,,10+,true,false,1740711567000,3.26.0,,https://play.google.com/store/apps/details?id=com.pushpress.hdubathletics&hl=en&gl=us
-com.mzzh.project.hsmart,H-smart,"Robozone Technology Co.,Ltd",Tools,,100+,true,false,1692086308000,1.0.1,,https://play.google.com/store/apps/details?id=com.mzzh.project.hsmart&hl=en&gl=us
 com.perfectgym.perfectgymgo2.jclub,J Club by Jumeirah,PERFECT GYM SOLUTIONS S. A.,Health & Fitness,0,500+,true,false,1748881397000,1.28.0.1,,https://play.google.com/store/apps/details?id=com.perfectgym.perfectgymgo2.jclub&hl=en&gl=us
-jp.jenoba.jview,J-View,株式会社ジェノバ,Tools,,500+,true,false,1717051608000,2.0.3,,https://play.google.com/store/apps/details?id=jp.jenoba.jview&hl=en&gl=us
 com.soo.jpetal,J-Petal & Poke,Zaytech,Food & Drink,4.9787235,100+,true,false,1730222341000,2.8.61,,https://play.google.com/store/apps/details?id=com.soo.jpetal&hl=en&gl=us
+jp.jenoba.jview,J-View,株式会社ジェノバ,Tools,,500+,true,false,1717051608000,2.0.3,,https://play.google.com/store/apps/details?id=jp.jenoba.jview&hl=en&gl=us
 com.thestrainapp.j_wellness,J Wellness,VaultDev Corp.,Health & Fitness,0,500+,true,false,1749678087000,2.0.8,,https://play.google.com/store/apps/details?id=com.thestrainapp.j_wellness&hl=en&gl=us
 br.com.nibo.customer.jleal,J.Leal Contabilidade,Nibo,Finance,,10+,true,false,1748457844000,1.0.9,,https://play.google.com/store/apps/details?id=br.com.nibo.customer.jleal&hl=en&gl=us
-com.yamaichi.order,Yamaichi-J,yamaichi-j,Shopping,,50+,true,false,1746144087000,1.4.4,,https://play.google.com/store/apps/details?id=com.yamaichi.order&hl=en&gl=us
 fr.jaideici.app,J'aide ici,Django Mesh,Dating,,100+,true,false,1754656129000,1.0.75,,https://play.google.com/store/apps/details?id=fr.jaideici.app&hl=en&gl=us
+com.yamaichi.order,Yamaichi-J,yamaichi-j,Shopping,,50+,true,false,1746144087000,1.4.4,,https://play.google.com/store/apps/details?id=com.yamaichi.order&hl=en&gl=us
+com.my1218app.DayCampsAtTheJ,Day Camps@The J,1218 App Team,Lifestyle,,50+,true,false,1739823760000,2.3.156,,https://play.google.com/store/apps/details?id=com.my1218app.DayCampsAtTheJ&hl=en&gl=us
 com.codixy.jdot,J.Dot,Courio Ltd,Productivity,,100+,true,false,1729846930000,1.0.4,,https://play.google.com/store/apps/details?id=com.codixy.jdot&hl=en&gl=us
 com.upace.vosjcc,Workout @ Valley of the Sun J,upace,Health & Fitness,0,500+,true,false,1739440430000,1.1.15,,https://play.google.com/store/apps/details?id=com.upace.vosjcc&hl=en&gl=us
 com.mej.android.webremote,ME.J Music Remote,ME. J MEDIA SOLUTIONS LTD,Music & Audio,,100+,true,false,1701072590000,1.1,,https://play.google.com/store/apps/details?id=com.mej.android.webremote&hl=en&gl=us
 at.orderlion.mobileapp.jbuckland,J.Buckland,Orderlion,Shopping,,50+,true,false,1748874676000,3.1.0,,https://play.google.com/store/apps/details?id=at.orderlion.mobileapp.jbuckland&hl=en&gl=us
 com.radiojhero.app,Rádio J-Hero,Armando Meziat,Music & Audio,,500+,true,false,1745891877000,5.0.1,,https://play.google.com/store/apps/details?id=com.radiojhero.app&hl=en&gl=us
 com.trainerize.jgolffitness,J Golf Fitness,CBA-Pro1,Health & Fitness,,50+,true,false,1754124681000,7.192.0,,https://play.google.com/store/apps/details?id=com.trainerize.jgolffitness&hl=en&gl=us
-com.kj14140.app2,Jenny J Fitness,Jenny J Fitness,Lifestyle,,50+,true,false,1754608609000,3.16.1.1,,https://play.google.com/store/apps/details?id=com.kj14140.app2&hl=en&gl=us
 com.siriusntech.jaime_cocody,J'aime Cocody,Sirius Ntech,News & Magazines,,500+,true,false,1722687371000,1.0.8,,https://play.google.com/store/apps/details?id=com.siriusntech.jaime_cocody&hl=en&gl=us
+com.kj14140.app2,Jenny J Fitness,Jenny J Fitness,Lifestyle,,50+,true,false,1754608609000,3.16.1.1,,https://play.google.com/store/apps/details?id=com.kj14140.app2&hl=en&gl=us
+com.trainerize.jnewtrition,J Newtrition,Trainerize CBA-STUDIO 1,Health & Fitness,0,10+,true,false,1754021271000,7.191.0,,https://play.google.com/store/apps/details?id=com.trainerize.jnewtrition&hl=en&gl=us
 com.bakerj.cem.members.app,Baker J,Chroma Hospitality Inc.,Food & Drink,,100+,true,false,1658727592000,1.230,,https://play.google.com/store/apps/details?id=com.bakerj.cem.members.app&hl=en&gl=us
 com.fitnessmobileapps.jpilatesmidland36288,J Pilates Midland,Branded MINDBODY Apps,Health & Fitness,,50+,true,false,1755055509000,7.8.6,,https://play.google.com/store/apps/details?id=com.fitnessmobileapps.jpilatesmidland36288&hl=en&gl=us
 net.relesysapp.jjensen,J.Jensen,J. Jensen A/S,Business,,100+,true,false,1722412769000,1.6.11,,https://play.google.com/store/apps/details?id=net.relesysapp.jjensen&hl=en&gl=us
@@ -132,21 +130,18 @@ com.turner.dashboard,J Turner Mobile,J Turner Research,Business,,10+,true,false,
 com.techno.garderie,J-Kid,STE Techno Shark,Education,,10+,true,false,1751357824000,2.0.0,,https://play.google.com/store/apps/details?id=com.techno.garderie&hl=en&gl=us
 com.m85cae8fea0cb.app,103.3 The New J,"Far East Broadcasting Company (Philippines), Inc.",Music & Audio,,100+,true,false,1737122827000,24.12.07,,https://play.google.com/store/apps/details?id=com.m85cae8fea0cb.app&hl=en&gl=us
 com.contractdistrict.homeJ,Home-J,MCD s.r.l.,House & Home,,100+,true,false,1736885808000,1.7.0,,https://play.google.com/store/apps/details?id=com.contractdistrict.homeJ&hl=en&gl=us
+com.nineyi.shop.s040315,J II 休閒旅行背包品牌,"91APP, Inc. (21)",Shopping,,500+,true,false,1754881158000,25.8.0,,https://play.google.com/store/apps/details?id=com.nineyi.shop.s040315&hl=en&gl=us
 com.siriusntech.jaimekorhogo,J'aime Korhogo,Sirius Ntech,Entertainment,,10+,true,false,1743017626000,1.0.1,,https://play.google.com/store/apps/details?id=com.siriusntech.jaimekorhogo&hl=en&gl=us
-com.trainerize.jnewtrition,J Newtrition,Trainerize CBA-STUDIO 1,Health & Fitness,0,10+,true,false,1754021271000,7.191.0,,https://play.google.com/store/apps/details?id=com.trainerize.jnewtrition&hl=en&gl=us
 com.ceres.ceres,J'Océane,Support DSI,Food & Drink,,10+,true,false,1741354822000,0.1.4,,https://play.google.com/store/apps/details?id=com.ceres.ceres&hl=en&gl=us
 mobi.barberly.genjay,Gentleman J,Barberly,Beauty,,10+,true,false,1709071159000,17.0.5,,https://play.google.com/store/apps/details?id=mobi.barberly.genjay&hl=en&gl=us
-com.nineyi.shop.s040315,J II 休閒旅行背包品牌,"91APP, Inc. (21)",Shopping,,500+,true,false,1754881158000,25.8.0,,https://play.google.com/store/apps/details?id=com.nineyi.shop.s040315&hl=en&gl=us
 com.netpulse.mobile.jsmithyoungymca,J. Smith Young YMCA,EGYM,Health & Fitness,4.888889,500+,true,false,1712074729000,1.4,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.jsmithyoungymca&hl=en&gl=us
+com.ogloba.gc.salva.smartwallet.android,J Pay France SW,OGLOBA LIMITED,Shopping,,5+,true,false,1753849438000,1.0.7,,https://play.google.com/store/apps/details?id=com.ogloba.gc.salva.smartwallet.android&hl=en&gl=us
 com.jall.driver,J Driver,Jall App,Travel & Local,,1+,true,false,1754500220000,0.0.5,,https://play.google.com/store/apps/details?id=com.jall.driver&hl=en&gl=us
 br.com.wiki4fit.jfit,J Fit,WIKI4FIT APP,Health & Fitness,,1+,true,false,1754052589000,12.01.01,,https://play.google.com/store/apps/details?id=br.com.wiki4fit.jfit&hl=en&gl=us
-com.ogloba.gc.salva.smartwallet.android,J Pay France SW,OGLOBA LIMITED,Shopping,,5+,true,false,1753849438000,1.0.7,,https://play.google.com/store/apps/details?id=com.ogloba.gc.salva.smartwallet.android&hl=en&gl=us
-com.iamabs.meditation,Meditation by J Krishnamurti,iamabs,Books & Reference,,500+,true,false,1728811658000,1.0.1,,https://play.google.com/store/apps/details?id=com.iamabs.meditation&hl=en&gl=us
-com.CSshopkmarieboutique.android,K Marie Boutique,CommentSold Apps XXV,Shopping,0,50+,true,false,1754135202000,4.0.120,,https://play.google.com/store/apps/details?id=com.CSshopkmarieboutique.android&hl=en&gl=us
 com.kcampus.prod,K-campus,코리아중앙데일리,News & Magazines,,500+,true,false,1749622731000,1.0.0,,https://play.google.com/store/apps/details?id=com.kcampus.prod&hl=en&gl=us
 com.AceEdu.KPOPKoreanPuzzleAnytime,K-pop : Learn Anytime Korean,ACE EDU INC.,Puzzle,,100+,true,true,1735782365000,1.1.5,,https://play.google.com/store/apps/details?id=com.AceEdu.KPOPKoreanPuzzleAnytime&hl=en&gl=us
 com.kjellberg.kdesk,Kjellberg K-Desk,Kjellberg,Business,0,100+,true,false,1732537999000,0.8.5,,https://play.google.com/store/apps/details?id=com.kjellberg.kdesk&hl=en&gl=us
-vn.ktopik,K-TOPIK,KTOPIK,Education,,500+,true,false,1742777934000,2.0,,https://play.google.com/store/apps/details?id=vn.ktopik&hl=en&gl=us
+com.CSshopkmarieboutique.android,K Marie Boutique,CommentSold Apps XXV,Shopping,0,50+,true,false,1754135202000,4.0.120,,https://play.google.com/store/apps/details?id=com.CSshopkmarieboutique.android&hl=en&gl=us
 eu.care.fun.android.app,Care N Fun,Parent ApS,Communication,,100+,true,false,1748258724000,1.2.1,,https://play.google.com/store/apps/details?id=eu.care.fun.android.app&hl=en&gl=us
 ca.smartn,Smart’n,YOURIKA,Productivity,0,50+,true,false,1750203244000,1.04,,https://play.google.com/store/apps/details?id=ca.smartn&hl=en&gl=us
 com.TouchNStars.dev,Touch'N'Stars,TouchNStars,Photography,0,500+,true,false,1754688238000,3.1.2,,https://play.google.com/store/apps/details?id=com.TouchNStars.dev&hl=en&gl=us
@@ -155,21 +150,19 @@ com.bpm.chargengoapp,Charge N Go - EV Charging,Charge N Go,Maps & Navigation,,50
 com.blast.block.jam.mania.color.puzzle,Pop n Drop,GameeStudio,Puzzle,,500+,true,false,1750848699000,1.0.8,,https://play.google.com/store/apps/details?id=com.blast.block.jam.mania.color.puzzle&hl=en&gl=us
 be.appoint.itsready.frietnjoy,Friet ‘n Joy,It's Ready,Food & Drink,,100+,true,false,1750645600000,10.0.9,,https://play.google.com/store/apps/details?id=be.appoint.itsready.frietnjoy&hl=en&gl=us
 com.furiousavocado.tileslide,Slide N Drop,Furious Avocado,Puzzle,0,100+,true,false,1748855390000,1.0.3,,https://play.google.com/store/apps/details?id=com.furiousavocado.tileslide&hl=en&gl=us
-com.soo.steaknhoagie,Steak'n Hoagie Shop,Zaytech,Food & Drink,4.9104476,500+,true,false,1726825052000,2.8.61,,https://play.google.com/store/apps/details?id=com.soo.steaknhoagie&hl=en&gl=us
 com.fitko.fitnfight,Fit n Fight,WebTech.hr,Health & Fitness,,50+,true,false,1751522574000,1.2.1,,https://play.google.com/store/apps/details?id=com.fitko.fitnfight&hl=en&gl=us
 com.HonestManApps.MathNBack,Math N-Back,Honest Man Apps,Puzzle,,500+,true,true,1753168421000,2.0.5,,https://play.google.com/store/apps/details?id=com.HonestManApps.MathNBack&hl=en&gl=us
 com.rakunik.matchnpack,Match 'N Pack,RAKUNiK GAMES,Puzzle,4.4,500+,true,false,1732175286000,1.0.0,,https://play.google.com/store/apps/details?id=com.rakunik.matchnpack&hl=en&gl=us
-com.nhealth.mobileapp,N Health Connect,"National Healthcare System Co.,Ltd.",Medical,,100+,true,false,1748030640000,1.0.41,,https://play.google.com/store/apps/details?id=com.nhealth.mobileapp&hl=en&gl=us
 ca.shinendrive,Shine N’ Drive,Momentum Infotech Inc.,Business,,100+,true,false,1749811362000,1.2,,https://play.google.com/store/apps/details?id=ca.shinendrive&hl=en&gl=us
-com.marianatek.flexnburn,Flex 'n Burn,FLEX 'N BURN,Health & Fitness,,100+,true,false,1753695747000,1.40.5,,https://play.google.com/store/apps/details?id=com.marianatek.flexnburn&hl=en&gl=us
 com.rakunik.breaknbounce,Break ’n’ Bounce,RAKUNiK GAMES,Puzzle,4.8,100+,true,false,1753771192000,1.0.0,,https://play.google.com/store/apps/details?id=com.rakunik.breaknbounce&hl=en&gl=us
+com.nhealth.mobileapp,N Health Connect,"National Healthcare System Co.,Ltd.",Medical,,100+,true,false,1748030640000,1.0.41,,https://play.google.com/store/apps/details?id=com.nhealth.mobileapp&hl=en&gl=us
 com.lazyimp.moveandsort,Move N Sort,Lazy Imp,Puzzle,,100+,true,false,1736588601000,1.0.0,,https://play.google.com/store/apps/details?id=com.lazyimp.moveandsort&hl=en&gl=us
 com.cmcflex.ftmobile.pas,P & S Credit Union,P and S Credit Union,Finance,,100+,true,false,1750443086000,5.2.5,,https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.pas&hl=en&gl=us
 nl.infowijs.client.jpt,Jac P Thijsse,Infowijs,Education,,500+,true,false,1754318720000,4.3.0,,https://play.google.com/store/apps/details?id=nl.infowijs.client.jpt&hl=en&gl=us
 com.pportoappdomus.AppDomus,P.Porto,SAS P.Porto,Education,,10+,true,false,1753086789000,VARY,,https://play.google.com/store/apps/details?id=com.pportoappdomus.AppDomus&hl=en&gl=us
 com.phoneado.android,P Phones,Phoneado,Personalization,5,100+,true,false,1753441947000,3.3.30,,https://play.google.com/store/apps/details?id=com.phoneado.android&hl=en&gl=us
-com.bullbitz.piratedrop2,Pirate Drops 2 - Match three p,BULLBITZ,Board,3.6,500+,true,false,1724020043000,3.0.0,,https://play.google.com/store/apps/details?id=com.bullbitz.piratedrop2&hl=en&gl=us
 com.vsg.pmetmobile,P-MET Mobile,VSG >>,Weather,0,500+,true,false,1754454993000,0.5.0,,https://play.google.com/store/apps/details?id=com.vsg.pmetmobile&hl=en&gl=us
+com.bullbitz.piratedrop2,Pirate Drops 2 - Match three p,BULLBITZ,Board,3.6,500+,true,false,1724020043000,3.0.0,,https://play.google.com/store/apps/details?id=com.bullbitz.piratedrop2&hl=en&gl=us
 com.leptitobservatoire.observeapp,Le p'tit observatoire,leptitobservatoire,Education,,100+,true,false,1728449193000,v1.0.1-2024-10-09,,https://play.google.com/store/apps/details?id=com.leptitobservatoire.observeapp&hl=en&gl=us
 com.pphoneapp,P Phone,A Plus We Build and Launch Mobile Apps,Productivity,,100+,true,false,1753997978000,2.1.0,,https://play.google.com/store/apps/details?id=com.pphoneapp&hl=en&gl=us
 jp.recochoku.pitne,P!TNE - ピトネ,"RecoChoku Co.,Ltd.",Music & Audio,,500+,true,false,1753669534000,1.5.0,,https://play.google.com/store/apps/details?id=jp.recochoku.pitne&hl=en&gl=us
@@ -180,15 +173,16 @@ com.propertyadvisor.propertyadvisor,P-Adviser,ADVIX Solutions,House & Home,,10+,
 com.wnapp.id1736503522685,P Mart,Reluctech Media,Shopping,,500+,true,false,1739348431000,1.0,,https://play.google.com/store/apps/details?id=com.wnapp.id1736503522685&hl=en&gl=us
 com.wnapp.id1743067425164,P Wallet,Pretac,Shopping,,50+,true,false,1753856682000,1.0,,https://play.google.com/store/apps/details?id=com.wnapp.id1743067425164&hl=en&gl=us
 com.DriverOperatorExamCenter.DriverOperator,Driver Operator Exam Center: P,Tuli Education,Education,4.2,500+,true,true,1682867421000,1.2.0,,https://play.google.com/store/apps/details?id=com.DriverOperatorExamCenter.DriverOperator&hl=en&gl=us
-com.capiratech.johnphtn,John P. Holt Brentwood,OCLC Capira,Books & Reference,,500+,true,false,1753303853000,2025.07.00,,https://play.google.com/store/apps/details?id=com.capiratech.johnphtn&hl=en&gl=us
 com.purrsong.pmanager,P. Manager,"PurrSong, Inc.",Productivity,,500+,true,false,1752720567000,1.7.0,,https://play.google.com/store/apps/details?id=com.purrsong.pmanager&hl=en&gl=us
 com.dpcomm.tv.platform,D & P TV,D&P Communications,Entertainment,0,500+,true,false,1740769624000,VARY,,https://play.google.com/store/apps/details?id=com.dpcomm.tv.platform&hl=en&gl=us
-com.progps.PGPSMobile,P-GPS Mobile,PRO GPS & TECHNOLOGY,Tools,,10+,true,false,1748377602000,8.0.0,,https://play.google.com/store/apps/details?id=com.progps.PGPSMobile&hl=en&gl=us
+com.capiratech.johnphtn,John P. Holt Brentwood,OCLC Capira,Books & Reference,,500+,true,false,1753303853000,2025.07.00,,https://play.google.com/store/apps/details?id=com.capiratech.johnphtn&hl=en&gl=us
 suraj.taxi,P.CLIENT,TaxiAdmin,Auto & Vehicles,,10+,true,false,1749224278000,2.55.319.1_(GA),,https://play.google.com/store/apps/details?id=suraj.taxi&hl=en&gl=us
+com.progps.PGPSMobile,P-GPS Mobile,PRO GPS & TECHNOLOGY,Tools,,10+,true,false,1748377602000,8.0.0,,https://play.google.com/store/apps/details?id=com.progps.PGPSMobile&hl=en&gl=us
+be.pakske.befr,P'tit Colis BE,Pakske,Parenting,,50+,true,false,1729852810000,1.0.24,,https://play.google.com/store/apps/details?id=be.pakske.befr&hl=en&gl=us
 com.theq,The Q,MIM TECHNOLOGY,Education,0,500+,true,true,1752863555000,28.0,,https://play.google.com/store/apps/details?id=com.theq&hl=en&gl=us
 com.krews.android,Q App,Qode Limited,Social,0,500+,true,false,1753443440000,2.27,,https://play.google.com/store/apps/details?id=com.krews.android&hl=en&gl=us
 com.queue.customer,Q,Ratawa apps,Productivity,,5+,true,false,1648454092000,1.0.2,,https://play.google.com/store/apps/details?id=com.queue.customer&hl=en&gl=us
-com.qcells.q_installer,Q.OMMAND PRO,Q CELLS Technologies,Tools,0,100+,true,false,1754546374000,2.7.6,,https://play.google.com/store/apps/details?id=com.qcells.q_installer&hl=en&gl=us
+com.qcells.q_installer,Q.OMMAND PRO,Q CELLS Technologies,Tools,0,500+,true,false,1754546374000,2.7.6,,https://play.google.com/store/apps/details?id=com.qcells.q_installer&hl=en&gl=us
 com.usepepper.quirchfoodsapp,Q-Shop,Pomegranate Technologies,Food & Drink,,500+,true,false,1752383572000,1.20.29,,https://play.google.com/store/apps/details?id=com.usepepper.quirchfoodsapp&hl=en&gl=us
 de.qcells.qhomecontrol,Q.HOME CONTROL,Qcells,House & Home,,500+,true,false,1753873510000,1.9.2-ny_c430d64e8-co_9d34ba816,,https://play.google.com/store/apps/details?id=de.qcells.qhomecontrol&hl=en&gl=us
 com.socialchorus.bcfbc.android.googleplay,On Q Quest,Quest Diagnostics Incorporated,Business,0,500+,true,false,1749589137000,5.4.5,,https://play.google.com/store/apps/details?id=com.socialchorus.bcfbc.android.googleplay&hl=en&gl=us
@@ -198,8 +192,8 @@ com.gointegro.go5mobile.QSoyYo,Q Soy Yo,GOintegro,Lifestyle,,500+,true,false,175
 kz.quickwork.app,Q Work,"Q WORK, TOO",Productivity,,500+,true,false,1748450997000,1.2.0-gp,,https://play.google.com/store/apps/details?id=kz.quickwork.app&hl=en&gl=us
 digifit.android.virtuagym.pro.qboutiquefitness,Q BOUTIQUE FITNESS,Virtuagym Professional,Health & Fitness,,10+,true,false,1748116316000,11.5.8,,https://play.google.com/store/apps/details?id=digifit.android.virtuagym.pro.qboutiquefitness&hl=en&gl=us
 com.sqewlets,q'eyéx,CheckingIn,Health & Fitness,,50+,true,false,1754532469000,2.6.9,,https://play.google.com/store/apps/details?id=com.sqewlets&hl=en&gl=us
+io.harbiz.fitconq,Fit con Q,Clínica Fit con Q,Sports,,50+,true,false,1752667880000,7.1.33,,https://play.google.com/store/apps/details?id=io.harbiz.fitconq&hl=en&gl=us
 com.app.q_market,Q Market,all grocery app,Shopping,,10+,true,false,1754974447000,1.0.1,,https://play.google.com/store/apps/details?id=com.app.q_market&hl=en&gl=us
-com.veevotech.query_q,Query Q,Veevo Tech,Business,,100+,true,false,1742812869000,1.2.6,,https://play.google.com/store/apps/details?id=com.veevotech.query_q&hl=en&gl=us
 com.bionovaqapp,Bionova® Q App,Terragene,Medical,,100+,true,false,1753988403000,202507311,,https://play.google.com/store/apps/details?id=com.bionovaqapp&hl=en&gl=us
 com.viasatconnect.qLoveDriveProtect,Q Love Drive Protect,Targa Viasat Belgium,Productivity,,100+,true,false,1742190749000,1.8,,https://play.google.com/store/apps/details?id=com.viasatconnect.qLoveDriveProtect&hl=en&gl=us
 com.maxdoro.incontrol.floq,FLOQ Control,FLO-Q,Business,,500+,true,false,1754464175000,4.17.1,,https://play.google.com/store/apps/details?id=com.maxdoro.incontrol.floq&hl=en&gl=us
@@ -215,7 +209,6 @@ com.underwater.android.rlerts.wa,R.LERTS for WA,R.LERTS,Tools,,50+,true,false,17
 com.dancr.app,DANC·R,DANC.R,Sports,,100+,true,true,1754497420000,1.3.2,,https://play.google.com/store/apps/details?id=com.dancr.app&hl=en&gl=us
 com.rbank.card,R Card Guard,R Bank,Finance,0,100+,true,false,1752585537000,6.3.1,,https://play.google.com/store/apps/details?id=com.rbank.card&hl=en&gl=us
 com.vetching.plusr,Plus R,Vetching,Productivity,,50+,true,false,1754367048000,1.13.3,,https://play.google.com/store/apps/details?id=com.vetching.plusr&hl=en&gl=us
-com.marianatek.rstudios,R Studios,R Studios.,Health & Fitness,,500+,true,false,1753696524000,1.40.5,,https://play.google.com/store/apps/details?id=com.marianatek.rstudios&hl=en&gl=us
 com.ocilion.rkom,R-KOM IPTV HomeApp,R-KOM GmbH,Entertainment,,500+,true,false,1750667767000,6.3.0,,https://play.google.com/store/apps/details?id=com.ocilion.rkom&hl=en&gl=us
 com.rosenberger.telematics.cockpit.android,R-COCKPIT,Rosenberger Telematics,Productivity,,500+,true,false,1755098197000,4.0.0,,https://play.google.com/store/apps/details?id=com.rosenberger.telematics.cockpit.android&hl=en&gl=us
 com.netpulse.mobile.fitrfysiotherapie,FIT-R,EGYM,Health & Fitness,,100+,true,false,1754399178000,1.1,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.fitrfysiotherapie&hl=en&gl=us
@@ -224,25 +217,25 @@ com.travxr,TravX-R,WAH TUNG TRAVEL SDN BHD,Travel & Local,,50+,true,false,175438
 io.r_a_d.radio2,R/a/dio,Yattoz,Music & Audio,0,500+,true,false,1733513164000,2.4.0,,https://play.google.com/store/apps/details?id=io.r_a_d.radio2&hl=en&gl=us
 com.apptegy.woodlandmo,"Woodland R-IV, MO",Apptegy Play Store,Education,0,100+,true,false,1754887632000,5.2.0,,https://play.google.com/store/apps/details?id=com.apptegy.woodlandmo&hl=en&gl=us
 com.ordertech.rmima,R.MiMA,ORDER SYSTEMS,Food & Drink,,100+,true,false,1739187344000,1.0.0,,https://play.google.com/store/apps/details?id=com.ordertech.rmima&hl=en&gl=us
-com.rathletics.icp,R-Athletics,R-Athletics LLC,Health & Fitness,,100+,true,false,1754932540000,2.43.0,,https://play.google.com/store/apps/details?id=com.rathletics.icp&hl=en&gl=us
 com.apptegy.farmington7,Farmington R-7 Schools,Apptegy Play Store,Education,0,500+,true,false,1754601271000,5.2.0,,https://play.google.com/store/apps/details?id=com.apptegy.farmington7&hl=en&gl=us
+com.rathletics.icp,R-Athletics,R-Athletics LLC,Health & Fitness,,100+,true,false,1754932540000,2.43.0,,https://play.google.com/store/apps/details?id=com.rathletics.icp&hl=en&gl=us
 io.onemobile.itsrcollectibles,R Collectibles,FireGroup,Shopping,,500+,true,false,1732705616000,3.24,,https://play.google.com/store/apps/details?id=io.onemobile.itsrcollectibles&hl=en&gl=us
 com.trainerize.gymu,U Gym,Ignite Engagement,Health & Fitness,0,500+,true,false,1754023629000,7.191.0,,https://play.google.com/store/apps/details?id=com.trainerize.gymu&hl=en&gl=us
 health.caro.client.uclinic.hybrid,Mijn U-Clinic,CaroHealth,Health & Fitness,,100+,true,false,1747144559000,6.0.2,,https://play.google.com/store/apps/details?id=health.caro.client.uclinic.hybrid&hl=en&gl=us
 com.utrade.driver,U-Trade – Driver,Rocket Technologies,Shopping,,100+,true,false,1752830757000,1.0.13,,https://play.google.com/store/apps/details?id=com.utrade.driver&hl=en&gl=us
 com.vegas.clubv,V Members,JSGT Pte. Ltd,Business,,500+,true,false,1752142052000,1.0.8,,https://play.google.com/store/apps/details?id=com.vegas.clubv&hl=en&gl=us
-mobile.vdoc.aitrics,"V.Doc(브이닥)-AI문진, 내 건강체크, 사전문진",AITRICS-VD,Medical,,100+,true,false,1746694719000,0.1.9,,https://play.google.com/store/apps/details?id=mobile.vdoc.aitrics&hl=en&gl=us
 com.netpulse.mobile.vlondon,V London,EGYM,Health & Fitness,,100+,true,false,1754401626000,1.2,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.vlondon&hl=en&gl=us
 com.vtp.smartgate.booking,V-Gate,Viettel Post,Business,,100+,true,false,1754563908000,1.0.8,,https://play.google.com/store/apps/details?id=com.vtp.smartgate.booking&hl=en&gl=us
-com.wmadison727,727 W Madison,Elevated Living,Health & Fitness,,100+,true,false,1700040905000,4.4.26,,https://play.google.com/store/apps/details?id=com.wmadison727&hl=en&gl=us
 com.sehawafya.patient,Seha W Afeya | صحه وعافية,Felopater Adel,Health & Fitness,,500+,true,false,1752482146000,1.0.33,,https://play.google.com/store/apps/details?id=com.sehawafya.patient&hl=en&gl=us
 w.app.w,"W - People, Video and Message",LOVE NOW,Social,,500+,true,false,1753026608000,1.0.9,,https://play.google.com/store/apps/details?id=w.app.w&hl=en&gl=us
+com.wmadison727,727 W Madison,Elevated Living,Health & Fitness,,100+,true,false,1700040905000,4.4.26,,https://play.google.com/store/apps/details?id=com.wmadison727&hl=en&gl=us
+com.growwwealth.tech,W for Wealth,"Groww: Demat, Invest & Trade, SIP, Personal Loans",Finance,,500+,true,false,1754070386000,1.1.0,,https://play.google.com/store/apps/details?id=com.growwwealth.tech&hl=en&gl=us
 com.x_cheng.genericapp,X Smart By EVSE,"Shenzhen Xincheng Technology Co., Ltd.",Tools,0,500+,true,false,1754623370000,1.8.3,,https://play.google.com/store/apps/details?id=com.x_cheng.genericapp&hl=en&gl=us
 com.etherahealth.halox,HALO-X,Ethera Health,Health & Fitness,,100+,true,false,1728484145000,1.5.11,,https://play.google.com/store/apps/details?id=com.etherahealth.halox&hl=en&gl=us
 com.tradely.tradelyx,Tradely X,Tradely LTD,Shopping,,100+,true,false,1748944863000,1.0.9,,https://play.google.com/store/apps/details?id=com.tradely.tradelyx&hl=en&gl=us
 com.lzflabs.xtrivia,x trivia,lzf labs,Trivia,0,500+,true,false,1748865853000,1.3.1,,https://play.google.com/store/apps/details?id=com.lzflabs.xtrivia&hl=en&gl=us
-com.blueberry.blueberryx,Blueberry X,Blueberry Markets Pty Ltd,Finance,0,500+,true,false,1753860837000,317.19,,https://play.google.com/store/apps/details?id=com.blueberry.blueberryx&hl=en&gl=us
 com.cypherx.wallet,Cypher X,Cypher Mobile LTD,Finance,,100+,true,false,1752565239000,1.3.5,,https://play.google.com/store/apps/details?id=com.cypherx.wallet&hl=en&gl=us
+com.blueberry.blueberryx,Blueberry X,Blueberry Markets Pty Ltd,Finance,0,500+,true,false,1753860837000,317.19,,https://play.google.com/store/apps/details?id=com.blueberry.blueberryx&hl=en&gl=us
 com.invigr8.member,Invigr8 X,Xoda,Health & Fitness,,100+,true,false,1751293657000,7.69.0,,https://play.google.com/store/apps/details?id=com.invigr8.member&hl=en&gl=us
 org.yappymca.mobile,The Y App,"The Y in Central Maryland, Inc",Health & Fitness,,10+,true,false,1740471088000,2.36.1,,https://play.google.com/store/apps/details?id=org.yappymca.mobile&hl=en&gl=us
 ai.getmee.education.ycareers,Y Connect,Getmee AI,Education,,500+,true,false,1754582153000,1.43.0,,https://play.google.com/store/apps/details?id=ai.getmee.education.ycareers&hl=en&gl=us
@@ -250,22 +243,22 @@ com.apsiyon.zyapiyonetim,Z Yapı Yönetim,Apsiyon A.Ş.,House & Home,,100+,true,
 net.roseverte.cafe0beastremastered,CAFE 0 The Sleeping Beast RMST,ROSEVERTE,Adventure,,100+,true,true,1754387224000,1.1.3,,https://play.google.com/store/apps/details?id=net.roseverte.cafe0beastremastered&hl=en&gl=us
 games.moving.zerohero,0 Hero – Block Puzzle 🧩,moving.games,Puzzle,,100+,true,true,1748499473000,1.0,,https://play.google.com/store/apps/details?id=games.moving.zerohero&hl=en&gl=us
 com.Garawell.LogicPuzzle9,Logic Puzzle - 9,NEBİH BAŞARAN,Puzzle,,100+,true,false,1738916236000,1.0,,https://play.google.com/store/apps/details?id=com.Garawell.LogicPuzzle9&hl=en&gl=us
-com.creativecactus.nineletterword,9-Letter Word,Creative Cactus,Puzzle,,500+,true,false,1712479392000,1.0,,https://play.google.com/store/apps/details?id=com.creativecactus.nineletterword&hl=en&gl=us
 com.appprivee.connect,Tool Prive,Medity Platforms,Productivity,,100+,true,false,1753366842000,1.0.43,,https://play.google.com/store/apps/details?id=com.appprivee.connect&hl=en&gl=us
 com.google.android.apps.pixelmigrate,Data Transfer Tool,Google LLC,Tools,3.6871922,1+,true,false,1701364594000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.apps.pixelmigrate&hl=en&gl=us
 com.utilityhub,Utility Hub: Bill Payment,eglobal ict-hub,Business,,500+,true,false,1737106797000,1.1.8,,https://play.google.com/store/apps/details?id=com.utilityhub&hl=en&gl=us
 com.ocv.a926,Utility Connect by OCV,"OCV, LLC",Lifestyle,,500+,true,false,1752601309000,3.2.0,,https://play.google.com/store/apps/details?id=com.ocv.a926&hl=en&gl=us
 com.brella.utilityweeklive,Utility Week Live,Brella Oy,Communication,,500+,true,false,1745923131000,11.20.0,,https://play.google.com/store/apps/details?id=com.brella.utilityweeklive&hl=en&gl=us
-com.trendmobile.metering,Utility Meter Tracker,Mobile App Media 101,Productivity,,50+,true,false,1755110177000,1.1.1,,https://play.google.com/store/apps/details?id=com.trendmobile.metering&hl=en&gl=us
-com.anysoft.fhj.ebilling,Utility Bill Viewer - Pakistan,Anysoft Solutions,Tools,,500+,true,false,1669714548000,1.4,,https://play.google.com/store/apps/details?id=com.anysoft.fhj.ebilling&hl=en&gl=us
 com.teamz.toss.toss,Utility Toolkit - 11 Tools,TEAMZ LAB LTD,Tools,,10+,true,false,1754613183000,2.0.0,,https://play.google.com/store/apps/details?id=com.teamz.toss.toss&hl=en&gl=us
+com.anysoft.fhj.ebilling,Utility Bill Viewer - Pakistan,Anysoft Solutions,Tools,,500+,true,false,1669714548000,1.4,,https://play.google.com/store/apps/details?id=com.anysoft.fhj.ebilling&hl=en&gl=us
+com.trendmobile.metering,Utility Meter Tracker,Mobile App Media 101,Productivity,,50+,true,false,1755110177000,1.1.1,,https://play.google.com/store/apps/details?id=com.trendmobile.metering&hl=en&gl=us
 com.itstep.utility,Utility Service,IT STEP LTD,Tools,,100+,true,false,1726758496000,0.1.52,,https://play.google.com/store/apps/details?id=com.itstep.utility&hl=en&gl=us
+com.nationalutilitybilling.mobile,National Utility Billing,ManageAmerica,Productivity,,50+,true,false,1753791348000,3.1.5,,https://play.google.com/store/apps/details?id=com.nationalutilitybilling.mobile&hl=en&gl=us
 com.trustenergy.utility_pro,Utility Pro,Utilityproapp,Lifestyle,,1+,true,false,1753457022000,VARY,,https://play.google.com/store/apps/details?id=com.trustenergy.utility_pro&hl=en&gl=us
 com.magewell.director.assistant,Director Utility,Magewell,Tools,,500+,true,false,1748606580000,3.1.32,,https://play.google.com/store/apps/details?id=com.magewell.director.assistant&hl=en&gl=us
 com.csa.utilitynexus.unicoiCountyGasUtilityDistrict,Unicoi County Gas Utility Dist,Central Service Association,Business,,100+,true,false,1755115683000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.unicoiCountyGasUtilityDistrict&hl=en&gl=us
 com.csa.utilitynexus.orud,Oak Ridge Utility District,Central Service Association,Business,0,500+,true,false,1755118780000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.orud&hl=en&gl=us
-za.co.ontec.blume,Blume Utility,Ontec Systems (Pty) Ltd,House & Home,,10+,true,false,1753273872000,15.0,,https://play.google.com/store/apps/details?id=za.co.ontec.blume&hl=en&gl=us
 com.csa.utilitynexus.humboldtutilities,Humboldt Utilities,Central Service Association,Business,0,100+,true,false,1755117330000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.humboldtutilities&hl=en&gl=us
+za.co.ontec.blume,Blume Utility,Ontec Systems (Pty) Ltd,House & Home,,10+,true,false,1753273872000,15.0,,https://play.google.com/store/apps/details?id=za.co.ontec.blume&hl=en&gl=us
 com.csa.utilitynexus.cantonMunicipalUtilities,Canton Municipal Utilities,Central Service Association,Business,0,100+,true,false,1755117015000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.cantonMunicipalUtilities&hl=en&gl=us
 com.bixolon.printernetworkutility,Network Utility,BIXOLON1,Tools,,100+,true,false,1724987848000,1.0,,https://play.google.com/store/apps/details?id=com.bixolon.printernetworkutility&hl=en&gl=us
 za.co.mfrtechnologies.utilitymetrics,Utility Metrics,MFR Technologies,House & Home,,1+,true,false,1754834458000,1.0.9,,https://play.google.com/store/apps/details?id=za.co.mfrtechnologies.utilitymetrics&hl=en&gl=us
@@ -276,10 +269,12 @@ com.csa.utilitynexus.barbourvilleUtilities,Barbourville Utilities,Central Servic
 com.csa.utilitynexus.ru,Russellville Utilities,Central Service Association,Business,0,500+,true,false,1755118700000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.ru&hl=en&gl=us
 com.utilitycreative.tpav.equipt,equipt,Utility Creative,Health & Fitness,,100+,true,false,1753159146000,5.2.6,,https://play.google.com/store/apps/details?id=com.utilitycreative.tpav.equipt&hl=en&gl=us
 za.co.smartview.utilities,Smart-View Utilities,Smart-View Technologies,Productivity,,500+,true,false,1754980521000,1.12.0,,https://play.google.com/store/apps/details?id=za.co.smartview.utilities&hl=en&gl=us
+co.mymeter.kaukaunautilities,Kaukauna Utilities,VertexOne,Business,0,100+,true,false,1753476648000,9.5.0104,,https://play.google.com/store/apps/details?id=co.mymeter.kaukaunautilities&hl=en&gl=us
+de.endios.one.eschwegeapp,Stadtwerke Eschwege,Stadtwerke Eschwege GmbH,Lifestyle,,100+,true,false,1754513573000,1.0.16,,https://play.google.com/store/apps/details?id=de.endios.one.eschwegeapp&hl=en&gl=us
 com.google.android.apps.accessibility.magnifier,Magnifier,Google LLC,Tools,4.26,1+,true,false,1749180667000,2.0.0.745828117.release,,https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier&hl=en&gl=us
+com.landisgyr.utilities,Landis+Gyr Utilities,Landis+Gyr South Africa,Productivity,,100+,true,false,1751451404000,1.0.11,,https://play.google.com/store/apps/details?id=com.landisgyr.utilities&hl=en&gl=us
 cb.cb_data_collector.app,CBT - Utility,Cognitivebotics Technologies,Education,,5+,true,false,1737538892000,1.1.8,,https://play.google.com/store/apps/details?id=cb.cb_data_collector.app&hl=en&gl=us
 com.vector123.pixmoji,Widgetora - Emoji Widget,vector123,Personalization,,100+,true,true,1752146456000,1.6.2,,https://play.google.com/store/apps/details?id=com.vector123.pixmoji&hl=en&gl=us
-notes.notebook.notepad.mynotes,"My Notes: Notepad, Note, Lists",Hi-Tech-Apps,Productivity,0,500+,true,false,1750796766000,1.2,,https://play.google.com/store/apps/details?id=notes.notebook.notepad.mynotes&hl=en&gl=us
 com.guroo.glue,Habit Tracker & Goals - glue,Laura Mühlbach,Productivity,0,100+,true,true,1754112132000,1.1.4,,https://play.google.com/store/apps/details?id=com.guroo.glue&hl=en&gl=us
 com.habitzy,Habitzy - Habit Tracker,Central Dev,Productivity,,100+,true,false,1754791706000,1.0.11,,https://play.google.com/store/apps/details?id=com.habitzy&hl=en&gl=us
 com.habittracker.habitlift,HabitLift – Habit Tracker,Pixels Play Games,Health & Fitness,,50+,true,false,1753185354000,1.0.2,,https://play.google.com/store/apps/details?id=com.habittracker.habitlift&hl=en&gl=us
@@ -292,14 +287,16 @@ com.hintapp.habitswipe,Habit Tracker - HabitSwipe,Rayy,Productivity,0,500+,true,
 habit.fitness.wellness,Habit Fitness,WL Mobile,Health & Fitness,,10+,true,false,1743079654000,2.0.2,,https://play.google.com/store/apps/details?id=habit.fitness.wellness&hl=en&gl=us
 com.metaserve.habithook,Habit Tracker - Habithook,"MetaServe: Your vision, our expertise",Productivity,0,500+,true,false,1744311912000,2.1.7,,https://play.google.com/store/apps/details?id=com.metaserve.habithook&hl=en&gl=us
 com.ambitionhabits,Habit Tracker: Ambition Habits,STB Software,Productivity,,100+,true,true,1754553502000,0.16.3,,https://play.google.com/store/apps/details?id=com.ambitionhabits&hl=en&gl=us
-com.skytoph.taski,Habit Mate: Habits & Goals,skytoph,Productivity,,50+,true,false,1750744293000,1.2.3,,https://play.google.com/store/apps/details?id=com.skytoph.taski&hl=en&gl=us
+com.skytoph.taski,Habit Mate: Habits & Goals,skytoph,Productivity,,100+,true,false,1750744293000,1.2.3,,https://play.google.com/store/apps/details?id=com.skytoph.taski&hl=en&gl=us
 com.app.habit.tracker,Habit Tracker – Daily Goals,Talent4money,Productivity,,50+,true,false,1755076943000,1.0.8,,https://play.google.com/store/apps/details?id=com.app.habit.tracker&hl=en&gl=us
 com.habitracker.app,HabitForge - Habit Tracker,KrishnaNag,Productivity,0,10+,true,false,1754105006000,1.26.0,,https://play.google.com/store/apps/details?id=com.habitracker.app&hl=en&gl=us
 com.aniketpriyadarshi.habitwise,Habit Tracker - HabitWise,Kryptonite App Studio,Productivity,,100+,true,false,1746965984000,3.0.1,,https://play.google.com/store/apps/details?id=com.aniketpriyadarshi.habitwise&hl=en&gl=us
+com.habit.development.ReadyApp,Ready Life Coach & Habit Share,Ready Apps LLC,Productivity,0,100+,true,true,1753675140000,1.7.5,,https://play.google.com/store/apps/details?id=com.habit.development.ReadyApp&hl=en&gl=us
+app.habitbee.ai.powered.daily.habit.tracker,AI Habit Tracker - HabitBee,APPSTREE,Productivity,0,100+,true,true,1752476371000,1.0.11,,https://play.google.com/store/apps/details?id=app.habitbee.ai.powered.daily.habit.tracker&hl=en&gl=us
 com.light_computers.daysofhabbit,21 Days Of Habit,@Light,Productivity,,10+,true,false,1754966161000,1.0.6,,https://play.google.com/store/apps/details?id=com.light_computers.daysofhabbit&hl=en&gl=us
 com.ivandev.habittracker.routines.daily.app,Habitality - Habit Tracker,Habits & Routines,Productivity,,10+,true,false,1753389849000,1.1.1,,https://play.google.com/store/apps/details?id=com.ivandev.habittracker.routines.daily.app&hl=en&gl=us
-com.counter.mirapp,Counter,Mir App,Tools,,100+,true,false,1747516886000,1.2,,https://play.google.com/store/apps/details?id=com.counter.mirapp&hl=en&gl=us
 com.dominikgyecsek.tallycounter,Tally Counter - Counting App,Dominik Gyecsek,Tools,,500+,true,false,1748371452000,1.0.1,,https://play.google.com/store/apps/details?id=com.dominikgyecsek.tallycounter&hl=en&gl=us
+com.counter.mirapp,Counter,Mir App,Tools,,100+,true,false,1747516886000,1.2,,https://play.google.com/store/apps/details?id=com.counter.mirapp&hl=en&gl=us
 com.FtmathCompany.Counter,Counter: Easy Counter,FtmathCompany,Tools,,50+,true,false,1752969130000,1.0.2,,https://play.google.com/store/apps/details?id=com.FtmathCompany.Counter&hl=en&gl=us
 com.watch_go.multicounter,Watch Multi-Counter,watch-go.com,Sports,,500+,true,true,1755006641000,4.2.0,,https://play.google.com/store/apps/details?id=com.watch_go.multicounter&hl=en&gl=us
 com.blackdevfox.score_counter,Score Counter,Black Fox Dev,Tools,,100+,true,false,1751531191000,1.0.0,,https://play.google.com/store/apps/details?id=com.blackdevfox.score_counter&hl=en&gl=us
@@ -310,7 +307,9 @@ com.nasihun.azkar_counter,Azkar Counter - Digital Tasbih,Nasihun,Lifestyle,,500+
 com.vivenu.scanmanager,Scan Manager,vivenu,Events,,50+,true,false,1755006660000,1.0.6,,https://play.google.com/store/apps/details?id=com.vivenu.scanmanager&hl=en&gl=us
 com.dhirajdnr.pdfreaderviewereditor,PDF Reader: Viewer & Editor,dhirajdnr,Tools,,100+,true,false,1754543016000,1.0.0,,https://play.google.com/store/apps/details?id=com.dhirajdnr.pdfreaderviewereditor&hl=en&gl=us
 ru.nevasoft.flash,Flash Мобиль. Авто с выкупом,"ООО ""Невасофт""",Auto & Vehicles,,100+,true,false,1751898406000,2.2.76,,https://play.google.com/store/apps/details?id=ru.nevasoft.flash&hl=en&gl=us
+lao.taxi,Flash Delivery,TaxiAdmin,Auto & Vehicles,,500+,true,false,1751270903000,2.55.319.3_(GA),,https://play.google.com/store/apps/details?id=lao.taxi&hl=en&gl=us
 com.jimmypro.flash,flash,jimmy256,Maps & Navigation,,100+,true,false,1754947726000,1.0.0,,https://play.google.com/store/apps/details?id=com.jimmypro.flash&hl=en&gl=us
+wiki.guideme.flashloanscan,Flash Loan Scan,LIVIA,Finance,,100+,true,false,1754989833000,1.0.3,,https://play.google.com/store/apps/details?id=wiki.guideme.flashloanscan&hl=en&gl=us
 com.salmonsoftware.compass,Compass: Smart Navigation Tool,Salmon Software,Tools,,100+,true,false,1754518648000,1.0.2,,https://play.google.com/store/apps/details?id=com.salmonsoftware.compass&hl=en&gl=us
 com.localcompasstours.localcompass,Local Compass,Local Compass Tours,Travel & Local,,500+,true,true,1731316845000,1.1.0,,https://play.google.com/store/apps/details?id=com.localcompasstours.localcompass&hl=en&gl=us
 com.sublimis.compass,Smallest Compass in the World,Quantum Trajectory,Tools,,100+,true,false,1754758053000,VARY,,https://play.google.com/store/apps/details?id=com.sublimis.compass&hl=en&gl=us
@@ -322,10 +321,11 @@ com.tower.compass,True Compass: GPS & Altimeter,Tower Apps Inc.,Tools,,100+,true
 io.github.fertwbr.pixelcompass,Pixel Compass: Nav & Level,fertwbr,Tools,0,500+,true,true,1754319889000,VARY,,https://play.google.com/store/apps/details?id=io.github.fertwbr.pixelcompass&hl=en&gl=us
 com.zousan.comenglish,Simple Compass,ZOUSAN,Tools,0,500+,true,false,1751546347000,00.00.18,,https://play.google.com/store/apps/details?id=com.zousan.comenglish&hl=en&gl=us
 com.barcode.barcodescannerapp,Barcode & QR Scanner-ScanX Pro,Technical View,Tools,,100+,true,false,1751826178000,1.0,,https://play.google.com/store/apps/details?id=com.barcode.barcodescannerapp&hl=en&gl=us
+com.hklocals.scanwise,QR Code Reader by Scanwise,hklocals,Tools,,100+,true,false,1753871894000,1.4.0,,https://play.google.com/store/apps/details?id=com.hklocals.scanwise&hl=en&gl=us
+com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader,QR Barcode Scanner & Generator,RamsonTech,Tools,,500+,true,false,1754484255000,1.03,,https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader&hl=en&gl=us
 com.alphay.barcodescanner,Alpha Barcode Scanner,AlphaY,Tools,,10+,true,false,1750941420000,1.0.0,,https://play.google.com/store/apps/details?id=com.alphay.barcodescanner&hl=en&gl=us
 com.pbl.scan.qrscanner.barcodereader.barcodescanner,QR & Barcode Scanner :ZappScan,Status Genie,Productivity,,500+,true,false,1753779217000,1.4,,https://play.google.com/store/apps/details?id=com.pbl.scan.qrscanner.barcodereader.barcodescanner&hl=en&gl=us
 com.eventreminder.app,To-Do List & Event Reminder,Unikwork Systems LLP,Tools,0,100+,true,false,1752237753000,1.6,,https://play.google.com/store/apps/details?id=com.eventreminder.app&hl=en&gl=us
-com.remindernotifications,Reminder Notifications,AKYOL,Productivity,,100+,true,true,1754048741000,1.2.0,,https://play.google.com/store/apps/details?id=com.remindernotifications&hl=en&gl=us
 com.shikudo.sleep.hero.google,Sleep Hero: Bedtime Habit Game,Shikudo - Walking and Focus Games,Role Playing,,500+,true,true,1754650090000,VARY,,https://play.google.com/store/apps/details?id=com.shikudo.sleep.hero.google&hl=en&gl=us
 com.baby.sleep.tracker.feeding.diaper.free,Luli - Baby Sleep Tracker,SimpleInnovation,Parenting,0,100+,true,true,1754507253000,1.0.6,,https://play.google.com/store/apps/details?id=com.baby.sleep.tracker.feeding.diaper.free&hl=en&gl=us
 com.sleeplith.sleepsounds,Sleeplith: Sleep & Rain Sounds,EYY Studio,Health & Fitness,,50+,true,true,1752324495000,4.0.0,,https://play.google.com/store/apps/details?id=com.sleeplith.sleepsounds&hl=en&gl=us
@@ -333,14 +333,14 @@ com.sleeplab.snore.sleep.sounds.tracker.alarm.calm.health,SleepLab:Sleep & Snore
 com.respire.sounds.meditation,Sleep Sounds & Relaxing Music,Respire,Health & Fitness,0,500+,true,true,1740563470000,1.0.3,,https://play.google.com/store/apps/details?id=com.respire.sounds.meditation&hl=en&gl=us
 com.sleep.sleeptracker.sleeprecorder.health,Sleep Tracker,AM Infotech,Health & Fitness,0,500+,true,false,1754572151000,1.1,,https://play.google.com/store/apps/details?id=com.sleep.sleeptracker.sleeprecorder.health&hl=en&gl=us
 io.ionic.focus,Focus,MARS BILGI TEKNOLOJILERI A.S.,Business,,100+,true,false,1749708214000,3.0.4,,https://play.google.com/store/apps/details?id=io.ionic.focus&hl=en&gl=us
-com.apps.beauty.focus,Beauty Focus,Buraqsys STUDIO,Lifestyle,0,500+,true,false,1750940354000,2.0.3,,https://play.google.com/store/apps/details?id=com.apps.beauty.focus&hl=en&gl=us
 com.proyecto.focus,FOCUS,Intelinova Software,Health & Fitness,0,100+,true,false,1754950635000,4.13.1,,https://play.google.com/store/apps/details?id=com.proyecto.focus&hl=en&gl=us
+com.apps.beauty.focus,Beauty Focus,Buraqsys STUDIO,Lifestyle,0,500+,true,false,1750940354000,2.0.3,,https://play.google.com/store/apps/details?id=com.apps.beauty.focus&hl=en&gl=us
 com.focusalpha,Focus Alpha,MajinSoft,Photography,0,500+,true,true,1753280516000,8.5.0,,https://play.google.com/store/apps/details?id=com.focusalpha&hl=en&gl=us
 org.dispurse.dispursefocus,FOCUS,Dispurse Foundation,Education,,100+,true,false,1732865681000,18.2.1508,,https://play.google.com/store/apps/details?id=org.dispurse.dispursefocus&hl=en&gl=us
+com.soosu.focustimer,Focus Timer - Daily Focus,"Soosu Studio, Inc",Productivity,,10+,true,false,1754555392000,0.0.9,,https://play.google.com/store/apps/details?id=com.soosu.focustimer&hl=en&gl=us
 com.plusti.focus,Focus,"Plus Technologies Consulting, Inc.",Productivity,,100+,true,false,1753250660000,1.0.39,,https://play.google.com/store/apps/details?id=com.plusti.focus&hl=en&gl=us
 com.andcards.fba,Focus Office,Spacebring,Productivity,,100+,true,false,1752156409000,4.8.9,,https://play.google.com/store/apps/details?id=com.andcards.fba&hl=en&gl=us
 com.focusflow.focus,Focus Flow Accountability & AI,Focus Flow,Productivity,,100+,true,false,1752089655000,VARY,,https://play.google.com/store/apps/details?id=com.focusflow.focus&hl=en&gl=us
-com.soosu.focustimer,Focus Timer - Daily Focus,"Soosu Studio, Inc",Productivity,,10+,true,false,1754555392000,0.0.9,,https://play.google.com/store/apps/details?id=com.soosu.focustimer&hl=en&gl=us
 com.membr.focusfitnessgym,Focus Fitness Gym,Membr Mobile,Health & Fitness,,100+,true,false,1750943734000,1.9.0,,https://play.google.com/store/apps/details?id=com.membr.focusfitnessgym&hl=en&gl=us
 it.adcoop.android.focus.RELEASE,Focus,WakiwiDev,Productivity,,50+,true,false,1741180385000,1.6.11,,https://play.google.com/store/apps/details?id=it.adcoop.android.focus.RELEASE&hl=en&gl=us
 com.redmoon.focus,FOCUS,Yeswecan,Education,,50+,true,false,1746891162000,1.1,,https://play.google.com/store/apps/details?id=com.redmoon.focus&hl=en&gl=us
@@ -367,16 +367,450 @@ pro.shineapp.pomodoro,Pomodoro Timer,Volodymyr Kondratenko,Productivity,,100+,tr
 com.cc.focustimer.pomodoro,Focus Timer: Pomodoro & Tasks,Cc Mystery,Productivity,,100+,true,false,1746375622000,1.0.1,,https://play.google.com/store/apps/details?id=com.cc.focustimer.pomodoro&hl=en&gl=us
 com.novapomodoro.pomodoro,Nova Pomodoro,Code Deleter,Productivity,,50+,true,false,1747205105000,1.0.0,,https://play.google.com/store/apps/details?id=com.novapomodoro.pomodoro&hl=en&gl=us
 com.pomodoro.sinav,Pomodoro - Sınav Sayacım,wmsosyal,Productivity,,10+,true,false,1742762448000,2,,https://play.google.com/store/apps/details?id=com.pomodoro.sinav&hl=en&gl=us
-com.cutepomodoroapp.iyutech.pomodoroapp,Pomodoro Minimal,IYUTECH,Productivity,,50+,true,false,1746787404000,1.0.018,,https://play.google.com/store/apps/details?id=com.cutepomodoroapp.iyutech.pomodoroapp&hl=en&gl=us
 dev.ericamila.pomodoro,Pomodoro,ericamila,Productivity,,100+,true,false,1751720690000,4.1.1,,https://play.google.com/store/apps/details?id=dev.ericamila.pomodoro&hl=en&gl=us
+com.cutepomodoroapp.iyutech.pomodoroapp,Pomodoro Minimal,IYUTECH,Productivity,,50+,true,false,1746787404000,1.0.018,,https://play.google.com/store/apps/details?id=com.cutepomodoroapp.iyutech.pomodoroapp&hl=en&gl=us
 np.com.samirk.pomodoro,pomodoro,Samir Khanal,Productivity,,10+,true,false,1640589382000,1.0.0,,https://play.google.com/store/apps/details?id=np.com.samirk.pomodoro&hl=en&gl=us
-com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp,Minimalist Pomodoro Timer,IJ TECH,Productivity,,50+,true,false,1739206617000,1.0.3,,https://play.google.com/store/apps/details?id=com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp&hl=en&gl=us
 com.cchampou.pomo.pomodoro,Pomodoro,K Talpa,Productivity,,10+,true,false,1753714184000,1.5.1,,https://play.google.com/store/apps/details?id=com.cchampou.pomo.pomodoro&hl=en&gl=us
-com.devsquare.pomodoro,Pomo60 - Pomodoro Timer,Devsquare,Productivity,,50+,true,false,1748252155000,1.2.0,,https://play.google.com/store/apps/details?id=com.devsquare.pomodoro&hl=en&gl=us
+com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp,Minimalist Pomodoro Timer,IJ TECH,Productivity,,50+,true,false,1739206617000,1.0.3,,https://play.google.com/store/apps/details?id=com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp&hl=en&gl=us
 com.dioals.pomodoroapp,Focus Flow - Premium Pomodoro,Dio Alsabah,Productivity,,1+,true,false,1753763097000,1.0,,https://play.google.com/store/apps/details?id=com.dioals.pomodoroapp&hl=en&gl=us
+com.devsquare.pomodoro,Pomo60 - Pomodoro Timer,Devsquare,Productivity,,50+,true,false,1748252155000,1.2.0,,https://play.google.com/store/apps/details?id=com.devsquare.pomodoro&hl=en&gl=us
 com.PratikN96.shishimanu,Pomotrain: Focus Study Timer,Bharat LabsX,Productivity,0,100+,true,false,1743676206000,1.0.0,,https://play.google.com/store/apps/details?id=com.PratikN96.shishimanu&hl=en&gl=us
 com.alki.paslen,Paslen Timer,Paslen Studio,Productivity,0,100+,true,false,1753825982000,tdi_1.3.2_release,,https://play.google.com/store/apps/details?id=com.alki.paslen&hl=en&gl=us
 ru.saby.clients.brand.pomodoro,ПОМОДОРо,Saby Clients,Food & Drink,,100+,true,false,1753968130000,25.3213.2,,https://play.google.com/store/apps/details?id=ru.saby.clients.brand.pomodoro&hl=en&gl=us
 com.amazon.guardian.mobile,Guardian Mobile Suite,Amazon Mobile LLC,Business,,500+,true,false,1754936778000,1.0.3,,https://play.google.com/store/apps/details?id=com.amazon.guardian.mobile&hl=en&gl=us
 com.amazon.signage,Amazon Signage,Amazon Mobile LLC,Business,0,100+,true,false,1754312271000,1.1.0,,https://play.google.com/store/apps/details?id=com.amazon.signage&hl=en&gl=us
 com.amazon.awsie.snowballinspector,AWS Snow Family Verification,Amazon Mobile LLC,Business,4.0666666,500+,true,false,1591923189000,1.1.11,,https://play.google.com/store/apps/details?id=com.amazon.awsie.snowballinspector&hl=en&gl=us
+com.google.android.GoogleCamera,Pixel Camera,Google LLC,Photography,2.9186823,1+,true,false,1750883737000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en&gl=us
+nl.blike.football,b-like FootbALL,b-like,Sports,,100+,true,false,1749648007000,1.0.8,,https://play.google.com/store/apps/details?id=nl.blike.football&hl=en&gl=us
+dk.bnear.app,b-near,b-near a/s,Communication,,100+,true,false,1741615298000,2.1.4,,https://play.google.com/store/apps/details?id=dk.bnear.app&hl=en&gl=us
+com.bprogress.programs,B Progress Coaching,AZEOO,Health & Fitness,,50+,true,false,1754469512000,25.0.20,,https://play.google.com/store/apps/details?id=com.bprogress.programs&hl=en&gl=us
+com.bepatient.smartapp,b.research Patient Access,BanookGroup,Health & Fitness,,500+,true,false,1748998479000,1.26.2,,https://play.google.com/store/apps/details?id=com.bepatient.smartapp&hl=en&gl=us
+com.anonymous.BPartnerMobileApp,B Partner,B Partner,Finance,,50+,true,false,1752754623000,1.0.43,,https://play.google.com/store/apps/details?id=com.anonymous.BPartnerMobileApp&hl=en&gl=us
+com.bigpos.reward,B Reward,Synergy Alliance Solutions Sdn Bhd,Business,,500+,true,false,1726224499000,1.0.4,,https://play.google.com/store/apps/details?id=com.bigpos.reward&hl=en&gl=us
+com.bimedia.bmyshop,B MyShop,Bimedia,Shopping,,500+,true,false,1729099863000,1.2.0,,https://play.google.com/store/apps/details?id=com.bimedia.bmyshop&hl=en&gl=us
+com.italinnovation.indelb_off,OFF_Indel B,INDELB SPA,Tools,,100+,true,false,1722349931000,1.0.18,,https://play.google.com/store/apps/details?id=com.italinnovation.indelb_off&hl=en&gl=us
+de.blocally.app,B LOCALLY,B LOCALLY GmbH & Co. KG,Travel & Local,,50+,true,false,1720768006000,3.0.1,,https://play.google.com/store/apps/details?id=de.blocally.app&hl=en&gl=us
+io.blinetech.blineandroid,B-Line,B-Line,Business,0,100+,true,false,1733939622000,1.17.0,,https://play.google.com/store/apps/details?id=io.blinetech.blineandroid&hl=en&gl=us
+com.goot.bonifassi,Maison B,GOOT SAS,Food & Drink,,100+,true,false,1748960524000,5.6.2,,https://play.google.com/store/apps/details?id=com.goot.bonifassi&hl=en&gl=us
+life.blong.app.blong,B-Life Clinic,B-Life Clinic,Health & Fitness,,100+,true,false,1753978639000,0.11.1,,https://play.google.com/store/apps/details?id=life.blong.app.blong&hl=en&gl=us
+co.median.android.dqjazb,Breathing Timer B-Mind,B-Mind,Lifestyle,,100+,true,false,1744979206000,1.0.0,,https://play.google.com/store/apps/details?id=co.median.android.dqjazb&hl=en&gl=us
+com.btrendywithcharina,B Trendy Boutique,BTrendy Boutique,Shopping,5,100+,true,false,1753796139000,4.0.8,,https://play.google.com/store/apps/details?id=com.btrendywithcharina&hl=en&gl=us
+com.bmbfa.brighthub,BMBFA B'Right Hub,Black Mothers Breastfeeding Association,Parenting,0,10+,true,false,1753720976000,2.1.0,,https://play.google.com/store/apps/details?id=com.bmbfa.brighthub&hl=en&gl=us
+com.arketa.bootylikeanapple,Booty Like an Apple by Nati B,Arketa Fitness,Health & Fitness,,100+,true,false,1735851853000,6.0.3,,https://play.google.com/store/apps/details?id=com.arketa.bootylikeanapple&hl=en&gl=us
+mx.com.bfitness.mobileapp,B-Fitness,ArturoJS,Sports,,10+,true,false,1738231479000,1.02,,https://play.google.com/store/apps/details?id=mx.com.bfitness.mobileapp&hl=en&gl=us
+com.bagusniaga.com,B.Niaga,Bagus POS Solution Sdn. Bhd.,Business,,50+,true,false,1754885963000,2.2.0.9,,https://play.google.com/store/apps/details?id=com.bagusniaga.com&hl=en&gl=us
+hu.eerp.bevapp.kissbkerkft,Kiss B. Ker. Bevapp,Kiss Zoltán Kiss B. Ker. Kft.,Shopping,,100+,true,false,1752505304000,1.0.59,,https://play.google.com/store/apps/details?id=hu.eerp.bevapp.kissbkerkft&hl=en&gl=us
+gr.SuperCourse.HobbyvilleJuniorB,Hobbyville Junior B,Super Course ELT Publishing,Education,,100+,true,false,1754306125000,1.1,,https://play.google.com/store/apps/details?id=gr.SuperCourse.HobbyvilleJuniorB&hl=en&gl=us
+com.blazeautomation.bonenext,B.One Next,Blaze Automation Services PVT LTD,Productivity,,100+,true,false,1718371960000,1.0.7,,https://play.google.com/store/apps/details?id=com.blazeautomation.bonenext&hl=en&gl=us
+com.ptwired.bpt,B Physical Therapy,"PT Wired, Inc.",Health & Fitness,,100+,true,false,1720538306000,6.2.0,,https://play.google.com/store/apps/details?id=com.ptwired.bpt&hl=en&gl=us
+zm.co.bine,B-ne,B-ne Innovations Limited,Shopping,,100+,true,false,1746854057000,1.3.0,,https://play.google.com/store/apps/details?id=zm.co.bine&hl=en&gl=us
+com.teorisky.french,Teorisky Franska - körkort B,Feras Alnshawy,Education,,50+,true,true,1753370844000,1.0,,https://play.google.com/store/apps/details?id=com.teorisky.french&hl=en&gl=us
+de.verwaltungsportal.kvbb,Karnevalverband B-BRB,PortUNA Neue Medien GmbH,Lifestyle,,10+,true,false,1750339772000,1.4.2,,https://play.google.com/store/apps/details?id=de.verwaltungsportal.kvbb&hl=en&gl=us
+com.app.bazarbpartner,B’Part,Qwiklabs Ltd,Lifestyle,,100+,true,false,1743485298000,1.2,,https://play.google.com/store/apps/details?id=com.app.bazarbpartner&hl=en&gl=us
+release.baseb_mobile,Base-B,Base-B,Business,,100+,true,false,1753809526000,1.9.32,,https://play.google.com/store/apps/details?id=release.baseb_mobile&hl=en&gl=us
+com.appsmart.delivery.planbbestfoodintown19113,Plan B - Best Food in Town,order smart VI,Food & Drink,,100+,true,false,1696424556000,3.1.1,,https://play.google.com/store/apps/details?id=com.appsmart.delivery.planbbestfoodintown19113&hl=en&gl=us
+co.spencer.bolckmans,B-Connect,Spencer | Employee Communication,Business,,50+,true,false,1750947322000,52.4.1,,https://play.google.com/store/apps/details?id=co.spencer.bolckmans&hl=en&gl=us
+com.curecare,B:A:M Universe,B:A:M Universe,Health & Fitness,,100+,true,false,1746107834000,1.1.2,,https://play.google.com/store/apps/details?id=com.curecare&hl=en&gl=us
+com.ess.ccarepro,C-Care PRO,C-Care (Mauritius) Ltd,Health & Fitness,,100+,true,false,1751988337000,1.0.4,,https://play.google.com/store/apps/details?id=com.ess.ccarepro&hl=en&gl=us
+com.trainerize.conlinefitness,C Online Fitness,CBA-Pro1,Health & Fitness,,100+,true,false,1754148931000,7.192.0,,https://play.google.com/store/apps/details?id=com.trainerize.conlinefitness&hl=en&gl=us
+io.ueat.cmarketcoffee,C Market Coffee,UEAT Technologies,Food & Drink,,100+,true,false,1739556033000,2.0.5,,https://play.google.com/store/apps/details?id=io.ueat.cmarketcoffee&hl=en&gl=us
+info.camposha.c_libraries,C Libraries and Compiler,Clement Ochieng,Books & Reference,0,500+,true,true,1709445464000,8.0,,https://play.google.com/store/apps/details?id=info.camposha.c_libraries&hl=en&gl=us
+com.eaware.appcvale,C.Vale,C.Vale - Cooperativa Agroindustrial,Business,,100+,true,false,1739456798000,1.0.22872,,https://play.google.com/store/apps/details?id=com.eaware.appcvale&hl=en&gl=us
+com.andcards.cspacenetwork,C-Space Network,Spacebring,Productivity,,500+,true,false,1752156368000,4.8.9,,https://play.google.com/store/apps/details?id=com.andcards.cspacenetwork&hl=en&gl=us
+com.honeycommb.cplace,C-place,C-place,Social,,500+,true,false,1744811583000,1.59.0,,https://play.google.com/store/apps/details?id=com.honeycommb.cplace&hl=en&gl=us
+studio.yanxinalircc.com,RC-C,Rockcore,Tools,,500+,true,false,1742886845000,1.1.0,,https://play.google.com/store/apps/details?id=studio.yanxinalircc.com&hl=en&gl=us
+ru.m4bank.softpos.converse,C-POS,Converse Bank CJSC,Finance,,500+,true,false,1730109523000,2.2.15.95,,https://play.google.com/store/apps/details?id=ru.m4bank.softpos.converse&hl=en&gl=us
+com.cohl.csmart,C-SMART,海宏技术有限公司,Tools,,100+,true,false,1753783453000,1.4.0,,https://play.google.com/store/apps/details?id=com.cohl.csmart&hl=en&gl=us
+com.c_world,C-World,Cyberium Developer,Entertainment,,500+,true,false,1755001493000,2.3.11,,https://play.google.com/store/apps/details?id=com.c_world&hl=en&gl=us
+com.coddykit.c.language,Learn C Language & C Editor,Coddy Software Solutions,Education,,100+,true,true,1743208611000,9.5.5,,https://play.google.com/store/apps/details?id=com.coddykit.c.language&hl=en&gl=us
+com.malauzai.DH5398,C-Plant FCU Mobile Banking,C-Plant FCU,Finance,,100+,true,false,1754755435000,9.17.1,,https://play.google.com/store/apps/details?id=com.malauzai.DH5398&hl=en&gl=us
+com.allbachelor.cprograms,C Programs,Codynn,Education,,100+,true,true,1755164798000,1.1.8,,https://play.google.com/store/apps/details?id=com.allbachelor.cprograms&hl=en&gl=us
+com.TrueoneGameStudio.e,e,TrueoneGameStudio,Puzzle,,5+,true,false,1663937684000,0.2,,https://play.google.com/store/apps/details?id=com.TrueoneGameStudio.e&hl=en&gl=us
+mn.cody.dw.app,B2B-F,CODY LLC,Shopping,,100+,true,false,1738899639000,1.0.15,,https://play.google.com/store/apps/details?id=mn.cody.dw.app&hl=en&gl=us
+se.fsektionen.fapp2prod,F-sektionen,F-sektionen,Tools,,500+,true,false,1732052074000,1.15.6122,,https://play.google.com/store/apps/details?id=se.fsektionen.fapp2prod&hl=en&gl=us
+cbt.dec.fforce,F Force by プロキャス,株式会社ＰＲＯＣＡＮ,Business,,10+,true,false,1749771651000,2.8.13,,https://play.google.com/store/apps/details?id=cbt.dec.fforce&hl=en&gl=us
+com.vtellapp,F-Tell,Globex Telecom Group Ltd.,Communication,0,100+,true,false,1725020213000,5.1.2,,https://play.google.com/store/apps/details?id=com.vtellapp&hl=en&gl=us
+com.cspec.fnumbers2,F Numbers,C-Spec,Tools,,500+,true,false,1725963774000,2.2,,https://play.google.com/store/apps/details?id=com.cspec.fnumbers2&hl=en&gl=us
+com.sellbuy.fff.id,F ID Shop - Sell and Buy IDs,Team Refam,Shopping,,10+,true,false,1754848468000,1.0.0,,https://play.google.com/store/apps/details?id=com.sellbuy.fff.id&hl=en&gl=us
+com.fmsapp.id1375,F-Market,Further Market Inc,Communication,,500+,true,false,1749840053000,1.0.16.88,,https://play.google.com/store/apps/details?id=com.fmsapp.id1375&hl=en&gl=us
+com.foodbooking.luxfrestaurantapp,Lux F restaurant,GlobalFood - an Oracle company,Food & Drink,,500+,true,false,1752603593000,3.1.16,,https://play.google.com/store/apps/details?id=com.foodbooking.luxfrestaurantapp&hl=en&gl=us
+com.app.ftranslator,F-Translator & OCR App,mldev,Tools,,10+,true,false,1686056473000,1.0,,https://play.google.com/store/apps/details?id=com.app.ftranslator&hl=en&gl=us
+com.hapana.fitgroup,F* IT,Hapana,Health & Fitness,,100+,true,false,1698760660000,3.0,,https://play.google.com/store/apps/details?id=com.hapana.fitgroup&hl=en&gl=us
+mtalhadev5.Fenix,Fenix F,Fenix F,Business,,100+,true,false,1754388690000,1.2.10,,https://play.google.com/store/apps/details?id=mtalhadev5.Fenix&hl=en&gl=us
+pl.com.frapol.fcloud,F-Cloud,Frapol Sp. z o.o.,House & Home,,50+,true,false,1730110414000,1.0.8,,https://play.google.com/store/apps/details?id=pl.com.frapol.fcloud&hl=en&gl=us
+com.fullmanager.app,F/Manager,Fulltime Gestora de Dados Ltda,Productivity,,50+,true,false,1749668039000,1.1.0,,https://play.google.com/store/apps/details?id=com.fullmanager.app&hl=en&gl=us
+se.roxx.carlf,Carl F - Connect,Roxx Communication Group AB,Tools,,50+,true,false,1734085544000,1.0.0,,https://play.google.com/store/apps/details?id=se.roxx.carlf&hl=en&gl=us
+com.cspiinc.fmnb,F & M Bank Mobile,Farmers & Merchants Bank of Ashland,Finance,4.285714,500+,true,false,1751559883000,1.19.328,,https://play.google.com/store/apps/details?id=com.cspiinc.fmnb&hl=en&gl=us
+org.redphalarope.sof,S o F - strukturen,Red Phalarope,Medical,,100+,true,false,1747057813000,1.0.3,,https://play.google.com/store/apps/details?id=org.redphalarope.sof&hl=en&gl=us
+jp.co.datalogic.sfcompass,S/F com-pass,DATA LOGIC,Business,,500+,true,false,1750923354000,3.0.0,,https://play.google.com/store/apps/details?id=jp.co.datalogic.sfcompass&hl=en&gl=us
+com.genfquran.mobile,Gen F Qur'an,Progresio Institute,Personalization,,10+,true,true,1740826054000,1.0.1,,https://play.google.com/store/apps/details?id=com.genfquran.mobile&hl=en&gl=us
+com.google.android.apps.safetyhub,Personal Safety,Google LLC,Tools,3.8714285,1+,true,false,1754326800000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub&hl=en&gl=us
+co.shopney.houseofgeve,House of G.EVE,House of G.EVE,Shopping,,100+,true,false,1751467056000,1.3,,https://play.google.com/store/apps/details?id=co.shopney.houseofgeve&hl=en&gl=us
+com.otipass.grenoblebusiness,G-PASS Business,Otipass,Travel & Local,,100+,true,false,1754984576000,3.8.014,,https://play.google.com/store/apps/details?id=com.otipass.grenoblebusiness&hl=en&gl=us
+com.geutebrueck,G-View Mobile App,Geutebrück GmbH,Productivity,,500+,true,false,1744727307000,1.3.1,,https://play.google.com/store/apps/details?id=com.geutebrueck&hl=en&gl=us
+net.gastfreund.GHotels,G Hotels,G Hotels,Travel & Local,,100+,true,false,1754905442000,9.8,,https://play.google.com/store/apps/details?id=net.gastfreund.GHotels&hl=en&gl=us
+com.gtech.gschool,G-School,Menosi - IT ADVISORY,Education,,100+,true,false,1751954290000,1.0.1,,https://play.google.com/store/apps/details?id=com.gtech.gschool&hl=en&gl=us
+vn.lsat.grunner,G Runner,LCS Company,Business,,10+,true,false,1743749328000,2.1.2,,https://play.google.com/store/apps/details?id=vn.lsat.grunner&hl=en&gl=us
+com.gfitsoft.mobile,G Fit,GFit Soft,Health & Fitness,,100+,true,false,1744654828000,1.35.48,,https://play.google.com/store/apps/details?id=com.gfitsoft.mobile&hl=en&gl=us
+com.bsport_1087,G base studio,bsport,Health & Fitness,,500+,true,false,1751028454000,7.24.0,,https://play.google.com/store/apps/details?id=com.bsport_1087&hl=en&gl=us
+com.taxiapptheeran,G Taxi,Theeran Universal,Travel & Local,,100+,true,false,1753381442000,6.0.0,,https://play.google.com/store/apps/details?id=com.taxiapptheeran&hl=en&gl=us
+com.galleryhomes,G Construction,Gallery Group,Business,,100+,true,false,1728582362000,6.0,,https://play.google.com/store/apps/details?id=com.galleryhomes&hl=en&gl=us
+com.mendrhub.grilld,G Group,mendrhub,Food & Drink,,100+,true,false,1753925409000,4.3.10,,https://play.google.com/store/apps/details?id=com.mendrhub.grilld&hl=en&gl=us
+com.hyundai.dream.h_biz,H-Biz,Hyundai Dreamtour,Business,,100+,true,false,1744606324000,1.0.8,,https://play.google.com/store/apps/details?id=com.hyundai.dream.h_biz&hl=en&gl=us
+com.yesgroupsuccess.application,H Happiness,Thehappiness,Travel & Local,,100+,true,false,1754762089000,0.1.28,,https://play.google.com/store/apps/details?id=com.yesgroupsuccess.application&hl=en&gl=us
+com.blossomh.byapps,BLOSSOM H COMPANY,BLOSSOM H COMPANY,Shopping,,100+,true,false,1753247970000,1.6,,https://play.google.com/store/apps/details?id=com.blossomh.byapps&hl=en&gl=us
+com.app.a1f4W000008XoLJQA0,MS 61 Dr. Gladstone H. Atwell,SOLVED,Education,,100+,true,false,1751665220000,5.7.5,,https://play.google.com/store/apps/details?id=com.app.a1f4W000008XoLJQA0&hl=en&gl=us
+com.identisoftsolutions.grupoh,My H Saúde,"Identisoft - Sistemas De Identificação, Lda.",Medical,,500+,true,false,1742808729000,2.1.3,,https://play.google.com/store/apps/details?id=com.identisoftsolutions.grupoh&hl=en&gl=us
+com.quiply.hwtiefbau,H & W Tiefbau,Quiply by Atoria – the people software GmbH,Productivity,,100+,true,false,1755066718000,3.27.27,,https://play.google.com/store/apps/details?id=com.quiply.hwtiefbau&hl=en&gl=us
+com.hebron.hcabrider1,H Cab,Hebron Global LLC,Travel & Local,0,50+,true,false,1754975563000,1.0.7,,https://play.google.com/store/apps/details?id=com.hebron.hcabrider1&hl=en&gl=us
+com.hmessenger.messenger,H-Messenger,H-Messenger,Social,0,500+,true,false,1752755537000,1.3.3,,https://play.google.com/store/apps/details?id=com.hmessenger.messenger&hl=en&gl=us
+com.epluscharging.housingauthority,H-Charge,HALO Energy Ltd.,Auto & Vehicles,,10+,true,false,1754539270000,1.1.6,,https://play.google.com/store/apps/details?id=com.epluscharging.housingauthority&hl=en&gl=us
+com.trebeshenning,My T+H,JCR Technologies,Shopping,,50+,true,false,1744889062000,1.0,,https://play.google.com/store/apps/details?id=com.trebeshenning&hl=en&gl=us
+com.fitnessmobileapps.hkorestudios,H-Kore Studios,Branded MINDBODY Apps,Health & Fitness,,100+,true,false,1755029911000,7.8.6,,https://play.google.com/store/apps/details?id=com.fitnessmobileapps.hkorestudios&hl=en&gl=us
+com.pushpress.districthstrengthandfitness,District H Strength & Fitness,"PushPress, Inc.",Health & Fitness,,100+,true,false,1750102235000,3.27.0,,https://play.google.com/store/apps/details?id=com.pushpress.districthstrengthandfitness&hl=en&gl=us
+com.edigitalnepal.aamhs,Morang Marigold Ang. H.School,Digital Nepal: Digitizing the education ecosystem,Education,,50+,true,false,1719830619000,1.0.2,,https://play.google.com/store/apps/details?id=com.edigitalnepal.aamhs&hl=en&gl=us
+com.vivertechnologies.ifsk,Islamia Faridia H. Sec. School,Viver Technologies,Education,,500+,true,false,1743829836000,0.0.69,,https://play.google.com/store/apps/details?id=com.vivertechnologies.ifsk&hl=en&gl=us
+app.donkeymobile.westbetuweparochie,H. Barbara,Parochie H. Suitbertus,Lifestyle,,100+,true,false,1748337804000,2.22.0,,https://play.google.com/store/apps/details?id=app.donkeymobile.westbetuweparochie&hl=en&gl=us
+com.puookkeoughb.pwhbf3lpbapp,H@VEN,Haven Enterprise LLC,Lifestyle,4.714286,500+,true,true,1742215920000,3.11.13,,https://play.google.com/store/apps/details?id=com.puookkeoughb.pwhbf3lpbapp&hl=en&gl=us
+com.h_tech_support.live,H-Tech Supports,H-Tech Supports,Productivity,,100+,true,false,1754603997000,1.0.2,,https://play.google.com/store/apps/details?id=com.h_tech_support.live&hl=en&gl=us
+com.tocaan.h_invite,H invite,Tocaan,Lifestyle,,50+,true,false,1746030126000,1.1.9,,https://play.google.com/store/apps/details?id=com.tocaan.h_invite&hl=en&gl=us
+com.appledeveloper003.project_v,H & H,apple developer,Communication,,100+,true,false,1755182453000,1.0.3,,https://play.google.com/store/apps/details?id=com.appledeveloper003.project_v&hl=en&gl=us
+com.softavera.hburgeretpizza,H Burger et Pizza,Softavera,Food & Drink,,100+,true,false,1745858750000,8.0.0.0,,https://play.google.com/store/apps/details?id=com.softavera.hburgeretpizza&hl=en&gl=us
+com.h_karmali.calendar.h_karmali_calendar_2025,H Karmali Calendar 2025,Allyz Labs,Productivity,,500+,true,false,1734850138000,1.0.0,,https://play.google.com/store/apps/details?id=com.h_karmali.calendar.h_karmali_calendar_2025&hl=en&gl=us
+de.corussoft.hhamericas,h+h americas,Koelnmesse Inc.,Business,0,500+,true,false,1746015256000,2025.1.0,,https://play.google.com/store/apps/details?id=de.corussoft.hhamericas&hl=en&gl=us
+com.hbank.app.br,h-Bank: A carteira do corretor,Marlin Internet e Serviços,Finance,,50+,true,false,1754928908000,1.1,,https://play.google.com/store/apps/details?id=com.hbank.app.br&hl=en&gl=us
+com.thehhealth.grid.own,The H Health,The H Health,Health & Fitness,0,10+,true,false,1754962907000,5.23.0,,https://play.google.com/store/apps/details?id=com.thehhealth.grid.own&hl=en&gl=us
+com.moyoung.ring.halo.health,H. Health 1,Halo Health Ring,Health & Fitness,,500+,true,false,1743994160000,1.0.5-689e1f882,,https://play.google.com/store/apps/details?id=com.moyoung.ring.halo.health&hl=en&gl=us
+com.colybri.app,Héroes S de H,COLYBRI S de H,Health & Fitness,,10+,true,false,1754624592000,1.4,,https://play.google.com/store/apps/details?id=com.colybri.app&hl=en&gl=us
+com.foodtech.thehbox,ذا اتش بوكس | The H BOX,Maxsys,Food & Drink,,50+,true,false,1739087972000,1.0.2,,https://play.google.com/store/apps/details?id=com.foodtech.thehbox&hl=en&gl=us
+com.perfectgym.perfectgymgo2.jclub,J Club by Jumeirah,PERFECT GYM SOLUTIONS S. A.,Health & Fitness,0,500+,true,false,1748881397000,1.28.0.1,,https://play.google.com/store/apps/details?id=com.perfectgym.perfectgymgo2.jclub&hl=en&gl=us
+com.soo.jpetal,J-Petal & Poke,Zaytech,Food & Drink,4.9787235,100+,true,false,1730222341000,2.8.61,,https://play.google.com/store/apps/details?id=com.soo.jpetal&hl=en&gl=us
+jp.jenoba.jview,J-View,株式会社ジェノバ,Tools,,500+,true,false,1717051608000,2.0.3,,https://play.google.com/store/apps/details?id=jp.jenoba.jview&hl=en&gl=us
+com.thestrainapp.j_wellness,J Wellness,VaultDev Corp.,Health & Fitness,0,500+,true,false,1749678087000,2.0.8,,https://play.google.com/store/apps/details?id=com.thestrainapp.j_wellness&hl=en&gl=us
+br.com.nibo.customer.jleal,J.Leal Contabilidade,Nibo,Finance,,10+,true,false,1748457844000,1.0.9,,https://play.google.com/store/apps/details?id=br.com.nibo.customer.jleal&hl=en&gl=us
+fr.jaideici.app,J'aide ici,Django Mesh,Dating,,100+,true,false,1754656129000,1.0.75,,https://play.google.com/store/apps/details?id=fr.jaideici.app&hl=en&gl=us
+com.yamaichi.order,Yamaichi-J,yamaichi-j,Shopping,,50+,true,false,1746144087000,1.4.4,,https://play.google.com/store/apps/details?id=com.yamaichi.order&hl=en&gl=us
+com.my1218app.DayCampsAtTheJ,Day Camps@The J,1218 App Team,Lifestyle,,50+,true,false,1739823760000,2.3.156,,https://play.google.com/store/apps/details?id=com.my1218app.DayCampsAtTheJ&hl=en&gl=us
+com.codixy.jdot,J.Dot,Courio Ltd,Productivity,,100+,true,false,1729846930000,1.0.4,,https://play.google.com/store/apps/details?id=com.codixy.jdot&hl=en&gl=us
+com.upace.vosjcc,Workout @ Valley of the Sun J,upace,Health & Fitness,0,500+,true,false,1739440430000,1.1.15,,https://play.google.com/store/apps/details?id=com.upace.vosjcc&hl=en&gl=us
+com.mej.android.webremote,ME.J Music Remote,ME. J MEDIA SOLUTIONS LTD,Music & Audio,,100+,true,false,1701072590000,1.1,,https://play.google.com/store/apps/details?id=com.mej.android.webremote&hl=en&gl=us
+at.orderlion.mobileapp.jbuckland,J.Buckland,Orderlion,Shopping,,50+,true,false,1748874676000,3.1.0,,https://play.google.com/store/apps/details?id=at.orderlion.mobileapp.jbuckland&hl=en&gl=us
+com.radiojhero.app,Rádio J-Hero,Armando Meziat,Music & Audio,,500+,true,false,1745891877000,5.0.1,,https://play.google.com/store/apps/details?id=com.radiojhero.app&hl=en&gl=us
+com.trainerize.jgolffitness,J Golf Fitness,CBA-Pro1,Health & Fitness,,50+,true,false,1754124681000,7.192.0,,https://play.google.com/store/apps/details?id=com.trainerize.jgolffitness&hl=en&gl=us
+com.siriusntech.jaime_cocody,J'aime Cocody,Sirius Ntech,News & Magazines,,500+,true,false,1722687371000,1.0.8,,https://play.google.com/store/apps/details?id=com.siriusntech.jaime_cocody&hl=en&gl=us
+com.kj14140.app2,Jenny J Fitness,Jenny J Fitness,Lifestyle,,50+,true,false,1754608609000,3.16.1.1,,https://play.google.com/store/apps/details?id=com.kj14140.app2&hl=en&gl=us
+com.trainerize.jnewtrition,J Newtrition,Trainerize CBA-STUDIO 1,Health & Fitness,0,10+,true,false,1754021271000,7.191.0,,https://play.google.com/store/apps/details?id=com.trainerize.jnewtrition&hl=en&gl=us
+com.bakerj.cem.members.app,Baker J,Chroma Hospitality Inc.,Food & Drink,,100+,true,false,1658727592000,1.230,,https://play.google.com/store/apps/details?id=com.bakerj.cem.members.app&hl=en&gl=us
+com.fitnessmobileapps.jpilatesmidland36288,J Pilates Midland,Branded MINDBODY Apps,Health & Fitness,,50+,true,false,1755055509000,7.8.6,,https://play.google.com/store/apps/details?id=com.fitnessmobileapps.jpilatesmidland36288&hl=en&gl=us
+net.relesysapp.jjensen,J.Jensen,J. Jensen A/S,Business,,100+,true,false,1722412769000,1.6.11,,https://play.google.com/store/apps/details?id=net.relesysapp.jjensen&hl=en&gl=us
+com.progexpert.jlafit,J-La Fit,PROGEXPERT,Lifestyle,,50+,true,false,1695680353000,1.4,,https://play.google.com/store/apps/details?id=com.progexpert.jlafit&hl=en&gl=us
+net.relesysapp.jlindeberg,J.Lindeberg,J Lindeberg,Business,,100+,true,false,1728903163000,1.6.12,,https://play.google.com/store/apps/details?id=net.relesysapp.jlindeberg&hl=en&gl=us
+jp.co.jnetrentacar.tns.maikuru,Jネットカーズ,"REVISE CO., LTD.",Lifestyle,,500+,true,false,1701825812000,1.2.3,,https://play.google.com/store/apps/details?id=jp.co.jnetrentacar.tns.maikuru&hl=en&gl=us
+j.food.com,J-Food,Samer Kh,Shopping,,100+,true,false,1754155894000,1.0.1,,https://play.google.com/store/apps/details?id=j.food.com&hl=en&gl=us
+com.turner.dashboard,J Turner Mobile,J Turner Research,Business,,10+,true,false,1742984116000,1.1,,https://play.google.com/store/apps/details?id=com.turner.dashboard&hl=en&gl=us
+com.techno.garderie,J-Kid,STE Techno Shark,Education,,10+,true,false,1751357824000,2.0.0,,https://play.google.com/store/apps/details?id=com.techno.garderie&hl=en&gl=us
+com.m85cae8fea0cb.app,103.3 The New J,"Far East Broadcasting Company (Philippines), Inc.",Music & Audio,,100+,true,false,1737122827000,24.12.07,,https://play.google.com/store/apps/details?id=com.m85cae8fea0cb.app&hl=en&gl=us
+com.contractdistrict.homeJ,Home-J,MCD s.r.l.,House & Home,,100+,true,false,1736885808000,1.7.0,,https://play.google.com/store/apps/details?id=com.contractdistrict.homeJ&hl=en&gl=us
+com.nineyi.shop.s040315,J II 休閒旅行背包品牌,"91APP, Inc. (21)",Shopping,,500+,true,false,1754881158000,25.8.0,,https://play.google.com/store/apps/details?id=com.nineyi.shop.s040315&hl=en&gl=us
+com.siriusntech.jaimekorhogo,J'aime Korhogo,Sirius Ntech,Entertainment,,10+,true,false,1743017626000,1.0.1,,https://play.google.com/store/apps/details?id=com.siriusntech.jaimekorhogo&hl=en&gl=us
+mobi.barberly.genjay,Gentleman J,Barberly,Beauty,,10+,true,false,1709071159000,17.0.5,,https://play.google.com/store/apps/details?id=mobi.barberly.genjay&hl=en&gl=us
+com.ceres.ceres,J'Océane,Support DSI,Food & Drink,,10+,true,false,1741354822000,0.1.4,,https://play.google.com/store/apps/details?id=com.ceres.ceres&hl=en&gl=us
+com.netpulse.mobile.jsmithyoungymca,J. Smith Young YMCA,EGYM,Health & Fitness,4.888889,500+,true,false,1712074729000,1.4,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.jsmithyoungymca&hl=en&gl=us
+com.ogloba.gc.salva.smartwallet.android,J Pay France SW,OGLOBA LIMITED,Shopping,,5+,true,false,1753849438000,1.0.7,,https://play.google.com/store/apps/details?id=com.ogloba.gc.salva.smartwallet.android&hl=en&gl=us
+com.jall.driver,J Driver,Jall App,Travel & Local,,1+,true,false,1754500220000,0.0.5,,https://play.google.com/store/apps/details?id=com.jall.driver&hl=en&gl=us
+br.com.wiki4fit.jfit,J Fit,WIKI4FIT APP,Health & Fitness,,1+,true,false,1754052589000,12.01.01,,https://play.google.com/store/apps/details?id=br.com.wiki4fit.jfit&hl=en&gl=us
+com.kcampus.prod,K-campus,코리아중앙데일리,News & Magazines,,500+,true,false,1749622731000,1.0.0,,https://play.google.com/store/apps/details?id=com.kcampus.prod&hl=en&gl=us
+com.AceEdu.KPOPKoreanPuzzleAnytime,K-pop : Learn Anytime Korean,ACE EDU INC.,Puzzle,,100+,true,true,1735782365000,1.1.5,,https://play.google.com/store/apps/details?id=com.AceEdu.KPOPKoreanPuzzleAnytime&hl=en&gl=us
+com.kjellberg.kdesk,Kjellberg K-Desk,Kjellberg,Business,0,100+,true,false,1732537999000,0.8.5,,https://play.google.com/store/apps/details?id=com.kjellberg.kdesk&hl=en&gl=us
+vn.ktopik,K-TOPIK,KTOPIK,Education,,500+,true,false,1742777934000,2.0,,https://play.google.com/store/apps/details?id=vn.ktopik&hl=en&gl=us
+com.CSshopkmarieboutique.android,K Marie Boutique,CommentSold Apps XXV,Shopping,0,50+,true,false,1754135202000,4.0.120,,https://play.google.com/store/apps/details?id=com.CSshopkmarieboutique.android&hl=en&gl=us
+eu.care.fun.android.app,Care N Fun,Parent ApS,Communication,,100+,true,false,1748258724000,1.2.1,,https://play.google.com/store/apps/details?id=eu.care.fun.android.app&hl=en&gl=us
+ca.smartn,Smart’n,YOURIKA,Productivity,0,50+,true,false,1750203244000,1.04,,https://play.google.com/store/apps/details?id=ca.smartn&hl=en&gl=us
+com.TouchNStars.dev,Touch'N'Stars,TouchNStars,Photography,0,500+,true,false,1754688238000,3.1.2,,https://play.google.com/store/apps/details?id=com.TouchNStars.dev&hl=en&gl=us
+com.skillndepth.mobile,Skill N Depth,Skill N Depth,Business,,100+,true,true,1753798221000,2.0.0,,https://play.google.com/store/apps/details?id=com.skillndepth.mobile&hl=en&gl=us
+com.bpm.chargengoapp,Charge N Go - EV Charging,Charge N Go,Maps & Navigation,,500+,true,false,1725000140000,1.0.0,,https://play.google.com/store/apps/details?id=com.bpm.chargengoapp&hl=en&gl=us
+com.blast.block.jam.mania.color.puzzle,Pop n Drop,GameeStudio,Puzzle,,500+,true,false,1750848699000,1.0.8,,https://play.google.com/store/apps/details?id=com.blast.block.jam.mania.color.puzzle&hl=en&gl=us
+be.appoint.itsready.frietnjoy,Friet ‘n Joy,It's Ready,Food & Drink,,100+,true,false,1750645600000,10.0.9,,https://play.google.com/store/apps/details?id=be.appoint.itsready.frietnjoy&hl=en&gl=us
+com.furiousavocado.tileslide,Slide N Drop,Furious Avocado,Puzzle,0,100+,true,false,1748855390000,1.0.3,,https://play.google.com/store/apps/details?id=com.furiousavocado.tileslide&hl=en&gl=us
+com.fitko.fitnfight,Fit n Fight,WebTech.hr,Health & Fitness,,50+,true,false,1751522574000,1.2.1,,https://play.google.com/store/apps/details?id=com.fitko.fitnfight&hl=en&gl=us
+com.HonestManApps.MathNBack,Math N-Back,Honest Man Apps,Puzzle,,500+,true,true,1753168421000,2.0.5,,https://play.google.com/store/apps/details?id=com.HonestManApps.MathNBack&hl=en&gl=us
+com.rakunik.matchnpack,Match 'N Pack,RAKUNiK GAMES,Puzzle,4.4,500+,true,false,1732175286000,1.0.0,,https://play.google.com/store/apps/details?id=com.rakunik.matchnpack&hl=en&gl=us
+ca.shinendrive,Shine N’ Drive,Momentum Infotech Inc.,Business,,100+,true,false,1749811362000,1.2,,https://play.google.com/store/apps/details?id=ca.shinendrive&hl=en&gl=us
+com.rakunik.breaknbounce,Break ’n’ Bounce,RAKUNiK GAMES,Puzzle,4.8,100+,true,false,1753771192000,1.0.0,,https://play.google.com/store/apps/details?id=com.rakunik.breaknbounce&hl=en&gl=us
+com.lazyimp.moveandsort,Move N Sort,Lazy Imp,Puzzle,,100+,true,false,1736588601000,1.0.0,,https://play.google.com/store/apps/details?id=com.lazyimp.moveandsort&hl=en&gl=us
+com.nhealth.mobileapp,N Health Connect,"National Healthcare System Co.,Ltd.",Medical,,100+,true,false,1748030640000,1.0.41,,https://play.google.com/store/apps/details?id=com.nhealth.mobileapp&hl=en&gl=us
+com.cmcflex.ftmobile.pas,P & S Credit Union,P and S Credit Union,Finance,,100+,true,false,1750443086000,5.2.5,,https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.pas&hl=en&gl=us
+nl.infowijs.client.jpt,Jac P Thijsse,Infowijs,Education,,500+,true,false,1754318720000,4.3.0,,https://play.google.com/store/apps/details?id=nl.infowijs.client.jpt&hl=en&gl=us
+com.pportoappdomus.AppDomus,P.Porto,SAS P.Porto,Education,,10+,true,false,1753086789000,VARY,,https://play.google.com/store/apps/details?id=com.pportoappdomus.AppDomus&hl=en&gl=us
+com.phoneado.android,P Phones,Phoneado,Personalization,5,100+,true,false,1753441947000,3.3.30,,https://play.google.com/store/apps/details?id=com.phoneado.android&hl=en&gl=us
+com.vsg.pmetmobile,P-MET Mobile,VSG >>,Weather,0,500+,true,false,1754454993000,0.5.0,,https://play.google.com/store/apps/details?id=com.vsg.pmetmobile&hl=en&gl=us
+com.bullbitz.piratedrop2,Pirate Drops 2 - Match three p,BULLBITZ,Board,3.6,500+,true,false,1724020043000,3.0.0,,https://play.google.com/store/apps/details?id=com.bullbitz.piratedrop2&hl=en&gl=us
+com.leptitobservatoire.observeapp,Le p'tit observatoire,leptitobservatoire,Education,,100+,true,false,1728449193000,v1.0.1-2024-10-09,,https://play.google.com/store/apps/details?id=com.leptitobservatoire.observeapp&hl=en&gl=us
+com.pphoneapp,P Phone,A Plus We Build and Launch Mobile Apps,Productivity,,100+,true,false,1753997978000,2.1.0,,https://play.google.com/store/apps/details?id=com.pphoneapp&hl=en&gl=us
+jp.recochoku.pitne,P!TNE - ピトネ,"RecoChoku Co.,Ltd.",Music & Audio,,500+,true,false,1753669534000,1.5.0,,https://play.google.com/store/apps/details?id=jp.recochoku.pitne&hl=en&gl=us
+com.cesd_sa.lepelerinmobilemoney,P'MO,CESD S.A,Finance,,500+,true,false,1723291907000,2.5,,https://play.google.com/store/apps/details?id=com.cesd_sa.lepelerinmobilemoney&hl=en&gl=us
+mobi.barberly.philpsunisex,Phil P,Barberly,Beauty,0,100+,true,false,1741207924000,21.0.1,,https://play.google.com/store/apps/details?id=mobi.barberly.philpsunisex&hl=en&gl=us
+com.apptegy.johnpholland,John P. Holland Charter School,Apptegy Play Store,Education,5,100+,true,false,1743715790000,4.5.0,,https://play.google.com/store/apps/details?id=com.apptegy.johnpholland&hl=en&gl=us
+com.propertyadvisor.propertyadvisor,P-Adviser,ADVIX Solutions,House & Home,,10+,true,false,1755087494000,5.2,,https://play.google.com/store/apps/details?id=com.propertyadvisor.propertyadvisor&hl=en&gl=us
+com.wnapp.id1736503522685,P Mart,Reluctech Media,Shopping,,500+,true,false,1739348431000,1.0,,https://play.google.com/store/apps/details?id=com.wnapp.id1736503522685&hl=en&gl=us
+com.wnapp.id1743067425164,P Wallet,Pretac,Shopping,,50+,true,false,1753856682000,1.0,,https://play.google.com/store/apps/details?id=com.wnapp.id1743067425164&hl=en&gl=us
+com.DriverOperatorExamCenter.DriverOperator,Driver Operator Exam Center: P,Tuli Education,Education,4.2,500+,true,true,1682867421000,1.2.0,,https://play.google.com/store/apps/details?id=com.DriverOperatorExamCenter.DriverOperator&hl=en&gl=us
+com.dpcomm.tv.platform,D & P TV,D&P Communications,Entertainment,0,500+,true,false,1740769624000,VARY,,https://play.google.com/store/apps/details?id=com.dpcomm.tv.platform&hl=en&gl=us
+com.purrsong.pmanager,P. Manager,"PurrSong, Inc.",Productivity,,500+,true,false,1752720567000,1.7.0,,https://play.google.com/store/apps/details?id=com.purrsong.pmanager&hl=en&gl=us
+com.capiratech.johnphtn,John P. Holt Brentwood,OCLC Capira,Books & Reference,,500+,true,false,1753303853000,2025.07.00,,https://play.google.com/store/apps/details?id=com.capiratech.johnphtn&hl=en&gl=us
+suraj.taxi,P.CLIENT,TaxiAdmin,Auto & Vehicles,,10+,true,false,1749224278000,2.55.319.1_(GA),,https://play.google.com/store/apps/details?id=suraj.taxi&hl=en&gl=us
+com.progps.PGPSMobile,P-GPS Mobile,PRO GPS & TECHNOLOGY,Tools,,10+,true,false,1748377602000,8.0.0,,https://play.google.com/store/apps/details?id=com.progps.PGPSMobile&hl=en&gl=us
+be.pakske.befr,P'tit Colis BE,Pakske,Parenting,,50+,true,false,1729852810000,1.0.24,,https://play.google.com/store/apps/details?id=be.pakske.befr&hl=en&gl=us
+com.theq,The Q,MIM TECHNOLOGY,Education,0,500+,true,true,1752863555000,28.0,,https://play.google.com/store/apps/details?id=com.theq&hl=en&gl=us
+com.krews.android,Q App,Qode Limited,Social,0,500+,true,false,1753443440000,2.27,,https://play.google.com/store/apps/details?id=com.krews.android&hl=en&gl=us
+com.queue.customer,Q,Ratawa apps,Productivity,,5+,true,false,1648454092000,1.0.2,,https://play.google.com/store/apps/details?id=com.queue.customer&hl=en&gl=us
+com.qcells.q_installer,Q.OMMAND PRO,Q CELLS Technologies,Tools,0,500+,true,false,1754546374000,2.7.6,,https://play.google.com/store/apps/details?id=com.qcells.q_installer&hl=en&gl=us
+com.usepepper.quirchfoodsapp,Q-Shop,Pomegranate Technologies,Food & Drink,,500+,true,false,1752383572000,1.20.29,,https://play.google.com/store/apps/details?id=com.usepepper.quirchfoodsapp&hl=en&gl=us
+de.qcells.qhomecontrol,Q.HOME CONTROL,Qcells,House & Home,,500+,true,false,1753873510000,1.9.2-ny_c430d64e8-co_9d34ba816,,https://play.google.com/store/apps/details?id=de.qcells.qhomecontrol&hl=en&gl=us
+com.socialchorus.bcfbc.android.googleplay,On Q Quest,Quest Diagnostics Incorporated,Business,0,500+,true,false,1749589137000,5.4.5,,https://play.google.com/store/apps/details?id=com.socialchorus.bcfbc.android.googleplay&hl=en&gl=us
+com.mv.qapp,Q App,MTI Company,Shopping,,100+,true,true,1754642349000,1.0.277,,https://play.google.com/store/apps/details?id=com.mv.qapp&hl=en&gl=us
+com.theqexp.app,The Q Experiences,The Q Experiences,Travel & Local,,10+,true,false,1751717992000,2.7.2,,https://play.google.com/store/apps/details?id=com.theqexp.app&hl=en&gl=us
+com.gointegro.go5mobile.QSoyYo,Q Soy Yo,GOintegro,Lifestyle,,500+,true,false,1754670815000,4.11.5,,https://play.google.com/store/apps/details?id=com.gointegro.go5mobile.QSoyYo&hl=en&gl=us
+kz.quickwork.app,Q Work,"Q WORK, TOO",Productivity,,500+,true,false,1748450997000,1.2.0-gp,,https://play.google.com/store/apps/details?id=kz.quickwork.app&hl=en&gl=us
+digifit.android.virtuagym.pro.qboutiquefitness,Q BOUTIQUE FITNESS,Virtuagym Professional,Health & Fitness,,10+,true,false,1748116316000,11.5.8,,https://play.google.com/store/apps/details?id=digifit.android.virtuagym.pro.qboutiquefitness&hl=en&gl=us
+com.sqewlets,q'eyéx,CheckingIn,Health & Fitness,,50+,true,false,1754532469000,2.6.9,,https://play.google.com/store/apps/details?id=com.sqewlets&hl=en&gl=us
+io.harbiz.fitconq,Fit con Q,Clínica Fit con Q,Sports,,50+,true,false,1752667880000,7.1.33,,https://play.google.com/store/apps/details?id=io.harbiz.fitconq&hl=en&gl=us
+com.app.q_market,Q Market,all grocery app,Shopping,,10+,true,false,1754974447000,1.0.1,,https://play.google.com/store/apps/details?id=com.app.q_market&hl=en&gl=us
+com.bionovaqapp,Bionova® Q App,Terragene,Medical,,100+,true,false,1753988403000,202507311,,https://play.google.com/store/apps/details?id=com.bionovaqapp&hl=en&gl=us
+com.viasatconnect.qLoveDriveProtect,Q Love Drive Protect,Targa Viasat Belgium,Productivity,,100+,true,false,1742190749000,1.8,,https://play.google.com/store/apps/details?id=com.viasatconnect.qLoveDriveProtect&hl=en&gl=us
+com.maxdoro.incontrol.floq,FLOQ Control,FLO-Q,Business,,500+,true,false,1754464175000,4.17.1,,https://play.google.com/store/apps/details?id=com.maxdoro.incontrol.floq&hl=en&gl=us
+com.lautec,LAUTEC Q,LAUTEC,Business,,100+,true,false,1750443152000,2.31,,https://play.google.com/store/apps/details?id=com.lautec&hl=en&gl=us
+com.underwater.android.rlerts.nsw,R.LERTS for NSW,R.LERTS,Tools,,50+,true,false,1754288731000,1.14.6,,https://play.google.com/store/apps/details?id=com.underwater.android.rlerts.nsw&hl=en&gl=us
+com.ringbyname,R! Softphone,RingByName™,Communication,0,500+,true,false,1755088199000,1.1.0,,https://play.google.com/store/apps/details?id=com.ringbyname&hl=en&gl=us
+com.underwater.android.rlerts,R.LERTS for QLD,R.LERTS,Tools,,50+,true,false,1755155599000,1.14.7,,https://play.google.com/store/apps/details?id=com.underwater.android.rlerts&hl=en&gl=us
+it.rkare,R-kare,Kotuko,Medical,,100+,true,false,1741763394000,1.0.3,,https://play.google.com/store/apps/details?id=it.rkare&hl=en&gl=us
+com.ecovelo.rhoule,R'Houle,Écovélo,Travel & Local,,100+,true,false,1750766949000,1.0,,https://play.google.com/store/apps/details?id=com.ecovelo.rhoule&hl=en&gl=us
+mobility.r.ev.it,R-ev,R-EV,Maps & Navigation,,100+,true,false,1752664899000,2.0.11,,https://play.google.com/store/apps/details?id=mobility.r.ev.it&hl=en&gl=us
+com.mcmart.rhome,R HOME,"Mantolo Technology (Suzhou) Co., Ltd",Tools,,100+,true,false,1737114616000,1.4.0,,https://play.google.com/store/apps/details?id=com.mcmart.rhome&hl=en&gl=us
+com.underwater.android.rlerts.wa,R.LERTS for WA,R.LERTS,Tools,,50+,true,false,1754288859000,1.14.6,,https://play.google.com/store/apps/details?id=com.underwater.android.rlerts.wa&hl=en&gl=us
+com.dancr.app,DANC·R,DANC.R,Sports,,100+,true,true,1754497420000,1.3.2,,https://play.google.com/store/apps/details?id=com.dancr.app&hl=en&gl=us
+com.rbank.card,R Card Guard,R Bank,Finance,0,100+,true,false,1752585537000,6.3.1,,https://play.google.com/store/apps/details?id=com.rbank.card&hl=en&gl=us
+com.vetching.plusr,Plus R,Vetching,Productivity,,50+,true,false,1754367048000,1.13.3,,https://play.google.com/store/apps/details?id=com.vetching.plusr&hl=en&gl=us
+com.ocilion.rkom,R-KOM IPTV HomeApp,R-KOM GmbH,Entertainment,,500+,true,false,1750667767000,6.3.0,,https://play.google.com/store/apps/details?id=com.ocilion.rkom&hl=en&gl=us
+com.rosenberger.telematics.cockpit.android,R-COCKPIT,Rosenberger Telematics,Productivity,,500+,true,false,1755098197000,4.0.0,,https://play.google.com/store/apps/details?id=com.rosenberger.telematics.cockpit.android&hl=en&gl=us
+com.netpulse.mobile.fitrfysiotherapie,FIT-R,EGYM,Health & Fitness,,100+,true,false,1754399178000,1.1,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.fitrfysiotherapie&hl=en&gl=us
+com.larfm.app,La R FM,Radio TV App Pro,Communication,,500+,true,false,1728066728000,1.0.4,,https://play.google.com/store/apps/details?id=com.larfm.app&hl=en&gl=us
+com.travxr,TravX-R,WAH TUNG TRAVEL SDN BHD,Travel & Local,,50+,true,false,1754386552000,0.1.6,,https://play.google.com/store/apps/details?id=com.travxr&hl=en&gl=us
+io.r_a_d.radio2,R/a/dio,Yattoz,Music & Audio,0,500+,true,false,1733513164000,2.4.0,,https://play.google.com/store/apps/details?id=io.r_a_d.radio2&hl=en&gl=us
+com.apptegy.woodlandmo,"Woodland R-IV, MO",Apptegy Play Store,Education,0,100+,true,false,1754887632000,5.2.0,,https://play.google.com/store/apps/details?id=com.apptegy.woodlandmo&hl=en&gl=us
+com.ordertech.rmima,R.MiMA,ORDER SYSTEMS,Food & Drink,,100+,true,false,1739187344000,1.0.0,,https://play.google.com/store/apps/details?id=com.ordertech.rmima&hl=en&gl=us
+com.apptegy.farmington7,Farmington R-7 Schools,Apptegy Play Store,Education,0,500+,true,false,1754601271000,5.2.0,,https://play.google.com/store/apps/details?id=com.apptegy.farmington7&hl=en&gl=us
+com.rathletics.icp,R-Athletics,R-Athletics LLC,Health & Fitness,,100+,true,false,1754932540000,2.43.0,,https://play.google.com/store/apps/details?id=com.rathletics.icp&hl=en&gl=us
+io.onemobile.itsrcollectibles,R Collectibles,FireGroup,Shopping,,500+,true,false,1732705616000,3.24,,https://play.google.com/store/apps/details?id=io.onemobile.itsrcollectibles&hl=en&gl=us
+com.trainerize.gymu,U Gym,Ignite Engagement,Health & Fitness,0,500+,true,false,1754023629000,7.191.0,,https://play.google.com/store/apps/details?id=com.trainerize.gymu&hl=en&gl=us
+health.caro.client.uclinic.hybrid,Mijn U-Clinic,CaroHealth,Health & Fitness,,100+,true,false,1747144559000,6.0.2,,https://play.google.com/store/apps/details?id=health.caro.client.uclinic.hybrid&hl=en&gl=us
+com.utrade.driver,U-Trade – Driver,Rocket Technologies,Shopping,,100+,true,false,1752830757000,1.0.13,,https://play.google.com/store/apps/details?id=com.utrade.driver&hl=en&gl=us
+com.vegas.clubv,V Members,JSGT Pte. Ltd,Business,,500+,true,false,1752142052000,1.0.8,,https://play.google.com/store/apps/details?id=com.vegas.clubv&hl=en&gl=us
+com.netpulse.mobile.vlondon,V London,EGYM,Health & Fitness,,100+,true,false,1754401626000,1.2,,https://play.google.com/store/apps/details?id=com.netpulse.mobile.vlondon&hl=en&gl=us
+com.vtp.smartgate.booking,V-Gate,Viettel Post,Business,,100+,true,false,1754563908000,1.0.8,,https://play.google.com/store/apps/details?id=com.vtp.smartgate.booking&hl=en&gl=us
+com.sehawafya.patient,Seha W Afeya | صحه وعافية,Felopater Adel,Health & Fitness,,500+,true,false,1752482146000,1.0.33,,https://play.google.com/store/apps/details?id=com.sehawafya.patient&hl=en&gl=us
+w.app.w,"W - People, Video and Message",LOVE NOW,Social,,500+,true,false,1753026608000,1.0.9,,https://play.google.com/store/apps/details?id=w.app.w&hl=en&gl=us
+com.wmadison727,727 W Madison,Elevated Living,Health & Fitness,,100+,true,false,1700040905000,4.4.26,,https://play.google.com/store/apps/details?id=com.wmadison727&hl=en&gl=us
+com.growwwealth.tech,W for Wealth,"Groww: Demat, Invest & Trade, SIP, Personal Loans",Finance,,500+,true,false,1754070386000,1.1.0,,https://play.google.com/store/apps/details?id=com.growwwealth.tech&hl=en&gl=us
+com.x_cheng.genericapp,X Smart By EVSE,"Shenzhen Xincheng Technology Co., Ltd.",Tools,0,500+,true,false,1754623370000,1.8.3,,https://play.google.com/store/apps/details?id=com.x_cheng.genericapp&hl=en&gl=us
+com.etherahealth.halox,HALO-X,Ethera Health,Health & Fitness,,100+,true,false,1728484145000,1.5.11,,https://play.google.com/store/apps/details?id=com.etherahealth.halox&hl=en&gl=us
+com.tradely.tradelyx,Tradely X,Tradely LTD,Shopping,,100+,true,false,1748944863000,1.0.9,,https://play.google.com/store/apps/details?id=com.tradely.tradelyx&hl=en&gl=us
+com.lzflabs.xtrivia,x trivia,lzf labs,Trivia,0,500+,true,false,1748865853000,1.3.1,,https://play.google.com/store/apps/details?id=com.lzflabs.xtrivia&hl=en&gl=us
+com.cypherx.wallet,Cypher X,Cypher Mobile LTD,Finance,,100+,true,false,1752565239000,1.3.5,,https://play.google.com/store/apps/details?id=com.cypherx.wallet&hl=en&gl=us
+com.blueberry.blueberryx,Blueberry X,Blueberry Markets Pty Ltd,Finance,0,500+,true,false,1753860837000,317.19,,https://play.google.com/store/apps/details?id=com.blueberry.blueberryx&hl=en&gl=us
+com.invigr8.member,Invigr8 X,Xoda,Health & Fitness,,100+,true,false,1751293657000,7.69.0,,https://play.google.com/store/apps/details?id=com.invigr8.member&hl=en&gl=us
+org.yappymca.mobile,The Y App,"The Y in Central Maryland, Inc",Health & Fitness,,10+,true,false,1740471088000,2.36.1,,https://play.google.com/store/apps/details?id=org.yappymca.mobile&hl=en&gl=us
+ai.getmee.education.ycareers,Y Connect,Getmee AI,Education,,500+,true,false,1754582153000,1.43.0,,https://play.google.com/store/apps/details?id=ai.getmee.education.ycareers&hl=en&gl=us
+com.apsiyon.zyapiyonetim,Z Yapı Yönetim,Apsiyon A.Ş.,House & Home,,100+,true,false,1751287286000,3.11.2012302152,,https://play.google.com/store/apps/details?id=com.apsiyon.zyapiyonetim&hl=en&gl=us
+net.roseverte.cafe0beastremastered,CAFE 0 The Sleeping Beast RMST,ROSEVERTE,Adventure,,100+,true,true,1754387224000,1.1.3,,https://play.google.com/store/apps/details?id=net.roseverte.cafe0beastremastered&hl=en&gl=us
+games.moving.zerohero,0 Hero – Block Puzzle 🧩,moving.games,Puzzle,,100+,true,true,1748499473000,1.0,,https://play.google.com/store/apps/details?id=games.moving.zerohero&hl=en&gl=us
+com.Garawell.LogicPuzzle9,Logic Puzzle - 9,NEBİH BAŞARAN,Puzzle,,100+,true,false,1738916236000,1.0,,https://play.google.com/store/apps/details?id=com.Garawell.LogicPuzzle9&hl=en&gl=us
+com.appprivee.connect,Tool Prive,Medity Platforms,Productivity,,100+,true,false,1753366842000,1.0.43,,https://play.google.com/store/apps/details?id=com.appprivee.connect&hl=en&gl=us
+com.google.android.apps.pixelmigrate,Data Transfer Tool,Google LLC,Tools,3.6871922,1+,true,false,1701364594000,VARY,,https://play.google.com/store/apps/details?id=com.google.android.apps.pixelmigrate&hl=en&gl=us
+com.utilityhub,Utility Hub: Bill Payment,eglobal ict-hub,Business,,500+,true,false,1737106797000,1.1.8,,https://play.google.com/store/apps/details?id=com.utilityhub&hl=en&gl=us
+com.ocv.a926,Utility Connect by OCV,"OCV, LLC",Lifestyle,,500+,true,false,1752601309000,3.2.0,,https://play.google.com/store/apps/details?id=com.ocv.a926&hl=en&gl=us
+com.brella.utilityweeklive,Utility Week Live,Brella Oy,Communication,,500+,true,false,1745923131000,11.20.0,,https://play.google.com/store/apps/details?id=com.brella.utilityweeklive&hl=en&gl=us
+com.teamz.toss.toss,Utility Toolkit - 11 Tools,TEAMZ LAB LTD,Tools,,10+,true,false,1754613183000,2.0.0,,https://play.google.com/store/apps/details?id=com.teamz.toss.toss&hl=en&gl=us
+com.anysoft.fhj.ebilling,Utility Bill Viewer - Pakistan,Anysoft Solutions,Tools,,500+,true,false,1669714548000,1.4,,https://play.google.com/store/apps/details?id=com.anysoft.fhj.ebilling&hl=en&gl=us
+com.trendmobile.metering,Utility Meter Tracker,Mobile App Media 101,Productivity,,50+,true,false,1755110177000,1.1.1,,https://play.google.com/store/apps/details?id=com.trendmobile.metering&hl=en&gl=us
+com.itstep.utility,Utility Service,IT STEP LTD,Tools,,100+,true,false,1726758496000,0.1.52,,https://play.google.com/store/apps/details?id=com.itstep.utility&hl=en&gl=us
+com.nationalutilitybilling.mobile,National Utility Billing,ManageAmerica,Productivity,,50+,true,false,1753791348000,3.1.5,,https://play.google.com/store/apps/details?id=com.nationalutilitybilling.mobile&hl=en&gl=us
+com.trustenergy.utility_pro,Utility Pro,Utilityproapp,Lifestyle,,1+,true,false,1753457022000,VARY,,https://play.google.com/store/apps/details?id=com.trustenergy.utility_pro&hl=en&gl=us
+com.magewell.director.assistant,Director Utility,Magewell,Tools,,500+,true,false,1748606580000,3.1.32,,https://play.google.com/store/apps/details?id=com.magewell.director.assistant&hl=en&gl=us
+com.csa.utilitynexus.unicoiCountyGasUtilityDistrict,Unicoi County Gas Utility Dist,Central Service Association,Business,,100+,true,false,1755115683000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.unicoiCountyGasUtilityDistrict&hl=en&gl=us
+com.csa.utilitynexus.orud,Oak Ridge Utility District,Central Service Association,Business,0,500+,true,false,1755118780000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.orud&hl=en&gl=us
+com.csa.utilitynexus.humboldtutilities,Humboldt Utilities,Central Service Association,Business,0,100+,true,false,1755117330000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.humboldtutilities&hl=en&gl=us
+za.co.ontec.blume,Blume Utility,Ontec Systems (Pty) Ltd,House & Home,,10+,true,false,1753273872000,15.0,,https://play.google.com/store/apps/details?id=za.co.ontec.blume&hl=en&gl=us
+com.csa.utilitynexus.cantonMunicipalUtilities,Canton Municipal Utilities,Central Service Association,Business,0,100+,true,false,1755117015000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.cantonMunicipalUtilities&hl=en&gl=us
+com.bixolon.printernetworkutility,Network Utility,BIXOLON1,Tools,,100+,true,false,1724987848000,1.0,,https://play.google.com/store/apps/details?id=com.bixolon.printernetworkutility&hl=en&gl=us
+za.co.mfrtechnologies.utilitymetrics,Utility Metrics,MFR Technologies,House & Home,,1+,true,false,1754834458000,1.0.9,,https://play.google.com/store/apps/details?id=za.co.mfrtechnologies.utilitymetrics&hl=en&gl=us
+com.csa.utilitynexus.wu,Winchester Utilities,Central Service Association,Business,5,500+,true,false,1755118744000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.wu&hl=en&gl=us
+com.pnSoftware.bcutils,BC Utility,PN SOFTWARE,Finance,,1+,true,false,1755171543000,1.0.2,,https://play.google.com/store/apps/details?id=com.pnSoftware.bcutils&hl=en&gl=us
+com.multipond.mputility,MP Utility,MULTIPOND Wägetechnik GmbH,Business,0,500+,true,false,1747040019000,0.2.2,,https://play.google.com/store/apps/details?id=com.multipond.mputility&hl=en&gl=us
+com.csa.utilitynexus.barbourvilleUtilities,Barbourville Utilities,Central Service Association,Productivity,,100+,true,false,1755116084000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.barbourvilleUtilities&hl=en&gl=us
+com.csa.utilitynexus.ru,Russellville Utilities,Central Service Association,Business,0,500+,true,false,1755118700000,1.2.31,,https://play.google.com/store/apps/details?id=com.csa.utilitynexus.ru&hl=en&gl=us
+com.utilitycreative.tpav.equipt,equipt,Utility Creative,Health & Fitness,,100+,true,false,1753159146000,5.2.6,,https://play.google.com/store/apps/details?id=com.utilitycreative.tpav.equipt&hl=en&gl=us
+za.co.smartview.utilities,Smart-View Utilities,Smart-View Technologies,Productivity,,500+,true,false,1754980521000,1.12.0,,https://play.google.com/store/apps/details?id=za.co.smartview.utilities&hl=en&gl=us
+co.mymeter.kaukaunautilities,Kaukauna Utilities,VertexOne,Business,0,100+,true,false,1753476648000,9.5.0104,,https://play.google.com/store/apps/details?id=co.mymeter.kaukaunautilities&hl=en&gl=us
+de.endios.one.eschwegeapp,Stadtwerke Eschwege,Stadtwerke Eschwege GmbH,Lifestyle,,100+,true,false,1754513573000,1.0.16,,https://play.google.com/store/apps/details?id=de.endios.one.eschwegeapp&hl=en&gl=us
+com.google.android.apps.accessibility.magnifier,Magnifier,Google LLC,Tools,4.26,1+,true,false,1749180667000,2.0.0.745828117.release,,https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier&hl=en&gl=us
+com.landisgyr.utilities,Landis+Gyr Utilities,Landis+Gyr South Africa,Productivity,,100+,true,false,1751451404000,1.0.11,,https://play.google.com/store/apps/details?id=com.landisgyr.utilities&hl=en&gl=us
+cb.cb_data_collector.app,CBT - Utility,Cognitivebotics Technologies,Education,,5+,true,false,1737538892000,1.1.8,,https://play.google.com/store/apps/details?id=cb.cb_data_collector.app&hl=en&gl=us
+com.vector123.pixmoji,Widgetora - Emoji Widget,vector123,Personalization,,100+,true,true,1752146456000,1.6.2,,https://play.google.com/store/apps/details?id=com.vector123.pixmoji&hl=en&gl=us
+com.guroo.glue,Habit Tracker & Goals - glue,Laura Mühlbach,Productivity,0,100+,true,true,1754112132000,1.1.4,,https://play.google.com/store/apps/details?id=com.guroo.glue&hl=en&gl=us
+com.habitzy,Habitzy - Habit Tracker,Central Dev,Productivity,,100+,true,false,1754791706000,1.0.11,,https://play.google.com/store/apps/details?id=com.habitzy&hl=en&gl=us
+com.habittracker.habitlift,HabitLift – Habit Tracker,Pixels Play Games,Health & Fitness,,50+,true,false,1753185354000,1.0.2,,https://play.google.com/store/apps/details?id=com.habittracker.habitlift&hl=en&gl=us
+com.trackit.habitclub,HabitClub - Daily Habit & Task,TrackIt Trading Journal,Productivity,,500+,true,true,1753889661000,1.0.2,,https://play.google.com/store/apps/details?id=com.trackit.habitclub&hl=en&gl=us
+in.garoono.habitide,HabiTide - Habit Tracker,Garoono,Productivity,,100+,true,true,1755022993000,1.4.2,,https://play.google.com/store/apps/details?id=in.garoono.habitide&hl=en&gl=us
+com.alphay.habit_root,Habit Root - Track Your Habit,AlphaY,Lifestyle,,10+,true,false,1753417219000,1.0.2,,https://play.google.com/store/apps/details?id=com.alphay.habit_root&hl=en&gl=us
+com.abletobe.abletobe,Habit Tracker: Abletobe,Abletobe,Productivity,0,100+,true,true,1754386955000,1.7.398,,https://play.google.com/store/apps/details?id=com.abletobe.abletobe&hl=en&gl=us
+com.ibrohim.habitjourney,Habit Journey,Abroham,Lifestyle,,100+,true,false,1738953079000,1.1.0,,https://play.google.com/store/apps/details?id=com.ibrohim.habitjourney&hl=en&gl=us
+com.hintapp.habitswipe,Habit Tracker - HabitSwipe,Rayy,Productivity,0,500+,true,false,1754905830000,1.1.2,,https://play.google.com/store/apps/details?id=com.hintapp.habitswipe&hl=en&gl=us
+habit.fitness.wellness,Habit Fitness,WL Mobile,Health & Fitness,,10+,true,false,1743079654000,2.0.2,,https://play.google.com/store/apps/details?id=habit.fitness.wellness&hl=en&gl=us
+com.metaserve.habithook,Habit Tracker - Habithook,"MetaServe: Your vision, our expertise",Productivity,0,500+,true,false,1744311912000,2.1.7,,https://play.google.com/store/apps/details?id=com.metaserve.habithook&hl=en&gl=us
+com.ambitionhabits,Habit Tracker: Ambition Habits,STB Software,Productivity,,100+,true,true,1754553502000,0.16.3,,https://play.google.com/store/apps/details?id=com.ambitionhabits&hl=en&gl=us
+com.skytoph.taski,Habit Mate: Habits & Goals,skytoph,Productivity,,100+,true,false,1750744293000,1.2.3,,https://play.google.com/store/apps/details?id=com.skytoph.taski&hl=en&gl=us
+com.app.habit.tracker,Habit Tracker – Daily Goals,Talent4money,Productivity,,50+,true,false,1755076943000,1.0.8,,https://play.google.com/store/apps/details?id=com.app.habit.tracker&hl=en&gl=us
+com.habitracker.app,HabitForge - Habit Tracker,KrishnaNag,Productivity,0,10+,true,false,1754105006000,1.26.0,,https://play.google.com/store/apps/details?id=com.habitracker.app&hl=en&gl=us
+com.aniketpriyadarshi.habitwise,Habit Tracker - HabitWise,Kryptonite App Studio,Productivity,,100+,true,false,1746965984000,3.0.1,,https://play.google.com/store/apps/details?id=com.aniketpriyadarshi.habitwise&hl=en&gl=us
+app.habitbee.ai.powered.daily.habit.tracker,AI Habit Tracker - HabitBee,APPSTREE,Productivity,0,100+,true,true,1752476371000,1.0.11,,https://play.google.com/store/apps/details?id=app.habitbee.ai.powered.daily.habit.tracker&hl=en&gl=us
+com.habit.development.ReadyApp,Ready Life Coach & Habit Share,Ready Apps LLC,Productivity,0,100+,true,true,1753675140000,1.7.5,,https://play.google.com/store/apps/details?id=com.habit.development.ReadyApp&hl=en&gl=us
+com.light_computers.daysofhabbit,21 Days Of Habit,@Light,Productivity,,10+,true,false,1754966161000,1.0.6,,https://play.google.com/store/apps/details?id=com.light_computers.daysofhabbit&hl=en&gl=us
+com.ivandev.habittracker.routines.daily.app,Habitality - Habit Tracker,Habits & Routines,Productivity,,10+,true,false,1753389849000,1.1.1,,https://play.google.com/store/apps/details?id=com.ivandev.habittracker.routines.daily.app&hl=en&gl=us
+com.dominikgyecsek.tallycounter,Tally Counter - Counting App,Dominik Gyecsek,Tools,,500+,true,false,1748371452000,1.0.1,,https://play.google.com/store/apps/details?id=com.dominikgyecsek.tallycounter&hl=en&gl=us
+com.counter.mirapp,Counter,Mir App,Tools,,100+,true,false,1747516886000,1.2,,https://play.google.com/store/apps/details?id=com.counter.mirapp&hl=en&gl=us
+com.watch_go.multicounter,Watch Multi-Counter,watch-go.com,Sports,,500+,true,true,1755006641000,4.2.0,,https://play.google.com/store/apps/details?id=com.watch_go.multicounter&hl=en&gl=us
+com.FtmathCompany.Counter,Counter: Easy Counter,FtmathCompany,Tools,,50+,true,false,1752969130000,1.0.2,,https://play.google.com/store/apps/details?id=com.FtmathCompany.Counter&hl=en&gl=us
+com.blackdevfox.score_counter,Score Counter,Black Fox Dev,Tools,,100+,true,false,1751531191000,1.0.0,,https://play.google.com/store/apps/details?id=com.blackdevfox.score_counter&hl=en&gl=us
+com.appybuilder.rabbitkeysolution.Counter,Simple Counter,Rabbitkeysolution,Tools,,100+,true,false,1702301825000,2.0.3,,https://play.google.com/store/apps/details?id=com.appybuilder.rabbitkeysolution.Counter&hl=en&gl=us
+com.blackstar.apps.simplecounter,Simple Counter,blackstar,Tools,,500+,true,true,1752378258000,1.0.3,,https://play.google.com/store/apps/details?id=com.blackstar.apps.simplecounter&hl=en&gl=us
+com.yeeseong.counter,Simple Counter,YeeStudio,Tools,,500+,true,true,1755120200000,3.0.24_PS,,https://play.google.com/store/apps/details?id=com.yeeseong.counter&hl=en&gl=us
+com.nasihun.azkar_counter,Azkar Counter - Digital Tasbih,Nasihun,Lifestyle,,500+,true,false,1752059635000,1.3.0,,https://play.google.com/store/apps/details?id=com.nasihun.azkar_counter&hl=en&gl=us
+com.vivenu.scanmanager,Scan Manager,vivenu,Events,,50+,true,false,1755006660000,1.0.6,,https://play.google.com/store/apps/details?id=com.vivenu.scanmanager&hl=en&gl=us
+com.dhirajdnr.pdfreaderviewereditor,PDF Reader: Viewer & Editor,dhirajdnr,Tools,,100+,true,false,1754543016000,1.0.0,,https://play.google.com/store/apps/details?id=com.dhirajdnr.pdfreaderviewereditor&hl=en&gl=us
+ru.nevasoft.flash,Flash Мобиль. Авто с выкупом,"ООО ""Невасофт""",Auto & Vehicles,,100+,true,false,1751898406000,2.2.76,,https://play.google.com/store/apps/details?id=ru.nevasoft.flash&hl=en&gl=us
+lao.taxi,Flash Delivery,TaxiAdmin,Auto & Vehicles,,500+,true,false,1751270903000,2.55.319.3_(GA),,https://play.google.com/store/apps/details?id=lao.taxi&hl=en&gl=us
+com.jimmypro.flash,flash,jimmy256,Maps & Navigation,,100+,true,false,1754947726000,1.0.0,,https://play.google.com/store/apps/details?id=com.jimmypro.flash&hl=en&gl=us
+wiki.guideme.flashloanscan,Flash Loan Scan,LIVIA,Finance,,100+,true,false,1754989833000,1.0.3,,https://play.google.com/store/apps/details?id=wiki.guideme.flashloanscan&hl=en&gl=us
+com.salmonsoftware.compass,Compass: Smart Navigation Tool,Salmon Software,Tools,,100+,true,false,1754518648000,1.0.2,,https://play.google.com/store/apps/details?id=com.salmonsoftware.compass&hl=en&gl=us
+com.localcompasstours.localcompass,Local Compass,Local Compass Tours,Travel & Local,,500+,true,true,1731316845000,1.1.0,,https://play.google.com/store/apps/details?id=com.localcompasstours.localcompass&hl=en&gl=us
+com.sublimis.compass,Smallest Compass in the World,Quantum Trajectory,Tools,,100+,true,false,1754758053000,VARY,,https://play.google.com/store/apps/details?id=com.sublimis.compass&hl=en&gl=us
+com.song.compass,Compass·light,Benjamin Song Dev,Tools,0,50+,true,false,1754705453000,1.5.0,,https://play.google.com/store/apps/details?id=com.song.compass&hl=en&gl=us
+mm.marsman.compassopen.opencompass,Open Compass,marsman,Tools,0,500+,true,false,1711225042000,1.0.0,,https://play.google.com/store/apps/details?id=mm.marsman.compassopen.opencompass&hl=en&gl=us
+com.smarttoolsdev.simplecompass,Compass - Smart & Accurate,SmartToolsDev,Tools,,500+,true,false,1747671639000,1.0.0,,https://play.google.com/store/apps/details?id=com.smarttoolsdev.simplecompass&hl=en&gl=us
+com.midivision.compass_bubbles,"Tactical Compass MGRS, Offline",MI Division,Maps & Navigation,0,500+,true,true,1752051377000,2.0,,https://play.google.com/store/apps/details?id=com.midivision.compass_bubbles&hl=en&gl=us
+com.tower.compass,True Compass: GPS & Altimeter,Tower Apps Inc.,Tools,,100+,true,false,1751565596000,1.0.8,,https://play.google.com/store/apps/details?id=com.tower.compass&hl=en&gl=us
+io.github.fertwbr.pixelcompass,Pixel Compass: Nav & Level,fertwbr,Tools,0,500+,true,true,1754319889000,VARY,,https://play.google.com/store/apps/details?id=io.github.fertwbr.pixelcompass&hl=en&gl=us
+com.zousan.comenglish,Simple Compass,ZOUSAN,Tools,0,500+,true,false,1751546347000,00.00.18,,https://play.google.com/store/apps/details?id=com.zousan.comenglish&hl=en&gl=us
+com.barcode.barcodescannerapp,Barcode & QR Scanner-ScanX Pro,Technical View,Tools,,100+,true,false,1751826178000,1.0,,https://play.google.com/store/apps/details?id=com.barcode.barcodescannerapp&hl=en&gl=us
+com.hklocals.scanwise,QR Code Reader by Scanwise,hklocals,Tools,,100+,true,false,1753871894000,1.4.0,,https://play.google.com/store/apps/details?id=com.hklocals.scanwise&hl=en&gl=us
+com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader,QR Barcode Scanner & Generator,RamsonTech,Tools,,500+,true,false,1754484255000,1.03,,https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader&hl=en&gl=us
+com.alphay.barcodescanner,Alpha Barcode Scanner,AlphaY,Tools,,10+,true,false,1750941420000,1.0.0,,https://play.google.com/store/apps/details?id=com.alphay.barcodescanner&hl=en&gl=us
+com.pbl.scan.qrscanner.barcodereader.barcodescanner,QR & Barcode Scanner :ZappScan,Status Genie,Productivity,,500+,true,false,1753779217000,1.4,,https://play.google.com/store/apps/details?id=com.pbl.scan.qrscanner.barcodereader.barcodescanner&hl=en&gl=us
+com.eventreminder.app,To-Do List & Event Reminder,Unikwork Systems LLP,Tools,0,100+,true,false,1752237753000,1.6,,https://play.google.com/store/apps/details?id=com.eventreminder.app&hl=en&gl=us
+com.shikudo.sleep.hero.google,Sleep Hero: Bedtime Habit Game,Shikudo - Walking and Focus Games,Role Playing,,500+,true,true,1754650090000,VARY,,https://play.google.com/store/apps/details?id=com.shikudo.sleep.hero.google&hl=en&gl=us
+com.sleeplith.sleepsounds,Sleeplith: Sleep & Rain Sounds,EYY Studio,Health & Fitness,,50+,true,true,1752324495000,4.0.0,,https://play.google.com/store/apps/details?id=com.sleeplith.sleepsounds&hl=en&gl=us
+com.baby.sleep.tracker.feeding.diaper.free,Luli - Baby Sleep Tracker,SimpleInnovation,Parenting,0,100+,true,true,1754507253000,1.0.6,,https://play.google.com/store/apps/details?id=com.baby.sleep.tracker.feeding.diaper.free&hl=en&gl=us
+com.sleeplab.snore.sleep.sounds.tracker.alarm.calm.health,SleepLab:Sleep & Snore Tracker,BlueHaven Labs,Health & Fitness,0,500+,true,true,1754632743000,3.0.3,,https://play.google.com/store/apps/details?id=com.sleeplab.snore.sleep.sounds.tracker.alarm.calm.health&hl=en&gl=us
+com.respire.sounds.meditation,Sleep Sounds & Relaxing Music,Respire,Health & Fitness,0,500+,true,true,1740563470000,1.0.3,,https://play.google.com/store/apps/details?id=com.respire.sounds.meditation&hl=en&gl=us
+com.sleep.sleeptracker.sleeprecorder.health,Sleep Tracker,AM Infotech,Health & Fitness,0,500+,true,false,1754572151000,1.1,,https://play.google.com/store/apps/details?id=com.sleep.sleeptracker.sleeprecorder.health&hl=en&gl=us
+io.ionic.focus,Focus,MARS BILGI TEKNOLOJILERI A.S.,Business,,100+,true,false,1749708214000,3.0.4,,https://play.google.com/store/apps/details?id=io.ionic.focus&hl=en&gl=us
+com.proyecto.focus,FOCUS,Intelinova Software,Health & Fitness,0,100+,true,false,1754950635000,4.13.1,,https://play.google.com/store/apps/details?id=com.proyecto.focus&hl=en&gl=us
+com.apps.beauty.focus,Beauty Focus,Buraqsys STUDIO,Lifestyle,0,500+,true,false,1750940354000,2.0.3,,https://play.google.com/store/apps/details?id=com.apps.beauty.focus&hl=en&gl=us
+com.focusalpha,Focus Alpha,MajinSoft,Photography,0,500+,true,true,1753280516000,8.5.0,,https://play.google.com/store/apps/details?id=com.focusalpha&hl=en&gl=us
+org.dispurse.dispursefocus,FOCUS,Dispurse Foundation,Education,,100+,true,false,1732865681000,18.2.1508,,https://play.google.com/store/apps/details?id=org.dispurse.dispursefocus&hl=en&gl=us
+com.soosu.focustimer,Focus Timer - Daily Focus,"Soosu Studio, Inc",Productivity,,10+,true,false,1754555392000,0.0.9,,https://play.google.com/store/apps/details?id=com.soosu.focustimer&hl=en&gl=us
+com.plusti.focus,Focus,"Plus Technologies Consulting, Inc.",Productivity,,100+,true,false,1753250660000,1.0.39,,https://play.google.com/store/apps/details?id=com.plusti.focus&hl=en&gl=us
+com.focusflow.focus,Focus Flow Accountability & AI,Focus Flow,Productivity,,100+,true,false,1752089655000,VARY,,https://play.google.com/store/apps/details?id=com.focusflow.focus&hl=en&gl=us
+com.andcards.fba,Focus Office,Spacebring,Productivity,,100+,true,false,1752156409000,4.8.9,,https://play.google.com/store/apps/details?id=com.andcards.fba&hl=en&gl=us
+com.membr.focusfitnessgym,Focus Fitness Gym,Membr Mobile,Health & Fitness,,100+,true,false,1750943734000,1.9.0,,https://play.google.com/store/apps/details?id=com.membr.focusfitnessgym&hl=en&gl=us
+it.adcoop.android.focus.RELEASE,Focus,WakiwiDev,Productivity,,50+,true,false,1741180385000,1.6.11,,https://play.google.com/store/apps/details?id=it.adcoop.android.focus.RELEASE&hl=en&gl=us
+com.redmoon.focus,FOCUS,Yeswecan,Education,,50+,true,false,1746891162000,1.1,,https://play.google.com/store/apps/details?id=com.redmoon.focus&hl=en&gl=us
+com.bitroid.focus,Focus,Bitroid,Productivity,,500+,true,true,1656989811000,1.0.0,,https://play.google.com/store/apps/details?id=com.bitroid.focus&hl=en&gl=us
+com.KidsFocus.KidsFocus,Kids Focus - Screen Time App,Cradaptive,Education,0,500+,true,true,1752784124000,1.3.4,,https://play.google.com/store/apps/details?id=com.KidsFocus.KidsFocus&hl=en&gl=us
+com.colibo.focus,FOCUS,Colibo,Communication,,10+,true,false,1744018555000,2.0.30,,https://play.google.com/store/apps/details?id=com.colibo.focus&hl=en&gl=us
+com.danielebachicchi.popomo,Popomo – Pomodoro Timer Focus,Daniele Bachicchi,Productivity,0,500+,true,false,1747473904000,1.0.1,,https://play.google.com/store/apps/details?id=com.danielebachicchi.popomo&hl=en&gl=us
+com.edgeeffectmedia.studytimer,My Study Timer & Pomodoro,Edge Effect Media,Education,,500+,true,true,1748836558000,1.0.0,,https://play.google.com/store/apps/details?id=com.edgeeffectmedia.studytimer&hl=en&gl=us
+com.waifuapps.pomodere,Pomodere: Cute Pomodoro Timer,WaifuLabs,Productivity,,100+,true,true,1751990980000,1.0.1,,https://play.google.com/store/apps/details?id=com.waifuapps.pomodere&hl=en&gl=us
+com.sultonuzdev.pft,Pomodoro Focus Timer,Sulton UzDev,Productivity,,100+,true,false,1749058981000,1.0.5,,https://play.google.com/store/apps/details?id=com.sultonuzdev.pft&hl=en&gl=us
+com.developance.apps.tomodo,Focusly: Pomodoro & Tasks,NeatApps,Productivity,,500+,true,false,1720097808000,1.1.2,,https://play.google.com/store/apps/details?id=com.developance.apps.tomodo&hl=en&gl=us
+com.momostorm.zen,Pomodoro · Focus · Zen,momoStorm Entertainment,Productivity,,500+,true,false,1748864596000,1.0.3,,https://play.google.com/store/apps/details?id=com.momostorm.zen&hl=en&gl=us
+com.techtool.focused_pomodorotimer,Focused - Pomodoro Timer,aditya sathe,Productivity,,100+,true,false,1743089036000,1.1,,https://play.google.com/store/apps/details?id=com.techtool.focused_pomodorotimer&hl=en&gl=us
+com.FocusTimer.Pomodoro.Study.Timer.app,Hi-Focus Pomodoro timer: To Do,IJ TECH,Productivity,,100+,true,false,1739987353000,1.0.0,,https://play.google.com/store/apps/details?id=com.FocusTimer.Pomodoro.Study.Timer.app&hl=en&gl=us
+com.chillnstudy.pomodoro,Pomodoro Timer with Word Study,Dominik Gyecsek,Productivity,,100+,true,false,1752257912000,1.0.5,,https://play.google.com/store/apps/details?id=com.chillnstudy.pomodoro&hl=en&gl=us
+com.diptanshumahish.zen_clock,Zen Clock / Pomodoro,Diptanshu Mahish,Productivity,,500+,true,false,1689714717000,1.2.0,,https://play.google.com/store/apps/details?id=com.diptanshumahish.zen_clock&hl=en&gl=us
+com.dmitryslepov.pomadoro,Study With Me Offline Pomodoro,Only Nice Apps,Productivity,,10+,true,false,1754373746000,1.0.0,,https://play.google.com/store/apps/details?id=com.dmitryslepov.pomadoro&hl=en&gl=us
+com.vector123.pomodoro.focustimer.tomatoclock,Section Timer: Pomodoro Focus,vector123,Productivity,,500+,true,true,1752552898000,1.0.12,,https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&hl=en&gl=us
+pomodoro.focus.work,Pomodoro Timer - Focus Time,mrjembeen,Productivity,,100+,true,true,1752750697000,1.4,,https://play.google.com/store/apps/details?id=pomodoro.focus.work&hl=en&gl=us
+com.afadev.pomodoro,The Pomodoro App,Haider Nawaz,Productivity,,50+,true,false,1729279279000,1.0.0,,https://play.google.com/store/apps/details?id=com.afadev.pomodoro&hl=en&gl=us
+am.pomodorotracker.app,Pomodoro,Sargis Vardanyan,Tools,,100+,true,false,1740944422000,1.7,,https://play.google.com/store/apps/details?id=am.pomodorotracker.app&hl=en&gl=us
+pro.shineapp.pomodoro,Pomodoro Timer,Volodymyr Kondratenko,Productivity,,100+,true,true,1747561246000,VARY,,https://play.google.com/store/apps/details?id=pro.shineapp.pomodoro&hl=en&gl=us
+com.sloppycodes.pomodoro_timer,Pomodoro Timer,SloppyCodes,Productivity,,50+,true,false,1751546498000,1.0.2,,https://play.google.com/store/apps/details?id=com.sloppycodes.pomodoro_timer&hl=en&gl=us
+com.cc.focustimer.pomodoro,Focus Timer: Pomodoro & Tasks,Cc Mystery,Productivity,,100+,true,false,1746375622000,1.0.1,,https://play.google.com/store/apps/details?id=com.cc.focustimer.pomodoro&hl=en&gl=us
+com.novapomodoro.pomodoro,Nova Pomodoro,Code Deleter,Productivity,,50+,true,false,1747205105000,1.0.0,,https://play.google.com/store/apps/details?id=com.novapomodoro.pomodoro&hl=en&gl=us
+com.pomodoro.sinav,Pomodoro - Sınav Sayacım,wmsosyal,Productivity,,10+,true,false,1742762448000,2,,https://play.google.com/store/apps/details?id=com.pomodoro.sinav&hl=en&gl=us
+dev.ericamila.pomodoro,Pomodoro,ericamila,Productivity,,100+,true,false,1751720690000,4.1.1,,https://play.google.com/store/apps/details?id=dev.ericamila.pomodoro&hl=en&gl=us
+com.cutepomodoroapp.iyutech.pomodoroapp,Pomodoro Minimal,IYUTECH,Productivity,,50+,true,false,1746787404000,1.0.018,,https://play.google.com/store/apps/details?id=com.cutepomodoroapp.iyutech.pomodoroapp&hl=en&gl=us
+np.com.samirk.pomodoro,pomodoro,Samir Khanal,Productivity,,10+,true,false,1640589382000,1.0.0,,https://play.google.com/store/apps/details?id=np.com.samirk.pomodoro&hl=en&gl=us
+com.cchampou.pomo.pomodoro,Pomodoro,K Talpa,Productivity,,10+,true,false,1753714184000,1.5.1,,https://play.google.com/store/apps/details?id=com.cchampou.pomo.pomodoro&hl=en&gl=us
+com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp,Minimalist Pomodoro Timer,IJ TECH,Productivity,,50+,true,false,1739206617000,1.0.3,,https://play.google.com/store/apps/details?id=com.FocusTimer.FreePomodoro.Study.Timer.ProductivityApp&hl=en&gl=us
+com.dioals.pomodoroapp,Focus Flow - Premium Pomodoro,Dio Alsabah,Productivity,,1+,true,false,1753763097000,1.0,,https://play.google.com/store/apps/details?id=com.dioals.pomodoroapp&hl=en&gl=us
+com.devsquare.pomodoro,Pomo60 - Pomodoro Timer,Devsquare,Productivity,,50+,true,false,1748252155000,1.2.0,,https://play.google.com/store/apps/details?id=com.devsquare.pomodoro&hl=en&gl=us
+com.PratikN96.shishimanu,Pomotrain: Focus Study Timer,Bharat LabsX,Productivity,0,100+,true,false,1743676206000,1.0.0,,https://play.google.com/store/apps/details?id=com.PratikN96.shishimanu&hl=en&gl=us
+com.alki.paslen,Paslen Timer,Paslen Studio,Productivity,0,100+,true,false,1753825982000,tdi_1.3.2_release,,https://play.google.com/store/apps/details?id=com.alki.paslen&hl=en&gl=us
+ru.saby.clients.brand.pomodoro,ПОМОДОРо,Saby Clients,Food & Drink,,100+,true,false,1753968130000,25.3213.2,,https://play.google.com/store/apps/details?id=ru.saby.clients.brand.pomodoro&hl=en&gl=us
+com.amazon.guardian.mobile,Guardian Mobile Suite,Amazon Mobile LLC,Business,,500+,true,false,1754936778000,1.0.3,,https://play.google.com/store/apps/details?id=com.amazon.guardian.mobile&hl=en&gl=us
+com.amazon.signage,Amazon Signage,Amazon Mobile LLC,Business,0,100+,true,false,1754312271000,1.1.0,,https://play.google.com/store/apps/details?id=com.amazon.signage&hl=en&gl=us
+com.amazon.awsie.snowballinspector,AWS Snow Family Verification,Amazon Mobile LLC,Business,4.0666666,500+,true,false,1591923189000,1.1.11,,https://play.google.com/store/apps/details?id=com.amazon.awsie.snowballinspector&hl=en&gl=us
+com.disney.eliopixarstickers_goo,Pixar Stickers: Elio,Disney,Entertainment,,10+,false,false,1750194864000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.eliopixarstickers_goo&hl=en&gl=us
+com.disney.liloandstitchstickers_goo,Stitch x Emoji Keyboard,Disney,Entertainment,,50+,false,false,1750705404000,1.0.1,,https://play.google.com/store/apps/details?id=com.disney.liloandstitchstickers_goo&hl=en&gl=us
+com.disney.moana2stickers_goo,Disney Stickers: Moana 2,Disney,Entertainment,,10+,false,false,1734990716000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.moana2stickers_goo&hl=en&gl=us
+com.disney.mufasastickers_goo,Mufasa: The Lion King Stickers,Disney,Entertainment,,10+,false,false,1733180075000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.mufasastickers_goo&hl=en&gl=us
+com.disney.jollofkitchen,Disney Iwájú: Rising Chef,Disney,Simulation,4.9,500+,false,false,1708552728000,1.1.4,,https://play.google.com/store/apps/details?id=com.disney.jollofkitchen&hl=en&gl=us
+com.disney.elementalpixarstickers_goo,Pixar Stickers: Elemental,Disney,Entertainment,,100+,false,false,1688062952000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.elementalpixarstickers_goo&hl=en&gl=us
+com.disney.littlemermaidstickers_goo,The Little Mermaid Stickers,Disney,Entertainment,0,100+,false,false,1684532393000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.littlemermaidstickers_goo&hl=en&gl=us
+com.disney.stickers.wish_goo,Disney Stickers: Wish,Disney,Entertainment,,50+,false,false,1700000957000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.wish_goo&hl=en&gl=us
+com.disney.stickers.strangeworld_goo,Disney Stickers: Strange World,Disney,Entertainment,,10+,false,false,1668472064000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.strangeworld_goo&hl=en&gl=us
+com.disney.stickers.lightyear_goo,Pixar Stickers: Lightyear,Disney,Entertainment,,100+,false,false,1655333667000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.lightyear_goo&hl=en&gl=us
+com.disney.stickers.bobafett_goo,The Book of Boba Fett Stickers,Disney,Entertainment,,100+,false,false,1651541894000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.bobafett_goo&hl=en&gl=us
+com.disney.stickers.turningred_goo,Pixar Stickers: Turning Red,Disney,Entertainment,0,500+,false,false,1647399530000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.turningred_goo&hl=en&gl=us
+com.disney.stickers.iceage_goo,Ice Age Stickers,Disney,Entertainment,,100+,false,false,1644533739000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.iceage_goo&hl=en&gl=us
+com.disney.stickers.thekingsman_goo,The King's Man Stickers,Disney,Entertainment,,5+,false,false,1643336915000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.thekingsman_goo&hl=en&gl=us
+com.disney.stickers.encanto_goo,Disney Stickers: Encanto,Disney,Entertainment,0,500+,false,false,1639508201000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.encanto_goo&hl=en&gl=us
+com.disney.stickers.freeguy_goo,Free Guy Stickers,Disney,Entertainment,0,10+,false,false,1630029474000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.freeguy_goo&hl=en&gl=us
+com.disney.stickers.rongonewrong_goo,Stickers: Ron's Gone Wrong,Disney,Entertainment,0,100+,false,false,1639447957000,1.0.1,,https://play.google.com/store/apps/details?id=com.disney.stickers.rongonewrong_goo&hl=en&gl=us
+com.disney.stickers.grogu_goo,Grogu™ Sticker Pack,Disney,Entertainment,0,500+,false,false,1649472113000,1.0.1,,https://play.google.com/store/apps/details?id=com.disney.stickers.grogu_goo&hl=en&gl=us
+com.disney.stickers.rayaandthelastdragon_goo,Disney Stickers: Raya,Disney,Entertainment,,100+,false,false,1616699582000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.rayaandthelastdragon_goo&hl=en&gl=us
+com.disney.stickers.luca_goo,Pixar Stickers: Luca,Disney,Entertainment,0,100+,false,false,1624469230000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.luca_goo&hl=en&gl=us
+com.disney.stickers.junglecruise_goo,Disney Stickers: Jungle Cruise,Disney,Entertainment,0,10+,false,false,1629149123000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.junglecruise_goo&hl=en&gl=us
+com.disney.stickers.spiesindisguise_goo,Spies in Disguise Stickers,Disney,Entertainment,0,100+,false,false,1584656526000,1.0.8,,https://play.google.com/store/apps/details?id=com.disney.stickers.spiesindisguise_goo&hl=en&gl=us
+com.pixar.stickers.soul_goo,Pixar Stickers: Soul,Disney,Entertainment,0,50+,false,false,1616027969000,1.0.11,,https://play.google.com/store/apps/details?id=com.pixar.stickers.soul_goo&hl=en&gl=us
+com.disney.maleficentmistressofevil_goo,Maleficent: Mistress of Evil,Disney,Entertainment,0,100+,false,false,1570149909000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.maleficentmistressofevil_goo&hl=en&gl=us
+com.disney.stickers.aladdin_goo,Disney Stickers: Aladdin,Disney,Entertainment,0,100+,false,false,1558542787000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.stickers.aladdin_goo&hl=en&gl=us
+com.disney.ralphbreakstheinternet_goo,Ralph Breaks the Internet Stic,Disney,Entertainment,1.8,500+,false,false,1543621998000,1.0.0,,https://play.google.com/store/apps/details?id=com.disney.ralphbreakstheinternet_goo&hl=en&gl=us
+tv.uscreen.adjustertv,AdjusterTV Plus,AdjusterTV,Business,4.3636365,500+,true,true,1753186540000,3.25.0,,https://play.google.com/store/apps/details?id=tv.uscreen.adjustertv&hl=en&gl=us
+fit.slated,Supafit: Gym & Workout Planner,Slated Labs,Health & Fitness,0,500+,true,true,1752930361000,1.8.0,,https://play.google.com/store/apps/details?id=fit.slated&hl=en&gl=us
+com.rota101.hikaye,Story Ship,Gumeka,Education,,100+,true,true,1737825347000,1.0.6,,https://play.google.com/store/apps/details?id=com.rota101.hikaye&hl=en&gl=us
+com.fluxguide.sala,Legendary Landscapes,Fluxguide,Education,,1+,true,false,1752738833000,1.0.1,,https://play.google.com/store/apps/details?id=com.fluxguide.sala&hl=en&gl=us
+com.fluxguide.giessen,EmergencyReceptionCamp Giessen,Fluxguide,Education,,50+,true,false,1752592331000,1.0.5,,https://play.google.com/store/apps/details?id=com.fluxguide.giessen&hl=en&gl=us
+com.fluxguide.qantas,Qantas Founders Museum,Fluxguide,Education,,50+,true,false,1753182412000,1.0.6,,https://play.google.com/store/apps/details?id=com.fluxguide.qantas&hl=en&gl=us
+com.fluxguide.waldwelten,Wald:Welten im Forstmuseum,Fluxguide,Education,,10+,true,false,1753098668000,1.0.8,,https://play.google.com/store/apps/details?id=com.fluxguide.waldwelten&hl=en&gl=us
+com.devepdev.deltatulcea,Radio Delta Romania,LASCU IONUT,Music & Audio,0,500+,true,false,1724489815000,5.8.0,,https://play.google.com/store/apps/details?id=com.devepdev.deltatulcea&hl=en&gl=us
+com.fluxguide.naturparksparbach,KlimaSCHAUplätze Sparbach,Fluxguide,Education,,100+,true,false,1741864135000,1.0.0,,https://play.google.com/store/apps/details?id=com.fluxguide.naturparksparbach&hl=en&gl=us
+com.devepdev.fxnet,Radio Fx Net,LASCU IONUT,Music & Audio,0,100+,true,false,1721124029000,5.8.0,,https://play.google.com/store/apps/details?id=com.devepdev.fxnet&hl=en&gl=us
+com.developerdev.unique,Radio Unique Romania,LASCU IONUT,Music & Audio,0,100+,true,false,1721079907000,5.8.0,,https://play.google.com/store/apps/details?id=com.developerdev.unique&hl=en&gl=us
+com.redarc.app.debug,REDARC Alpha Battery Monitor,Super B Lithium Power BV,Tools,,500+,true,false,1754494412000,1.8.0,,https://play.google.com/store/apps/details?id=com.redarc.app.debug&hl=en&gl=us
+com.blaze.one.iot,B.One Video,Blaze Automation Services PVT LTD,Communication,,10+,true,false,1733988584000,2.0.0,,https://play.google.com/store/apps/details?id=com.blaze.one.iot&hl=en&gl=us
+com.blazeautomation.boneplus,B.One Plus,Blaze Automation Services PVT LTD,Productivity,,50+,true,false,1741626082000,1.0.0,,https://play.google.com/store/apps/details?id=com.blazeautomation.boneplus&hl=en&gl=us
+com.blazeautomation.aeee,Urja Sanchay,Blaze Automation Services PVT LTD,Productivity,,100+,true,false,1727680231000,1.0.2,,https://play.google.com/store/apps/details?id=com.blazeautomation.aeee&hl=en&gl=us
+org.reside_energy.residehouse,My RESIDE Data,Blaze Automation Services PVT LTD,Lifestyle,,10+,true,false,1653455085000,1.0,,https://play.google.com/store/apps/details?id=org.reside_energy.residehouse&hl=en&gl=us
+arunkbabu90.tracer.paid,Tracer (Donation Package),Arun K Babu,Art & Design,,50+,false,false,1743527235000,4.6.2 Pro,,https://play.google.com/store/apps/details?id=arunkbabu90.tracer.paid&hl=en&gl=us
+com.vi.cms,Smart Mobility Yellow EmpTrack,Vodafone Idea Ltd.,Travel & Local,,100+,true,false,1747641184000,1.3,,https://play.google.com/store/apps/details?id=com.vi.cms&hl=en&gl=us
+com.rc.snoc.rider,Smart Mobility Yellow Driver+,Vodafone Idea Ltd.,Travel & Local,,50+,true,false,1747641582000,1.15.0-release,,https://play.google.com/store/apps/details?id=com.rc.snoc.rider&hl=en&gl=us
+com.quodeck.vibsa,ViBs Academy Learning Hub,Vodafone Idea Ltd.,Education,,500+,true,false,1739985642000,6.0.1,,https://play.google.com/store/apps/details?id=com.quodeck.vibsa&hl=en&gl=us
+com.schrafts2.pixel.fertility,Pixel Care,Pixel Care,Medical,,500+,true,false,1750246954000,3.30.3,,https://play.google.com/store/apps/details?id=com.schrafts2.pixel.fertility&hl=en&gl=us
+com.mcgregorpharmacy.client,McGregor Pharmacy,amjay,Medical,,50+,true,false,1754853649000,1.7.0,,https://play.google.com/store/apps/details?id=com.mcgregorpharmacy.client&hl=en&gl=us
+org.morrisonkids.connect,Morrison Connect,Morrison Child & Family Services,Medical,0,100+,true,false,1752517757000,4.06.0,,https://play.google.com/store/apps/details?id=org.morrisonkids.connect&hl=en&gl=us
+com.gobubble.mobile,Bubble by Broadvoice,Broadvoice,Business,,1+,true,false,1754423334000,1,,https://play.google.com/store/apps/details?id=com.gobubble.mobile&hl=en&gl=us
+com.metaswitch.cp.Syndeo_LLC_dba_Broadvoice_16837,Broadvoice Wave,Broadvoice,Communication,0,100+,true,false,1674012656000,3.10.12,,https://play.google.com/store/apps/details?id=com.metaswitch.cp.Syndeo_LLC_dba_Broadvoice_16837&hl=en&gl=us
+com.blpfs,PFS,Banglalink,Tools,0,500+,true,false,1741492285000,0.6.250210,,https://play.google.com/store/apps/details?id=com.blpfs&hl=en&gl=us
