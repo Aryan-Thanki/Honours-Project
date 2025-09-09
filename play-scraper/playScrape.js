@@ -1,8 +1,8 @@
 // Import required packages
 import fs from 'fs';                          // For file system operations (check CSV existence)
 import gplay from 'google-play-scraper';      // For scraping Google Play metadata via API-like calls
-import pLimit from 'p-limit';                 // To control concurrency (avoid too many parallel requests)
-import { createObjectCsvWriter } from 'csv-writer'; // To write CSV output
+import pLimit from 'p-limit';                 // To force a limit on number of parallel requests
+import { createObjectCsvWriter } from 'csv-writer'; // To create CSV output
 import puppeteer from 'puppeteer';            // For headless browser scraping when gplay data is missing
 
 // ----------- CONFIGURATION SECTION -----------
@@ -26,8 +26,7 @@ const SIMILAR_PER_APP = 40;
 // Whether to use Puppeteer fallback if installs are missing/too high
 const USE_PUPPETEER_FALLBACK = true;
 
-// Search seed terms to discover apps (letters, numbers, keywords)
-// These force Play Store search to return diverse app sets
+// Various search queries for play store to get variety of apps.
 const SEED_QUERIES = [
   ...'abcdefghijklmnopqrstuvwxyz'.split(''),
   ...'0123456789'.split(''),
@@ -59,12 +58,7 @@ const csvWriter = createObjectCsvWriter({
 // Set of install tier strings that mean < 1,000 installs
 const LOW_TIERS = new Set(['1+','5+','10+','50+','100+','500+']);
 
-
 // ----------- HELPER FUNCTIONS -----------
-
-
-
-
 
 // Remove spaces from install strings like " 500+ " → "500+"
 const normalizeInstalls = (s) => (s || '').replace(/\s/g, '');
@@ -72,10 +66,7 @@ const normalizeInstalls = (s) => (s || '').replace(/\s/g, '');
 // Check if an installs string is in the <1,000 tier set
 const isUnder1k = (s) => LOW_TIERS.has(normalizeInstalls(s));
 
-
-
-
-
+ 
 // Sleep function to pause execution (avoid hitting Google too fast)
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
