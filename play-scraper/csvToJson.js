@@ -89,5 +89,5 @@ function csvToJson(inputCsvPath, outputJsonPath) {
   });
 }
 
-// ----- Run -----
+
 csvToJson(INPUT_CSV, OUTPUT_JSON);

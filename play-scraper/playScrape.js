@@ -155,7 +155,7 @@ async function run() {
     await sleep(250); // Short pause to avoid hammering Google
   }
 
-  // 2) EXPAND via similar() from some seeds
+  // expand via similar() from some seeds
   const seedSlice = Array.from(candidates).slice(0, 200); // Only take first 60 seeds for expansion
   const simLimit = pLimit(CONCURRENCY);                  // Control parallel similar() calls
   const simTasks = seedSlice.map(id => simLimit(() => discoverSimilar(id)));
