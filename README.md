@@ -7,8 +7,57 @@ This repository contains a collection of **Node.js Scrapers** for collecting and
 The goal of this repository was to identify **mobile applications** or **open-source projects** that may be considered abandoned for the research of software sustainability and green software engineering. 
 
 "Abandoned" is operationalised as:
-- **Low adoption**: Google Play apps with fewer than 1,000 installs, or App Store apps with 20 or fewer reviews.
-- **Stale**: last updated before **1 July 2024**.
+- **Low adoption**: Google Play apps with fewer than 1,000 installs, or App Store apps with 20 or fewer reviews (Apple does not publish install counts, so reviews are a proxy).
+- **Stale**: not updated since **1 July 2024** (last update or, for GitHub, last push before that date).
+
+## Research summary
+**Sustainability as a Software Engineering Problem**, by Aryan Thanki. Submitted October 2025 for the Bachelor of Engineering with Honours (BE(Hons)) at the University of Waikato (ENGEN582-25X Honours Research and Development Project).
+
+The research treats software abandonment as a sustainability problem: apps and repositories that are never updated, reused or retired become a form of digital waste. It uses a **mixed-methods** approach:
+1. **Large-scale scraping** of the Google Play Store, Apple App Store and GitHub (the code in this repository) to measure how much low-adoption, outdated software exists.
+2. **An anonymous, ethics-approved survey** of software developers and engineers, mainly in New Zealand (17 responses over five weeks), on awareness and adoption of green software engineering.
+3. **An Insights Matrix** combining the scraping data, the survey and the literature review across six themes: awareness and knowledge, organisational adoption, measurement and tooling, policy and governance, value and motivation, and future interest and education.
+
+### Deliverables
+| Document | Description |
+|---|---|
+| [Dissertation](Dissertation.pdf) | Full honours report: background, methodology, implementation, results, discussion, conclusion. The literature review and ethics approval letter are appendices. |
+| [Research Article](Research%20Article.pdf) | Short paper on the scraping study of software abandonment across the three platforms. |
+| [Literature Review](Literature%20Review.pdf) | Review of sustainability in computing, green software engineering frameworks (e.g. GREENSOFT, Karlskrona Manifesto), the software development life cycle, large-scale project failures and barriers to industry adoption. |
+| [EDS Poster](EDS%20Poster.pdf) | One-page poster summarising the problem, approach, results and Insights Matrix. |
+
+### Key findings
+| Source | Initial sample | Met abandonment criteria |
+|---|---|---|
+| Google Play Store | 816 apps with < 1,000 installs | 76 (about 9%) not updated since July 2024 |
+| Apple App Store | 192 apps with < 20 reviews | 98 (about 51%) not updated since July 2024 |
+| GitHub | 25 hand-selected repositories | 25 (100%) with last push before July 2024 |
+
+- The GitHub repositories were not found by a script. They were chosen with GitHub search (last push before July 2024), then manually checked to be real software projects and not archived.
+- Survey: 76% of respondents were unfamiliar with green and sustainable software, 94% said their organisation has no person or team responsible for sustainability, and 76% had no tools to measure it. 76% said they would like to learn more.
+- The biggest barriers were lack of awareness and training, and difficulty measuring impact.
+- Conclusion: the main barriers are organisational and educational rather than technical. Measurable indicators, training and governance are needed to move sustainability from theory to practice.
+
+### Insights Matrix (summary)
+| Aspect | Synthesised insight |
+|---|---|
+| Awareness and knowledge | Persistent awareness gap; existing frameworks are not used in industry. |
+| Organisational adoption | No clear ownership; abandoned software reflects ecosystem neglect. |
+| Measurement and tooling | No sustainability metrics in platform data or in practice; only basic indicators such as installs, reviews and stars. |
+| Policy and governance | Platform policies (Google API levels, Apple SDK requirements) favour compliance and security over sustainability; GitHub has no governance of inactive repositories. |
+| Value and motivation | Short-term speed and delivery are valued over longevity. |
+| Future interest and education | Strong interest in training, so education is a promising route to change. |
+
+### How the code maps to the report
+| Folder | Report section |
+|---|---|
+| `play-scraper/` | Google Play Store scraping (methodology 3.2.1, implementation 4.2.1, results 5.1) |
+| `app-scraper/` | Apple App Store scraping (3.2.2, 4.2.2, 5.2) |
+| `github-scraper/` | GitHub repository metadata collection (3.2.3, 4.2.3, 5.3) |
+
+The scrapers use [google-play-scraper](https://github.com/facundoolano/google-play-scraper) and [app-store-scraper](https://github.com/facundoolano/app-store-scraper) (chosen over Puppeteer-only scraping and SerpAPI for scale, cost and rate limits) and the GitHub REST API. Puppeteer is used only as a fallback to read Play install counts.
+
+> **Data note:** the CSV and JSON files committed here may not exactly match the figures in the report. For example, `play-scraper/low_install_apps_before_july2024.json` has 72 records against 76 in the report, and the filtered App Store CSV has 97 rows against 98 in the dissertation (the research article's table says 96). These come from separate scraper runs.
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) 18 or newer and npm.
@@ -131,3 +180,6 @@ node analyse.js
 ## Notes
 - The scrapers are deliberately slow (sleeps, low concurrency, backoff) to be polite to the stores. A full run can take a long time.
 - The scrapers use unofficial APIs and page scraping, so they may break if the stores change their responses.
+
+## Acknowledgements
+Completed as part of the Bachelor of Engineering (Honours) programme at the University of Waikato. Thanks to [Facundo Olano](https://github.com/facundoolano) for the open-source google-play-scraper and app-store-scraper libraries.
