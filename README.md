@@ -1,4 +1,4 @@
-# Honours Project
+# Sustainability as a Software Engineering Honours Project
 This repository contains a collection of **Node.js Scrapers** for collecting and analysing metadata from three distinct sources. 
 - **Google Play Store** 
 - **Apple App Store**
