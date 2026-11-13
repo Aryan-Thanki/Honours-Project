@@ -182,4 +182,4 @@ node analyse.js
 - The scrapers use unofficial APIs and page scraping, so they may break if the stores change their responses.
 
 ## Acknowledgements
-Completed as part of the Bachelor of Engineering (Honours) programme at the University of Waikato. Thanks to [Facundo Olano](https://github.com/facundoolano) for the open-source google-play-scraper and app-store-scraper libraries.
+Completed as part of the Bachelor of Engineering (Honours) programme at the University of Waikato. 
