@@ -16,7 +16,7 @@ Four independent npm projects. There is no root `package.json`, no tests and no 
 README.md               intro + empty section headings
 app-scraper/            Apple App Store pipeline (ESM)
 play-scraper/           Google Play pipeline (ESM)
-GithubRepoAnalyser/     GitHub repo metadata fetcher
+github-scraper/         GitHub repo metadata fetcher
 ```
 
 ### app-scraper/
@@ -31,7 +31,7 @@ GithubRepoAnalyser/     GitHub repo metadata fetcher
 - `csvToJson.js` - streams CSV to JSON and coerces types (`score` number, `free`/`offersIAP` boolean, epoch-ms `updated` -> `YYYY-MM-DD`).
 - CSV columns: `appId,title,developer,genre,score,installs,free,offersIAP,updated,version,size,url`.
 
-### GithubRepoAnalyser/
+### github-scraper/
 - `analyse.js` - reads `urls.txt` (one GitHub URL per line), calls the GitHub REST API sequentially with `GITHUB_TOKEN` from `.env`, writes `github_data.json` (name, description, stars, forks, open_issues, watchers, size_kb, language, license, last_push, created_at, updated_at, topics, archived).
 
 ## Data flow
@@ -64,8 +64,8 @@ All outputs are written next to the scripts.
 
 - `app-scraper/package.json` `main`/`start` point to a non-existent `iosScrape.js`; use `node appScrape.js`.
 - `play-scraper` imports `p-limit` but does not declare it; run `npm i p-limit` if it fails.
-- `GithubRepoAnalyser/analyse.js` uses ESM `import` but its `package.json` lacks `"type": "module"`.
+- `github-scraper/analyse.js` uses ESM `import` but its `package.json` lacks `"type": "module"`.
 - `app-scraper/apple_apps.json` is stale output from an earlier scraper version (different schema, not low-review filtered).
 - `app-scraper` declares `puppeteer` but doesn't use it.
-- `GithubRepoAnalyser/.env` holds the GitHub token (see `.env.example`); it is gitignored. Never print or commit it.
+- `github-scraper/.env` holds the GitHub token (see `.env.example`); it is gitignored. Never print or commit it.
 - `README.md` sections (Google Play Store, App Store, GitHub) are still empty.
